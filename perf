@@ -93,30 +93,30 @@ if [[ $curr == 7 ]];then
 
 	if [[ $x == "ws" ]];then
 		if [[ $vms == 1 ]];then
-			./vm "echo 1 > /home/shubhamiit/workload/curr"
+			./vm "echo 0 > /home/shubhamiit/workload/curr"
 			./vm "echo ws > /home/shubhamiit/workload/workload"
                 	./vm "/home/shubhamiit/workload/change_file" >> logs
 		fi
 
 		if [[ $vms == 2 ]];then
-			./vmc1 "echo 1 > /home/shubhamiit/workload/curr"
+			./vmc1 "echo 0 > /home/shubhamiit/workload/curr"
 			./vmc1 "echo ws > /home/shubhamiit/workload/workload"
                 	./vmc1 "/home/shubhamiit/workload/change_file" >> logs
-			./vmc2 "echo 1 > /home/shubhamiit/workload/curr"
+			./vmc2 "echo 0 > /home/shubhamiit/workload/curr"
 			./vmc2 "echo ws > /home/shubhamiit/workload/workload"
                 	./vmc2 "/home/shubhamiit/workload/change_file" >> logs
 		fi
 		if [[ $vms == 4 ]];then
-			./vmc1 "echo 1 > /home/shubhamiit/workload/curr"
+			./vmc1 "echo 0 > /home/shubhamiit/workload/curr"
 			./vmc1 "echo ws > /home/shubhamiit/workload/workload"
                 	./vmc1 "/home/shubhamiit/workload/change_file" >> logs
-			./vmc2 "echo 1 > /home/shubhamiit/workload/curr"
+			./vmc2 "echo 0 > /home/shubhamiit/workload/curr"
 			./vmc2 "echo ws > /home/shubhamiit/workload/workload"
                 	./vmc2 "/home/shubhamiit/workload/change_file" >> logs
-			./vmc3 "echo 1 > /home/shubhamiit/workload/curr"
+			./vmc3 "echo 0 > /home/shubhamiit/workload/curr"
 			./vmc3 "echo ws > /home/shubhamiit/workload/workload"
                 	./vmc3 "/home/shubhamiit/workload/change_file" >> logs
-			./vmc4 "echo 1 > /home/shubhamiit/workload/curr"
+			./vmc4 "echo 0 > /home/shubhamiit/workload/curr"
 			./vmc4 "echo ws > /home/shubhamiit/workload/workload"
                 	./vmc4 "/home/shubhamiit/workload/change_file" >> logs
 		fi
@@ -160,30 +160,30 @@ if [[ $curr == 7 ]];then
 	if [[ $x == "fs" ]];then
 		
 		if [[ $vms == 1 ]];then
-			./vm "echo 1 > /home/shubhamiit/workload/curr"
+			./vm "echo 0 > /home/shubhamiit/workload/curr"
 			./vm "echo fs > /home/shubhamiit/workload/workload"
                 	./vm "/home/shubhamiit/workload/change_file" >> logs
 		fi
 
 		if [[ $vms == 2 ]];then
-			./vmc1 "echo 1 > /home/shubhamiit/workload/curr"
+			./vmc1 "echo 0 > /home/shubhamiit/workload/curr"
 			./vmc1 "echo fs > /home/shubhamiit/workload/workload"
                 	./vmc1 "/home/shubhamiit/workload/change_file" >> logs
-			./vmc2 "echo 1 > /home/shubhamiit/workload/curr"
+			./vmc2 "echo 0 > /home/shubhamiit/workload/curr"
 			./vmc2 "echo fs > /home/shubhamiit/workload/workload"
                 	./vmc2 "/home/shubhamiit/workload/change_file" >> logs
 		fi
 		if [[ $vms == 4 ]];then
-			./vmc1 "echo 1 > /home/shubhamiit/workload/curr"
+			./vmc1 "echo 0 > /home/shubhamiit/workload/curr"
 			./vmc1 "echo fs > /home/shubhamiit/workload/workload"
                 	./vmc1 "/home/shubhamiit/workload/change_file" >> logs
-			./vmc2 "echo 1 > /home/shubhamiit/workload/curr"
+			./vmc2 "echo 0 > /home/shubhamiit/workload/curr"
 			./vmc2 "echo fs > /home/shubhamiit/workload/workload"
                 	./vmc2 "/home/shubhamiit/workload/change_file" >> logs
-			./vmc3 "echo 1 > /home/shubhamiit/workload/curr"
+			./vmc3 "echo 0 > /home/shubhamiit/workload/curr"
 			./vmc3 "echo fs > /home/shubhamiit/workload/workload"
                 	./vmc3 "/home/shubhamiit/workload/change_file" >> logs
-			./vmc4 "echo 1 > /home/shubhamiit/workload/curr"
+			./vmc4 "echo 0 > /home/shubhamiit/workload/curr"
 			./vmc4 "echo fs > /home/shubhamiit/workload/workload"
                 	./vmc4 "/home/shubhamiit/workload/change_file" >> logs
 		fi
