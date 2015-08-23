@@ -1,0 +1,10 @@
+start
+
+
+
+Tue Jul 28 02:20:32 IST 2015
+Tue Jul 28 04:48:01 IST 2015
+
+  CLEAN   .
+  CLEAN   arch/x86/kernel/acpi/realmode
+  CLEAN   arch/x86/kernel/cpu

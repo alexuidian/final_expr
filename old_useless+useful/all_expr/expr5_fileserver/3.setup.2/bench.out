@@ -1,0 +1,37 @@
+start
+
+
+random seed: 808464433
+Filebench Version 1.4.9.1
+  455: 0.000: Allocated 170MB of shared memory
+  455: 0.016: Creating/pre-allocating files and filesets
+  455: 0.559: Fileset bigfileset: 2000 files, 0 leafdirs, avg dir width = 20, avg dir depth = 2.5, 488.581MB
+  455: 0.562: Removed any existing fileset bigfileset in 1 seconds
+  455: 0.562: making tree for filset /mnt/bigfileset
+  455: 0.563: Creating fileset bigfileset...
+  455: 14.232: Preallocated 1609 of 2000 of fileset bigfileset in 14 seconds
+  455: 14.232: waiting for fileset pre-allocation to finish
+  459: 14.232: Starting 1 filereader instances
+random seed: 808464433
+  460: 14.259: Starting 10 filereaderthread threads
+  455: 15.260: Running...
+  455: 615.385: Run took 600 seconds...
+  455: 617.962: Per-Operation Breakdown
+statfile1            11555ops       19ops/s   0.0mb/s      1.1ms/op      260us/op-cpu [0ms - 1535ms]
+deletefile1          11555ops       19ops/s   0.0mb/s     46.5ms/op     1572us/op-cpu [0ms - 2493ms]
+closefile3           11555ops       19ops/s   0.0mb/s      0.0ms/op      151us/op-cpu [0ms - 1ms]
+readfile1            11561ops       19ops/s   4.9mb/s    261.6ms/op    16231us/op-cpu [0ms - 7148ms]
+openfile2            11561ops       19ops/s   0.0mb/s      7.9ms/op      265us/op-cpu [0ms - 1941ms]
+closefile2           11561ops       19ops/s   0.0mb/s      0.0ms/op      127us/op-cpu [0ms - 2ms]
+appendfilerand1      11565ops       19ops/s   0.1mb/s    191.5ms/op    11263us/op-cpu [0ms - 3854ms]
+openfile1            11565ops       19ops/s   0.0mb/s      1.4ms/op      222us/op-cpu [0ms - 1728ms]
+closefile1           11565ops       19ops/s   0.0mb/s      0.0ms/op      188us/op-cpu [0ms - 0ms]
+wrtfile1             11565ops       19ops/s   4.8mb/s      1.7ms/op     1081us/op-cpu [0ms - 1258ms]
+createfile1          11565ops       19ops/s   0.0mb/s      4.1ms/op      408us/op-cpu [0ms - 1621ms]
+  455: 617.962: IO Summary: 127173 ops, 211.659 ops/s, (19/38 r/w),   9.8mb/s,   1238us cpu/op, 171.9ms latency
+  455: 617.962: Shutting down processes
+
+
+ENDDELIMETER
+
+

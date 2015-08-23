@@ -1,0 +1,1 @@
+(XEN) Command line: placeholder mem=2848M dom0_max_vcpus=2 dom0_vcpus_pin dom0_mem=2048M loglvl=all guest_loglvl=all

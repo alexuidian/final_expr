@@ -1,0 +1,62 @@
+start
+
+
+random seed: 808464433
+Filebench Version 1.4.9.1
+  446: 0.000: Allocated 170MB of shared memory
+  446: 0.022: Creating/pre-allocating files and filesets
+  446: 0.319: Fileset logfiles: 1 files, 0 leafdirs, avg dir width = 20, avg dir depth = 0.0, 0.020MB
+  446: 0.321: Removed any existing fileset logfiles in 1 seconds
+  446: 0.321: making tree for filset /mnt/logfiles
+  446: 0.321: Creating fileset logfiles...
+  446: 0.322: Preallocated 1 of 1 of fileset logfiles in 1 seconds
+  446: 0.327: Fileset bigfileset: 7500 files, 0 leafdirs, avg dir width = 20, avg dir depth = 3.0, 1152.624MB
+  446: 0.329: Removed any existing fileset bigfileset in 1 seconds
+  446: 0.329: making tree for filset /mnt/bigfileset
+  446: 0.334: Creating fileset bigfileset...
+  446: 56.100: Preallocated 7500 of 7500 of fileset bigfileset in 56 seconds
+  446: 56.307: waiting for fileset pre-allocation to finish
+  452: 57.011: Starting 1 filereader instances
+random seed: 808464433
+  453: 58.285: Starting 10 filereaderthread threads
+  446: 59.298: Running...
+  446: 1859.583: Run took 1800 seconds...
+  446: 1860.040: Per-Operation Breakdown
+appendlog            20211ops       11ops/s   0.1mb/s      1.1ms/op       73us/op-cpu [0ms - 1183ms]
+closefile10          20201ops       11ops/s   0.0mb/s      0.0ms/op       21us/op-cpu [0ms - 0ms]
+readfile10           20201ops       11ops/s   1.7mb/s     88.0ms/op     2671us/op-cpu [0ms - 2315ms]
+openfile10           20201ops       11ops/s   0.0mb/s      0.1ms/op       29us/op-cpu [0ms - 131ms]
+closefile9           20201ops       11ops/s   0.0mb/s      0.0ms/op       23us/op-cpu [0ms - 0ms]
+readfile9            20201ops       11ops/s   1.7mb/s     88.1ms/op     2609us/op-cpu [0ms - 2932ms]
+openfile9            20201ops       11ops/s   0.0mb/s      0.1ms/op       37us/op-cpu [0ms - 149ms]
+closefile8           20201ops       11ops/s   0.0mb/s      0.0ms/op       30us/op-cpu [0ms - 0ms]
+readfile8            20204ops       11ops/s   1.7mb/s     87.5ms/op     2612us/op-cpu [0ms - 2449ms]
+openfile8            20204ops       11ops/s   0.0mb/s      0.1ms/op       30us/op-cpu [0ms - 167ms]
+closefile7           20204ops       11ops/s   0.0mb/s      0.0ms/op       21us/op-cpu [0ms - 0ms]
+readfile7            20205ops       11ops/s   1.7mb/s     88.6ms/op     2664us/op-cpu [0ms - 2561ms]
+openfile7            20205ops       11ops/s   0.0mb/s      0.1ms/op       36us/op-cpu [0ms - 153ms]
+closefile6           20205ops       11ops/s   0.0mb/s      0.0ms/op       21us/op-cpu [0ms - 0ms]
+readfile6            20205ops       11ops/s   1.7mb/s     88.4ms/op     2675us/op-cpu [0ms - 2814ms]
+openfile6            20205ops       11ops/s   0.0mb/s      0.1ms/op       35us/op-cpu [0ms - 118ms]
+closefile5           20205ops       11ops/s   0.0mb/s      0.0ms/op       23us/op-cpu [0ms - 0ms]
+readfile5            20207ops       11ops/s   1.7mb/s     89.2ms/op     2705us/op-cpu [0ms - 2268ms]
+openfile5            20207ops       11ops/s   0.0mb/s      0.1ms/op       33us/op-cpu [0ms - 102ms]
+closefile4           20207ops       11ops/s   0.0mb/s      0.0ms/op       20us/op-cpu [0ms - 0ms]
+readfile4            20208ops       11ops/s   1.7mb/s     90.8ms/op     2685us/op-cpu [0ms - 3191ms]
+openfile4            20208ops       11ops/s   0.0mb/s      0.1ms/op       33us/op-cpu [0ms - 126ms]
+closefile3           20208ops       11ops/s   0.0mb/s      0.0ms/op       25us/op-cpu [0ms - 0ms]
+readfile3            20209ops       11ops/s   1.7mb/s     88.2ms/op     2637us/op-cpu [0ms - 2403ms]
+openfile3            20210ops       11ops/s   0.0mb/s      0.1ms/op       31us/op-cpu [0ms - 142ms]
+closefile2           20210ops       11ops/s   0.0mb/s      0.0ms/op       24us/op-cpu [0ms - 0ms]
+readfile2            20210ops       11ops/s   1.7mb/s     88.0ms/op     2638us/op-cpu [0ms - 2237ms]
+openfile2            20211ops       11ops/s   0.0mb/s      0.1ms/op       34us/op-cpu [0ms - 175ms]
+closefile1           20211ops       11ops/s   0.0mb/s      0.0ms/op       24us/op-cpu [0ms - 0ms]
+readfile1            20211ops       11ops/s   1.7mb/s     88.9ms/op     2622us/op-cpu [0ms - 2358ms]
+openfile1            20211ops       11ops/s   0.0mb/s      0.1ms/op       39us/op-cpu [0ms - 90ms]
+  446: 1860.040: IO Summary: 626388 ops, 347.879 ops/s, (112/11 r/w),  17.3mb/s,    179us cpu/op,  80.7ms latency
+  446: 1860.040: Shutting down processes
+
+
+ENDDELIMETER
+
+

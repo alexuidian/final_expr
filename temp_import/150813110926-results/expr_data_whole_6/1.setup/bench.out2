@@ -1,0 +1,28 @@
+start
+
+
+Thu Aug 13 07:33:39 IST 2015
+0
+3
+random seed: 808464433
+Filebench Version 1.4.9.1
+  463: 0.000: Allocated 170MB of shared memory
+  463: 0.013: Creating/pre-allocating files and filesets
+  463: 0.049: Fileset bigfileset: 5600 files, 0 leafdirs, avg dir width = 20, avg dir depth = 2.9, 1350.238MB
+  463: 0.083: Removed any existing fileset bigfileset in 1 seconds
+  463: 0.083: making tree for filset /mnt/bigfileset
+  463: 0.197: Creating fileset bigfileset...
+  463: 27.265: Preallocated 4467 of 5600 of fileset bigfileset in 28 seconds
+  463: 27.270: waiting for fileset pre-allocation to finish
+  467: 27.278: Starting 1 filereader instances
+random seed: 808464433
+  468: 27.474: Starting 10 filereaderthread threads
+  463: 28.499: Running...
+  463: 188.560: Run took 160 seconds...
+  463: 188.562: Shutting down processes
+Thu Aug 13 07:36:52 IST 2015
+
+
+ENDDELIMETER
+
+

@@ -1,0 +1,39 @@
+start
+
+
+0
+3
+random seed: 808464433
+Filebench Version 1.4.9.1
+  450: 0.000: Allocated 170MB of shared memory
+  450: 0.094: Creating/pre-allocating files and filesets
+  450: 4.950: Fileset bigfileset: 2800 files, 0 leafdirs, avg dir width = 20, avg dir depth = 2.6, 664.474MB
+  450: 6.396: Removed any existing fileset bigfileset in 2 seconds
+  450: 6.396: making tree for filset /mnt/bigfileset
+  450: 11.206: Creating fileset bigfileset...
+  450: 64.913: Preallocated 2244 of 2800 of fileset bigfileset in 54 seconds
+  450: 64.914: waiting for fileset pre-allocation to finish
+  454: 64.917: Starting 1 filereader instances
+random seed: 808464433
+  455: 68.202: Starting 10 filereaderthread threads
+  450: 69.213: Running...
+  450: 969.518: Run took 900 seconds...
+  450: 973.700: Per-Operation Breakdown
+statfile1            7201ops        8ops/s   0.0mb/s      4.6ms/op      106us/op-cpu [0ms - 2372ms]
+deletefile1          7205ops        8ops/s   0.0mb/s    163.7ms/op      541us/op-cpu [0ms - 3381ms]
+closefile3           7205ops        8ops/s   0.0mb/s      0.0ms/op       32us/op-cpu [0ms - 0ms]
+readfile1            7208ops        8ops/s   2.0mb/s    579.8ms/op     4281us/op-cpu [0ms - 5801ms]
+openfile2            7208ops        8ops/s   0.0mb/s     25.7ms/op      175us/op-cpu [0ms - 3010ms]
+closefile2           7208ops        8ops/s   0.0mb/s      0.0ms/op       17us/op-cpu [0ms - 0ms]
+appendfilerand1      7210ops        8ops/s   0.1mb/s    395.3ms/op     2498us/op-cpu [0ms - 4001ms]
+openfile1            7211ops        8ops/s   0.0mb/s      5.3ms/op       54us/op-cpu [0ms - 4082ms]
+closefile1           7211ops        8ops/s   0.0mb/s      0.0ms/op       37us/op-cpu [0ms - 0ms]
+wrtfile1             7211ops        8ops/s   1.9mb/s      0.8ms/op      189us/op-cpu [0ms - 1351ms]
+createfile1          7211ops        8ops/s   0.0mb/s     29.1ms/op      165us/op-cpu [0ms - 2672ms]
+  450: 973.700: IO Summary: 79289 ops, 87.819 ops/s, (8/16 r/w),   4.0mb/s,    272us cpu/op, 401.4ms latency
+  450: 973.700: Shutting down processes
+
+
+ENDDELIMETER
+
+

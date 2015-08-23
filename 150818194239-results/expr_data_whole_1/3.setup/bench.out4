@@ -1,0 +1,66 @@
+start
+
+
+Tue Aug 18 12:14:03 IST 2015
+0
+3
+random seed: 808464433
+Filebench Version 1.4.9.1
+  445: 0.049: Allocated 170MB of shared memory
+  445: 0.792: Creating/pre-allocating files and filesets
+  445: 2.663: Fileset logfiles: 1 files, 0 leafdirs, avg dir width = 20, avg dir depth = 0.0, 0.012MB
+  445: 2.671: Removed any existing fileset logfiles in 1 seconds
+  445: 2.671: making tree for filset /mnt/logfiles
+  445: 2.671: Creating fileset logfiles...
+  445: 2.671: Preallocated 1 of 1 of fileset logfiles in 1 seconds
+  445: 2.676: Fileset bigfileset: 7000 files, 0 leafdirs, avg dir width = 20, avg dir depth = 3.0, 671.939MB
+  445: 2.677: Removed any existing fileset bigfileset in 1 seconds
+  445: 2.677: making tree for filset /mnt/bigfileset
+  445: 2.682: Creating fileset bigfileset...
+  445: 92.941: Preallocated 7000 of 7000 of fileset bigfileset in 91 seconds
+  445: 92.942: waiting for fileset pre-allocation to finish
+  451: 93.144: Starting 1 filereader instances
+random seed: 808464433
+  452: 98.312: Starting 10 filereaderthread threads
+  445: 101.453: Running...
+  445: 1002.339: Run took 900 seconds...
+  445: 1002.344: Per-Operation Breakdown
+appendlog            8311ops        9ops/s   0.1mb/s      2.3ms/op      283us/op-cpu [0ms - 1437ms]
+closefile10          8301ops        9ops/s   0.0mb/s      0.0ms/op       77us/op-cpu [0ms - 3ms]
+readfile10           8301ops        9ops/s   0.9mb/s    108.0ms/op     5290us/op-cpu [0ms - 2512ms]
+openfile10           8303ops        9ops/s   0.0mb/s      0.6ms/op      164us/op-cpu [0ms - 1409ms]
+closefile9           8303ops        9ops/s   0.0mb/s      0.0ms/op       92us/op-cpu [0ms - 4ms]
+readfile9            8303ops        9ops/s   0.9mb/s    104.8ms/op     5308us/op-cpu [0ms - 2213ms]
+openfile9            8304ops        9ops/s   0.0mb/s      0.5ms/op      152us/op-cpu [0ms - 1426ms]
+closefile8           8304ops        9ops/s   0.0mb/s      0.0ms/op       92us/op-cpu [0ms - 0ms]
+readfile8            8304ops        9ops/s   0.9mb/s    112.1ms/op     5372us/op-cpu [0ms - 1956ms]
+openfile8            8306ops        9ops/s   0.0mb/s      0.4ms/op      161us/op-cpu [0ms - 303ms]
+closefile7           8306ops        9ops/s   0.0mb/s      0.0ms/op      114us/op-cpu [0ms - 0ms]
+readfile7            8306ops        9ops/s   0.9mb/s    108.9ms/op     5265us/op-cpu [0ms - 1803ms]
+openfile7            8306ops        9ops/s   0.0mb/s      0.7ms/op      128us/op-cpu [0ms - 1481ms]
+closefile6           8306ops        9ops/s   0.0mb/s      0.0ms/op       98us/op-cpu [0ms - 22ms]
+readfile6            8306ops        9ops/s   0.9mb/s    103.4ms/op     5065us/op-cpu [0ms - 1807ms]
+openfile6            8306ops        9ops/s   0.0mb/s      0.8ms/op      153us/op-cpu [0ms - 1480ms]
+closefile5           8306ops        9ops/s   0.0mb/s      0.0ms/op      106us/op-cpu [0ms - 2ms]
+readfile5            8306ops        9ops/s   0.9mb/s    100.7ms/op     5071us/op-cpu [0ms - 1849ms]
+openfile5            8307ops        9ops/s   0.0mb/s      0.9ms/op      119us/op-cpu [0ms - 1480ms]
+closefile4           8307ops        9ops/s   0.0mb/s      0.0ms/op       84us/op-cpu [0ms - 0ms]
+readfile4            8307ops        9ops/s   0.9mb/s    107.6ms/op     5299us/op-cpu [0ms - 1950ms]
+openfile4            8307ops        9ops/s   0.0mb/s      0.9ms/op      149us/op-cpu [0ms - 1426ms]
+closefile3           8307ops        9ops/s   0.0mb/s      0.0ms/op      111us/op-cpu [0ms - 24ms]
+readfile3            8307ops        9ops/s   0.9mb/s    105.0ms/op     5362us/op-cpu [0ms - 1805ms]
+openfile3            8308ops        9ops/s   0.0mb/s      0.9ms/op      143us/op-cpu [0ms - 1480ms]
+closefile2           8308ops        9ops/s   0.0mb/s      0.0ms/op       83us/op-cpu [0ms - 0ms]
+readfile2            8308ops        9ops/s   0.9mb/s    102.1ms/op     5071us/op-cpu [0ms - 1711ms]
+openfile2            8309ops        9ops/s   0.0mb/s      1.1ms/op      155us/op-cpu [0ms - 1481ms]
+closefile1           8309ops        9ops/s   0.0mb/s      0.0ms/op      108us/op-cpu [0ms - 8ms]
+readfile1            8309ops        9ops/s   0.9mb/s    109.6ms/op     5259us/op-cpu [0ms - 1775ms]
+openfile1            8311ops        9ops/s   0.0mb/s      1.9ms/op      165us/op-cpu [0ms - 1480ms]
+  445: 1002.348: IO Summary: 257492 ops, 286.003 ops/s, (92/9 r/w),   8.9mb/s,    633us cpu/op,  97.6ms latency
+  445: 1002.348: Shutting down processes
+Tue Aug 18 12:30:57 IST 2015
+
+
+ENDDELIMETER
+
+

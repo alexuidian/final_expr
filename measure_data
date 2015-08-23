@@ -1,0 +1,271 @@
+#!/bin/bash
+echo "'" | sudo echo hi
+date
+echo going for sleep 10
+sleep 10
+date
+echo came from sleep
+date
+echo system_is_nw_started_done
+date
+echo id is $1
+
+vms=`cat VMS`
+
+if [[ $vms == 1 ]];then
+	sudo xm create vm1
+fi
+
+if [[ $vms == 2 ]];then
+	sudo xm create vm1
+	sudo xm create vm2
+fi
+
+if [[ $vms == 4 ]];then
+	sudo xm create vm1
+	sudo xm create vm2
+	sudo xm create vm3
+	sudo xm create vm4
+		
+fi
+
+#sleep 120
+
+date
+echo going for sleep 70
+sleep 30
+date
+echo came from sleep
+
+
+echo "'" | sudo -S ./trace.sh &
+id=`echo $!`
+date
+echo $id
+
+offtime=0
+one=1
+while [[ $one == 1 ]]
+do
+    offtime=$(( $offtime + 1 ))
+    if [[ $offtime == 30 ]];then
+        offtime=0
+        sudo xm shutdown vm1
+        sudo xm shutdown vm2
+        sudo xm shutdown vm3
+        sudo xm shutdown vm4
+        sleep 10
+        sudo xm destroy vm1
+        sudo xm destroy vm2
+        sudo xm destroy vm3
+        sudo xm destroy vm4
+
+        if [[ $vms == 1 ]];then
+                sudo e2fsck -y /dev/vg_xen/vm1_disk
+            
+	    sudo xm create vm1
+        fi
+
+        if [[ $vms == 2 ]];then
+                sudo e2fsck -y /dev/vg_xen/vm1_disk
+                sudo e2fsck -y /dev/vg_xen/vm2_disk
+                
+        	sudo xm create vm1
+        	sudo xm create vm2
+        fi
+
+        if [[ $vms == 4 ]];then
+                sudo e2fsck -y /dev/vg_xen/vm1_disk
+                sudo e2fsck -y /dev/vg_xen/vm2_disk
+                sudo e2fsck -y /dev/vg_xen/vm3_disk
+                sudo e2fsck -y /dev/vg_xen/vm4_disk
+                
+        	sudo xm create vm1
+        	sudo xm create vm2
+        	sudo xm create vm3
+        	sudo xm create vm4
+        fi
+
+        sleep 40
+        
+
+    fi
+
+
+    sudo rm check_ok
+    date
+    if [[ $vms == 1 ]];then
+	./vm "echo hello;sleep 2;echo hello" > check_ok &
+    	idc=`echo $!`
+    	sleep 10
+    	kill $idc
+    	if [[ ! `cat check_ok` ]];then
+        	date
+       		echo "check_ok not found  bad found"
+       		continue
+    	else
+        	date
+        	echo "check ok , very good to start"
+        	break
+    	fi
+    fi
+
+    if [[ $vms == 2 ]];then
+	./vmc1 "echo hello;sleep 2;echo hello" > check_ok1 &
+    	idc1=`echo $!`
+	
+	./vmc2 "echo hello;sleep 2;echo hello" > check_ok2 &
+    	idc2=`echo $!`
+	
+	
+    	sleep 10
+    	kill $idc1
+	kill $idc2
+
+    	if [[ ! `cat check_ok1` ]];then
+        	date
+       		echo "check_ok not found  bad found"
+       		continue
+    	else
+        	date
+        	echo "check ok , very good to start1"
+
+		if [[ ! `cat check_ok2` ]];then
+			date
+			echo "check ok2 not found, bad to start"
+			continue
+		fi
+        	
+		echo "check ok , very good to start2"
+        	break
+    	fi
+    fi
+
+    if [[ $vms == 4 ]];then
+	./vmc1 "echo hello;sleep 2;echo hello" > check_ok1 &
+    	idc1=`echo $!`
+	
+	./vmc2 "echo hello;sleep 2;echo hello" > check_ok2 &
+    	idc2=`echo $!`
+	
+	./vmc3 "echo hello;sleep 2;echo hello" > check_ok3 &
+    	idc3=`echo $!`
+	
+	./vmc4 "echo hello;sleep 2;echo hello" > check_ok4 &
+    	idc4=`echo $!`
+	
+    #grep -P "\sro[\s,]" /proc/mounts
+    	sleep 10
+    	kill $idc1
+	kill $idc2
+	kill $idc3
+	kill $idc4
+
+    	if [[ `cat check_ok1` ]];then
+		if [[ `cat check_ok2` ]];then
+			if [[ `cat check_ok3` ]];then
+				if [[ `cat check_ok4` ]];then
+                                        echo "okay to start"
+					break
+				fi
+			fi
+		fi
+    	fi
+        echo "not okay"
+	continue
+    fi
+
+done
+
+
+#date
+#./vm "echo 0 > /proc/sys/kernel/randomization_va_space"
+#date
+#./vm "sudo rm -rf /mnt/*"
+#date
+#./vm "filebench -f /home/shubhamiit/workload/ws.f" > bench.out
+#date
+
+#./vm "filebench -f /home/shubhamiit/workload/ws.f" > bench.out
+#./vm "/home/shubhamiit/workload/writefile /home/shubhamiit/workload/file1 .6 r 1024 600 10007" > bench.out
+
+date
+echo "start mybench"
+if [[ $vms == 1 ]];then
+	./vm "/home/shubhamiit/workload/perf_mybench" > bench.out
+fi
+if [[ $vms == 2 ]];then
+
+	./vmc1 "/home/shubhamiit/workload/perf_mybench" > bench.out1  &
+        idvmc1=$! &
+        ./vmc2 "/home/shubhamiit/workload/perf_mybench" > bench.out2  &
+        idvmc2=$! &
+        wait $idvmc1 $idvmc2
+        
+#	./vmc1 "/home/shubhamiit/workload/perf_mybench" > bench.out1  & ./vmc2 "/home/shubhamiit/workload/perf_mybench" > bench.out2  && fg
+
+        echo "mybench finished"
+        
+fi
+
+if [[ $vms == 4 ]];then
+
+	./vmc1 "/home/shubhamiit/workload/perf_mybench" > bench.out1  &
+        idvmc1=$!
+        ./vmc2 "/home/shubhamiit/workload/perf_mybench" > bench.out2  &
+        idvmc2=$!
+	./vmc3 "/home/shubhamiit/workload/perf_mybench" > bench.out3  &
+        idvmc3=$!
+        ./vmc4 "/home/shubhamiit/workload/perf_mybench" > bench.out4  &
+        idvmc4=$!
+        wait $idvmc1 $idvmc2 $idvmc3 $idvmc4
+
+        echo "mybench finished"
+        
+fi
+
+date
+
+echo "'" | sudo -S kill $id
+#killall parse_tmem_stat
+echo "'" | sudo -S kill `ps -e | grep parse_tmem_stat | sed 's/[ ]*\(.*\)/\1/' | cut -d" " -f1`
+
+
+
+mkdir "$1".setup
+
+echo "'" | sudo -S xm dmesg | grep "Command line" > boot_line
+echo "'" | sudo -S xm tmem-list -al > stats_tmem
+echo "'" | sudo -S xm info > stats_xen
+echo "'" | sudo -S xl tmem-list -ag > stats_list_get
+echo "'" | sudo -S xl tmem-list -ap > stats_list_put
+echo "'" | sudo -S xl tmem-list -af > stats_list_fget
+echo "'" | sudo -S xl tmem-list -aq > stats_list_fput
+echo "'" | sudo -S xl tmem-list -ac > stats_list_comp
+echo "'" | sudo -S xl tmem-list -ad > stats_list_dedup
+echo "'" | sudo -S xl tmem-list -ae > stats_list_fdedup
+echo "'" | sudo -S xl tmem-list -au > stats_list_decom
+
+mv stats* "$1".setup/
+mv bench.out* "$1".setup/
+mv boot_line "$1".setup/
+date
+echo going for reboot
+
+sudo xm shutdown vm1
+sudo xm shutdown vm2
+sudo xm shutdown vm3
+sudo xm shutdown vm4
+sleep 10
+sudo xm destroy vm1
+sudo xm destroy vm2
+sudo xm destroy vm3
+sudo xm destroy vm4
+
+sudo xm list >> logs
+
+echo vm destroyed >> logs
+
+exit 0
+
+

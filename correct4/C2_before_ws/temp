@@ -1,0 +1,1848 @@
+start
+
+
+Thu Aug  6 08:56:20 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 350000000
+file2600 seconds
+Read Mode 
+filesize: 350000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.4751 11.0127 10.9848 6827 514 3510000 342 6485 6827
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+9.17221 10.1465 10.0887 6304 542 3420000 342 5962 6304
+#Done
+Thu Aug  6 09:07:00 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 08:56:19 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 350000000
+file1600 seconds
+Read Mode 
+filesize: 350000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+22.7893 15.8429 16.016 9655 508 4910000 342 9313 9655
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+22.9077 15.8118 15.9878 9638 513 4950000 342 9296 9638
+#Done
+#Done
+Thu Aug  6 09:06:51 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 09:19:23 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 350000000
+file1600 seconds
+Read Mode 
+filesize: 350000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+13.2238 1317.32 1262.27 772875 331 256420000 342 772533 772875
+#Done
+Thu Aug  6 09:29:51 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.6505 19.1648 18.7231 11575 2052 23760000 342 11233 11575
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 09:19:23 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 350000000
+file2600 seconds
+Read Mode 
+filesize: 350000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+23.4473 -2686.45 4357.1 2619008 217 569090000 342 2618666 2619008
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.7025 18.908 18.4844 11426 1482 16940000 342 11084 11426
+#Done
+Thu Aug  6 09:29:57 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 09:34:57 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 350000000
+file2600 seconds
+Read Mode 
+filesize: 350000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+12.4734 1172.71 1120.93 688144 444 305660000 342 687802 688144
+#Done
+Thu Aug  6 09:45:27 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+11.4902 13.2932 13.2064 8133 9158 74490000 342 7791 8133
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 09:34:57 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 350000000
+file2600 seconds
+Read Mode 
+filesize: 350000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+26.7109 3305.37 3235.4 1939941 256 497410000 342 1939599 1939941
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.2456 14.9531 14.6998 9105 7569 68920000 342 8763 9105
+#Done
+Thu Aug  6 09:45:33 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 09:50:30 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 350000000
+file1600 seconds
+Read Mode 
+filesize: 350000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+12.7724 1224.23 1171.35 718079 343 246550000 342 717737 718079
+#Done
+Thu Aug  6 10:00:59 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+9.61342 28.451 27.3738 17014 1866 31750000 342 16672 17014
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 09:50:29 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 350000000
+file2600 seconds
+Read Mode 
+filesize: 350000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+22.7414 -2765.07 4275.95 2572609 216 558200000 342 2572267 2572609
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+16.9031 18.866 18.8008 11399 2107 24020000 342 11057 11399
+#Done
+Thu Aug  6 10:00:51 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 10:06:04 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 350000000
+file2600 seconds
+Read Mode 
+filesize: 350000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.9347 1310.31 1244.59 769144 327 252240000 342 768802 769144
+#Done
+Thu Aug  6 10:16:40 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+9.25093 18.9122 18.3395 11426 1980 22630000 342 11084 11426
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 10:06:04 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 350000000
+file1600 seconds
+Read Mode 
+filesize: 350000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+17.5664 -2628.17 4375.51 2652529 214 568700000 342 2652187 2652529
+#Done
+Thu Aug  6 10:16:27 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+12.3675 18.7903 18.5015 11357 1480 16810000 342 11015 11357
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 10:21:40 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 350000000
+file2600 seconds
+Read Mode 
+filesize: 350000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+13.099 794.777 761.48 466448 617 287850000 342 466106 466448
+#Done
+Thu Aug  6 10:32:10 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.249 23.6051 22.8863 14175 8215 116450000 342 13833 14175
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 10:21:40 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 350000000
+file1600 seconds
+Read Mode 
+filesize: 350000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+18.929 823.447 799.414 483198 547 264480000 342 482856 483198
+#Done
+Thu Aug  6 10:32:01 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+9.77933 41.2576 39.4861 24519 4675 114640000 342 24177 24519
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 10:37:14 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 350000000
+file1600 seconds
+Read Mode 
+filesize: 350000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+11.779 377.379 360.146 221698 439 97330000 342 221356 221698
+#Done
+Thu Aug  6 10:47:45 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.1691 856.479 810.57 502222 369 185690000 342 501880 502222
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 10:37:14 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 350000000
+file1600 seconds
+Read Mode 
+filesize: 350000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+19.7106 -2962.18 4057.13 2454176 224 551230000 342 2453834 2454176
+#Done
+Thu Aug  6 10:47:35 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+11.4823 24.8934 24.2455 14932 2126 31760000 342 14590 14932
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 11:10:21 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 400000000
+file1600 seconds
+Read Mode 
+filesize: 400000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.7291 10.1942 10.226 6374 506 3230000 391 5983 6374
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.5672 9.61375 9.6709 6028 509 3070000 391 5637 6028
+#Done
+#Done
+Thu Aug  6 11:21:00 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 11:10:21 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 400000000
+file1600 seconds
+Read Mode 
+filesize: 400000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+24.3957 14.7788 15.0335 9110 489 4460000 391 8719 9110
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+19.986 14.89 15.055 9126 489 4470000 391 8735 9126
+#Done
+Thu Aug  6 11:20:45 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 11:25:50 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 400000000
+file1600 seconds
+Read Mode 
+filesize: 400000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.2987 16.456 16.0837 10075 1358 13690000 391 9684 10075
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+6.12779 16.2014 15.2144 9893 1390 13760000 391 9502 9893
+#Done
+Thu Aug  6 11:36:57 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 11:25:51 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 400000000
+file1600 seconds
+Read Mode 
+filesize: 400000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+8.90728 19.3631 18.6373 11764 1460 17180000 391 11373 11764
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+6.4542 20.6954 19.3631 12522 1424 17840000 391 12131 12522
+#Done
+Thu Aug  6 11:36:54 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 21:42:57 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 400000000
+file1600 seconds
+Read Mode 
+filesize: 400000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+11.1276 17.0807 16.7452 10411 1334 13890000 391 10020 10411
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+9.973 16.9083 16.4745 10302 1361 14030000 391 9911 10302
+#Done
+Thu Aug  6 21:53:38 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 21:42:57 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 400000000
+file2600 seconds
+Read Mode 
+filesize: 400000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+17.391 19.2441 19.1764 11688 1431 16730000 391 11297 11688
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+17.3919 19.089 19.0271 11597 1426 16540000 391 11206 11597
+#Done
+#Done
+Thu Aug  6 21:53:27 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 21:58:29 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 400000000
+file2600 seconds
+Read Mode 
+filesize: 400000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+13.4513 1147.3 1093.82 673359 377 254150000 391 672968 673359
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+8.96731 1.82732 2.32187 1462 3590 5250000 391 1071 1462
+#Done
+Thu Aug  6 22:09:15 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 21:58:29 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 400000000
+file2600 seconds
+Read Mode 
+filesize: 400000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+28.1497 2001.04 1955.56 1177246 332 390940000 391 1176855 1177246
+#Done
+Thu Aug  6 22:08:48 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+2.02637 660.95 497.849 387717 267 103610000 391 387326 387717
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 22:16:45 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 400000000
+file2600 seconds
+Read Mode 
+filesize: 400000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+9.58788 14.1876 13.8895 8714 1243 10840000 391 8323 8714
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+9.36082 15.1971 14.8097 9298 1217 11320000 391 8907 9298
+#Done
+Thu Aug  6 22:27:30 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 22:16:45 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 400000000
+file2600 seconds
+Read Mode 
+filesize: 400000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+18.6486 21.2476 21.1591 12929 1218 15750000 391 12538 12929
+#Done
+Thu Aug  6 22:27:16 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+11.501 22.1053 21.5259 13368 1204 16100000 391 12977 13368
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 22:32:22 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 400000000
+file2600 seconds
+Read Mode 
+filesize: 400000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+13.5518 11.6826 11.7707 7249 4298 31160000 391 6858 7249
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+11.9151 477.007 452.403 280358 891 249960000 391 279967 280358
+#Done
+Thu Aug  6 22:42:59 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 22:32:22 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 400000000
+file1600 seconds
+Read Mode 
+filesize: 400000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+21.7869 525.838 510.891 308869 893 275960000 391 308478 308869
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+3.96516 88.8453 76.6318 52463 1325 69540000 391 52072 52463
+#Done
+Thu Aug  6 22:44:04 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 22:48:54 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 400000000
+file1600 seconds
+Read Mode 
+filesize: 400000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+12.1743 5.19348 5.5555 3443 2201 7580000 391 3052 3443
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+9.73307 1049.16 982.55 615369 360 221620000 391 614978 615369
+#Done
+Thu Aug  6 22:59:37 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 22:48:54 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 400000000
+file2600 seconds
+Read Mode 
+filesize: 400000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+20.2278 928.94 899.968 545104 336 183330000 391 544713 545104
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+12.2533 565.755 537.223 332236 350 116400000 391 331845 332236
+#Done
+Thu Aug  6 22:59:29 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 23:24:13 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 450000000
+file1600 seconds
+Read Mode 
+filesize: 450000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+12.019 9.57967 9.72356 6064 534 3240000 440 5624 6064
+#Done
+Thu Aug  6 23:34:54 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+7.92232 10.2461 10.0461 6446 529 3410000 440 6006 6446
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 23:24:13 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 450000000
+file2600 seconds
+Read Mode 
+filesize: 450000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+20.2482 13.4463 13.6892 8349 541 4520000 440 7909 8349
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+20.2486 13.4701 13.7122 8363 536 4490000 440 7923 8363
+#Done
+#Done
+Thu Aug  6 23:34:48 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 23:40:03 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 450000000
+file2600 seconds
+Read Mode 
+filesize: 450000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+6.14704 14.512 13.6036 8947 1410 12620000 440 8507 8947
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+8.36752 12.8932 12.5247 8059 1434 11560000 440 7619 8059
+#Done
+#Done
+Thu Aug  6 23:51:19 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Thu Aug  6 23:40:03 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 450000000
+file1600 seconds
+Read Mode 
+filesize: 450000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+12.3299 15.668 15.479 9699 1451 14080000 440 9259 9699
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+6.0781 16.1647 15.0583 9918 1417 14060000 440 9478 9918
+#Done
+Thu Aug  6 23:51:19 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 01:37:31 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 450000000
+file1600 seconds
+Read Mode 
+filesize: 450000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.1055 13.9873 13.7202 8645 1370 11850000 440 8205 8645
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+9.91265 12.9569 12.7437 8032 1388 11150000 440 7592 8032
+#Done
+Fri Aug  7 01:48:17 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 01:37:31 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 450000000
+file2600 seconds
+Read Mode 
+filesize: 450000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+18.5816 15.3496 15.4751 9490 1441 13680000 440 9050 9490
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+17.4846 15.3321 15.4212 9457 1450 13720000 440 9017 9457
+#Done
+#Done
+Fri Aug  7 01:48:02 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 01:53:08 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 450000000
+file1600 seconds
+Read Mode 
+filesize: 450000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+12.4026 15.2714 15.1088 9397 1384 13010000 440 8957 9397
+#Done
+Fri Aug  7 02:03:47 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+11.0511 13.9159 13.7348 8599 1446 12440000 440 8159 8599
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 01:53:08 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 450000000
+file2600 seconds
+Read Mode 
+filesize: 450000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+26.2597 18.179 18.4035 11133 1304 14520000 440 10693 11133
+#Done
+Fri Aug  7 02:03:31 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+5.49582 114.05 101.016 67272 467 31430000 440 66832 67272
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 02:09:22 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 450000000
+file1600 seconds
+Read Mode 
+filesize: 450000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.0722 11.5797 11.4762 7232 1309 9470000 440 6792 7232
+#Done
+Fri Aug  7 02:20:09 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+8.09245 17.2208 16.4476 10533 1052 11090000 440 10093 10533
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 02:09:22 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 450000000
+file2600 seconds
+Read Mode 
+filesize: 450000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+15.612 17.2106 17.1386 10587 1277 13520000 440 10147 10587
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+12.7547 17.297 17.0457 10578 1278 13520000 440 10138 10578
+#Done
+Fri Aug  7 02:20:01 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 02:25:16 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 450000000
+file2600 seconds
+Read Mode 
+filesize: 450000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+12.7256 13.8962 13.832 8593 1410 12120000 440 8153 8593
+#Done
+Fri Aug  7 02:35:55 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+9.31999 15.4723 15.0151 9508 1457 13860000 440 9068 9508
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 02:25:16 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 450000000
+file1600 seconds
+Read Mode 
+filesize: 450000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+17.8504 16.4068 16.4658 10075 1569 15810000 440 9635 10075
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+14.6222 16.3013 16.2203 9996 1580 15800000 440 9556 9996
+#Done
+Fri Aug  7 02:35:48 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 02:41:03 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 450000000
+file2600 seconds
+Read Mode 
+filesize: 450000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+9.85447 13.966 13.6765 8635 1378 11900000 440 8195 8635
+#Done
+Fri Aug  7 02:51:52 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+8.08008 15.2003 14.5966 9349 1330 12440000 440 8909 9349
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 02:41:03 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 450000000
+file1600 seconds
+Read Mode 
+filesize: 450000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+24.712 17.648 17.8562 10820 1404 15200000 440 10380 10820
+#Done
+Fri Aug  7 02:51:31 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+14.4805 17.4046 17.2621 10684 1420 15180000 440 10244 10684
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 03:19:42 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 500000000
+file1600 seconds
+Read Mode 
+filesize: 500000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.5454 8.60602 8.74899 5539 541 3000000 489 5050 5539
+#Done
+Fri Aug  7 03:30:32 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+8.94953 7.68448 7.79333 4993 568 2840000 489 4504 4993
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 03:19:42 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 500000000
+file1600 seconds
+Read Mode 
+filesize: 500000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+20.2861 15.0717 15.2783 9335 525 4910000 489 8846 9335
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+20.2873 15.1378 15.3418 9374 531 4980000 489 8885 9374
+#Done
+Fri Aug  7 03:30:12 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 03:35:32 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 500000000
+file1600 seconds
+Read Mode 
+filesize: 500000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+6.97889 11.4281 10.9553 7196 1434 10320000 489 6707 7196
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+5.85952 14.3611 13.3041 8908 1394 12420000 489 8419 8908
+#Done
+Fri Aug  7 03:46:59 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 03:35:32 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 500000000
+file2600 seconds
+Read Mode 
+filesize: 500000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+11.7565 15.4891 15.2446 9624 1565 15070000 489 9135 9624
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+7.46044 15.1487 14.38 9399 1576 14820000 489 8910 9399
+#Done
+Fri Aug  7 03:46:46 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 14:12:36 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 500000000
+file1600 seconds
+Read Mode 
+filesize: 500000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.2784 11.2397 11.1689 7086 1391 9860000 489 6597 7086
+#Done
+Fri Aug  7 14:23:27 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+8.88684 9.73646 9.66477 6196 1410 8740000 489 5707 6196
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 14:12:36 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 500000000
+file2600 seconds
+Read Mode 
+filesize: 500000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+19.151 14.3881 14.5873 8945 1556 13920000 489 8456 8945
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+19.1528 14.3132 14.5156 8901 1560 13890000 489 8412 8901
+#Done
+#Done
+Fri Aug  7 14:23:10 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 14:28:28 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 500000000
+file1600 seconds
+Read Mode 
+filesize: 500000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+7.68488 11.5164 11.1431 7245 1392 10090000 489 6756 7245
+#Done
+Fri Aug  7 14:39:35 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+7.32408 9.6031 9.37143 6117 1500 9180000 489 5628 6117
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 14:28:28 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 500000000
+file2600 seconds
+Read Mode 
+filesize: 500000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+23.3625 18.3781 18.5494 11353 1491 16930000 489 10864 11353
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+16.1577 18.1603 18.0636 11169 1477 16500000 489 10680 11169
+#Done
+Fri Aug  7 14:39:05 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 14:44:39 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 500000000
+file2600 seconds
+Read Mode 
+filesize: 500000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+8.15844 11.191 10.9114 7055 1302 9190000 489 6566 7055
+#Done
+Fri Aug  7 14:55:44 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+7.30806 9.50982 9.28562 6063 1403 8510000 489 5574 6063
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 14:44:39 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 500000000
+file1600 seconds
+Read Mode 
+filesize: 500000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+18.0231 18.5273 18.5062 11390 1326 15110000 489 10901 11390
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+14.5502 18.3903 18.1842 11308 1338 15140000 489 10819 11308
+#Done
+Fri Aug  7 14:55:19 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 15:00:47 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 500000000
+file2600 seconds
+Read Mode 
+filesize: 500000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+9.30274 12.918 12.6223 8067 1442 11640000 489 7578 8067
+#Done
+Fri Aug  7 15:11:43 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+8.54541 10.8615 10.6569 6855 1541 10570000 489 6366 6855
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 15:00:47 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 500000000
+file1600 seconds
+Read Mode 
+filesize: 500000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+21.16 16.1461 16.3359 10020 1692 16960000 489 9531 10020
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+16.2171 15.8573 15.876 9793 1718 16830000 489 9304 9793
+#Done
+Fri Aug  7 15:11:22 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 15:16:47 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 500000000
+file1600 seconds
+Read Mode 
+filesize: 500000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+7.2333 11.874 11.3961 7454 1383 10310000 489 6965 7454
+#Done
+Fri Aug  7 15:27:58 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+6.43113 10.4863 10.0223 6635 1449 9620000 489 6146 6635
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 15:16:47 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 500000000
+file1600 seconds
+Read Mode 
+filesize: 500000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+23.0567 18.7605 18.9099 11601 1453 16860000 489 11112 11601
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+19.0342 17.5934 17.6548 10831 1497 16220000 489 10342 10831
+#Done
+Fri Aug  7 15:27:23 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 16:00:38 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 600000000
+file2600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.4795 9.81419 9.87216 6345 568 3610000 586 5759 6345
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+7.59623 10.2823 9.9701 6614 571 3780000 586 6028 6614
+#Done
+Fri Aug  7 16:11:58 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 16:00:38 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 600000000
+file1600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+24.6683 12.413 12.8885 7893 554 4380000 586 7307 7893
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+23.814 12.2116 12.6779 7764 547 4250000 586 7178 7764
+#Done
+#Done
+Fri Aug  7 16:11:13 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 16:16:45 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 600000000
+file1600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+8.80215 11.6031 11.3185 7414 1520 11270000 586 6828 7414
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+5.5686 15.0028 13.5671 9380 1625 15250000 586 8794 9380
+#Done
+Fri Aug  7 16:28:35 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 16:16:45 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 600000000
+file1600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+11.1745 12.3008 12.2092 7864 1664 13090000 586 7278 7864
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+6.97962 12.8881 12.1481 8142 1626 13240000 586 7556 8142
+#Done
+Fri Aug  7 16:28:13 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 16:39:13 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 600000000
+file1600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+11.103 11.9551 11.8849 7599 1435 10910000 586 7013 7599
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+8.78826 12.176 11.8301 7723 1508 11650000 586 7137 7723
+#Done
+Fri Aug  7 16:50:22 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 16:39:13 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 600000000
+file1600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+22.3719 12.4164 12.8374 7953 1557 12390000 586 7367 7953
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+19.8722 12.2163 12.5808 7794 1557 12140000 586 7208 7794
+#Done
+Fri Aug  7 16:49:55 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 16:55:17 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 600000000
+file1600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+9.77815 10.6254 10.547 6821 1467 10010000 586 6235 6821
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+7.01667 24.0675 21.9414 14693 980 14410000 586 14107 14693
+#Done
+Fri Aug  7 17:06:44 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 16:55:17 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 600000000
+file1600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+23.3723 13.0751 13.4953 8292 1524 12640000 586 7706 8292
+#Done
+Fri Aug  7 17:05:52 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+17.2025 13.491 13.6945 8512 1519 12930000 586 7926 8512
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 17:11:41 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 600000000
+file2600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+9.54966 10.0027 9.95989 6458 1418 9160000 586 5872 6458
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+8.16877 10.3948 10.1522 6679 1410 9420000 586 6093 6679
+#Done
+Fri Aug  7 17:22:55 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 17:11:41 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 600000000
+file1600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+13.2712 13.6446 13.6187 8609 1391 11980000 586 8023 8609
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+12.169 13.5645 13.4587 8541 1399 11950000 586 7955 8541
+#Done
+Fri Aug  7 17:22:35 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 17:27:54 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 600000000
+file2600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.1778 11.9436 11.7859 7591 1588 12060000 586 7005 7591
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+8.60979 11.7796 11.4499 7490 1618 12120000 586 6904 7490
+#Done
+Fri Aug  7 17:39:05 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 17:27:54 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 600000000
+file1600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+21.6602 12.2076 12.6237 7760 1685 13080000 586 7174 7760
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+18.9017 12.7551 13.0635 8072 1687 13620000 586 7486 8072
+#Done
+Fri Aug  7 17:38:31 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 17:44:01 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 600000000
+file1600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+9.19793 11.3521 11.1413 7250 1475 10700000 586 6664 7250
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+9.05878 10.2353 10.1184 6585 1517 9990000 586 5999 6585
+#Done
+#Done
+Fri Aug  7 17:55:09 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 17:44:01 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 600000000
+file1600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+22.6126 13.2849 13.6786 8399 1484 12470000 586 7813 8399
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+19.3823 13.5844 13.8686 8558 1493 12780000 586 7972 8558
+#Done
+Fri Aug  7 17:54:37 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 18:04:35 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 600000000
+file2600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.426 9.95832 9.99921 6444 569 3670000 586 5858 6444
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+8.29697 9.69354 9.54347 6268 577 3620000 586 5682 6268
+#Done
+Fri Aug  7 18:15:49 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 18:04:35 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 600000000
+file1600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+23.8576 12.3907 12.8499 7883 559 4410000 586 7297 7883
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+21.7652 12.0875 12.5123 7676 565 4340000 586 7090 7676
+#Done
+#Done
+Fri Aug  7 18:15:15 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 18:20:38 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 600000000
+file2600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.3282 12.2522 12.0827 7775 1530 11900000 586 7189 7775
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+9.28879 11.2718 11.0792 7193 1676 12060000 586 6607 7193
+#Done
+Fri Aug  7 18:31:44 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 18:20:39 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 600000000
+file2600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+22.1778 12.5613 12.9732 8004 1634 13080000 586 7418 8004
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+19.1279 12.3887 12.7226 7869 1659 13060000 586 7283 7869
+#Done
+Fri Aug  7 18:31:17 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 23:53:13 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 600000000
+file2600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+11.2706 11.3143 11.3109 7225 1280 9250000 586 6639 7225
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.2186 10.8032 10.7512 6919 1307 9050000 586 6333 6919
+#Done
+Sat Aug  8 00:04:16 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Fri Aug  7 23:53:13 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 600000000
+file2600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+22.2931 10.8812 11.3678 7008 2321 16270000 586 6422 7008
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+21.4634 11.3514 11.7993 7274 2262 16460000 586 6688 7274
+#Done
+#Done
+Sat Aug  8 00:03:50 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Sat Aug  8 00:09:08 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 600000000
+file1600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+9.4274 10.5375 10.4313 6771 1460 9890000 586 6185 6771
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+7.31765 14.6475 13.7667 9172 1295 11880000 586 8586 9172
+#Done
+Sat Aug  8 00:20:31 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Sat Aug  8 00:09:08 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 600000000
+file2600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+19.6092 13.6051 13.8955 8587 1506 12940000 586 8001 8587
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+18.8908 13.3742 13.6512 8436 1512 12760000 586 7850 8436
+#Done
+#Done
+Sat Aug  8 00:19:48 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Sat Aug  8 00:25:20 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 600000000
+file2600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+8.6545 10.676 10.467 6851 1404 9620000 586 6265 6851
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+7.72993 10.5351 10.214 6761 1421 9610000 586 6175 6761
+#Done
+Sat Aug  8 00:36:39 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Sat Aug  8 00:25:20 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 600000000
+file1600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+15.1354 13.7026 13.791 8656 1392 12050000 586 8070 8656
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+15.356 13.6976 13.7985 8659 1383 11980000 586 8073 8659
+#Done
+#Done
+Sat Aug  8 00:36:08 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Sat Aug  8 00:41:30 IST 2015
+file1600 seconds
+Read Mode 
+filesize: 600000000
+file2600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+11.7567 12.0768 12.0519 7674 1562 11990000 586 7088 7674
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.0771 11.6086 11.4705 7390 1577 11660000 586 6804 7390
+#Done
+Sat Aug  8 00:52:33 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Sat Aug  8 00:41:30 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 600000000
+file1600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+26.2997 12.3955 12.9027 7882 1627 12830000 586 7296 7882
+#Done
+Sat Aug  8 00:52:01 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+17.5511 12.1813 12.4703 7740 1611 12470000 586 7154 7740
+#Done
+
+
+ENDDELIMETER
+
+
+start
+
+
+Sat Aug  8 00:57:29 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 600000000
+file1600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.1076 10.7199 10.6649 6877 1467 10090000 586 6291 6877
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+7.49242 16.007 15.0047 9968 1248 12450000 586 9382 9968
+#Done
+Sat Aug  8 01:08:50 IST 2015
+
+
+ENDDELIMETER
+
+
+start
+
+
+Sat Aug  8 00:57:29 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 600000000
+file1600 seconds
+Read Mode 
+filesize: 600000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+24.2469 13.4899 13.9132 8545 1523 13020000 586 7959 8545
+#Done
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+17.4678 13.5088 13.7227 8525 1481 12630000 586 7939 8525
+#Done
+Sat Aug  8 01:08:12 IST 2015
+
+
+ENDDELIMETER
+
+

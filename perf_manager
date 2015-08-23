@@ -1,0 +1,23 @@
+#! /bin/bash
+
+cd /home/shubhamiit/final_expr
+
+curr=`cat current_count`
+
+if [[ $curr == 9 ]];then
+
+    echo finish
+    echo 0 > current_count
+
+else
+    
+    ./measure_data
+
+    echo $curr
+    curr=$((curr + 1))
+    echo $curr > current_count
+    
+    echo "'" | sudo -S grub-reboot $curr
+
+fi
+

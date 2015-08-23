@@ -1,0 +1,5 @@
+#type:G;
+#time  Rt  Nm  Tt  Nc  Rx  Gz  Pc  Pf  Ra  Te  Pm  Fp  Fc  Ta  Fm  Om  Lm  Oc  Sm  Sc  Em  Af  Ea  Cf  Ec  Gd  Zt  Et  Ep  dedup_put_diff  total_eph_put_diff  dedup_factor  dedup_curr  compression_saving  tze_saving  
+1439264790  0  0  44  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 0 0 0 
+1439264800  0  0  53  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 0 0 0 
+1439264810  0  431  22281  297  0  0  4873  0  0  450  6696  0  27  841  31  453  0  150  0  0  6696  15  0  0  4873  0  0  0  10199  0  10199  0.0  100.0  0 0 

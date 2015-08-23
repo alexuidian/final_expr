@@ -1,0 +1,22 @@
+start
+
+
+Fri Aug  7 03:19:42 IST 2015
+file2600 seconds
+Read Mode 
+filesize: 500000000
+file1600 seconds
+Read Mode 
+filesize: 500000000
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+10.5454 8.60602 8.74899 5539 541 3000000 489 5050 5539
+#Done
+Fri Aug  7 03:30:32 IST 2015
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+8.94953 7.68448 7.79333 4993 568 2840000 489 4504 4993
+#Done
+
+
+ENDDELIMETER
+
+

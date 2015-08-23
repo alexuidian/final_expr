@@ -1,0 +1,37 @@
+start
+
+
+random seed: 808464433
+Filebench Version 1.4.9.1
+  446: 0.000: Allocated 170MB of shared memory
+  446: 0.012: Creating/pre-allocating files and filesets
+  446: 0.276: Fileset bigfileset: 2000 files, 0 leafdirs, avg dir width = 20, avg dir depth = 2.5, 488.581MB
+  446: 0.285: Removed any existing fileset bigfileset in 1 seconds
+  446: 0.285: making tree for filset /mnt/bigfileset
+  446: 0.291: Creating fileset bigfileset...
+  446: 13.407: Preallocated 1609 of 2000 of fileset bigfileset in 14 seconds
+  446: 13.407: waiting for fileset pre-allocation to finish
+  450: 13.407: Starting 1 filereader instances
+random seed: 808464433
+  451: 13.427: Starting 10 filereaderthread threads
+  446: 14.427: Running...
+  446: 614.553: Run took 600 seconds...
+  446: 616.774: Per-Operation Breakdown
+statfile1            12520ops       21ops/s   0.0mb/s      0.7ms/op      249us/op-cpu [0ms - 982ms]
+deletefile1          12520ops       21ops/s   0.0mb/s     38.7ms/op     1487us/op-cpu [0ms - 2234ms]
+closefile3           12520ops       21ops/s   0.0mb/s      0.0ms/op      113us/op-cpu [0ms - 1ms]
+readfile1            12524ops       21ops/s   5.3mb/s    240.8ms/op    16052us/op-cpu [0ms - 5930ms]
+openfile2            12524ops       21ops/s   0.0mb/s      6.9ms/op      240us/op-cpu [0ms - 1952ms]
+closefile2           12524ops       21ops/s   0.0mb/s      0.0ms/op      153us/op-cpu [0ms - 0ms]
+appendfilerand1      12530ops       21ops/s   0.2mb/s    185.5ms/op    11513us/op-cpu [0ms - 3032ms]
+openfile1            12530ops       21ops/s   0.0mb/s      0.4ms/op      160us/op-cpu [0ms - 620ms]
+closefile1           12530ops       21ops/s   0.0mb/s      0.0ms/op      155us/op-cpu [0ms - 5ms]
+wrtfile1             12530ops       21ops/s   5.2mb/s      1.1ms/op     1059us/op-cpu [0ms - 407ms]
+createfile1          12530ops       21ops/s   0.0mb/s      2.6ms/op      338us/op-cpu [0ms - 1007ms]
+  446: 616.774: IO Summary: 137782 ops, 229.046 ops/s, (21/42 r/w),  10.7mb/s,   1222us cpu/op, 158.9ms latency
+  446: 616.774: Shutting down processes
+
+
+ENDDELIMETER
+
+

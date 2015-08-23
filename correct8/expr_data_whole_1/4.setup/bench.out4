@@ -1,0 +1,39 @@
+start
+
+
+0
+3
+random seed: 808464433
+Filebench Version 1.4.9.1
+  446: 0.000: Allocated 170MB of shared memory
+  446: 0.017: Creating/pre-allocating files and filesets
+  446: 1.597: Fileset bigfileset: 2800 files, 0 leafdirs, avg dir width = 20, avg dir depth = 2.6, 664.474MB
+  446: 1.606: Removed any existing fileset bigfileset in 1 seconds
+  446: 1.606: making tree for filset /mnt/bigfileset
+  446: 2.454: Creating fileset bigfileset...
+  446: 31.310: Preallocated 2244 of 2800 of fileset bigfileset in 29 seconds
+  446: 31.310: waiting for fileset pre-allocation to finish
+  450: 31.314: Starting 1 filereader instances
+random seed: 808464433
+  451: 32.140: Starting 10 filereaderthread threads
+  446: 33.145: Running...
+  446: 933.754: Run took 900 seconds...
+  446: 935.856: Per-Operation Breakdown
+statfile1            13333ops       15ops/s   0.0mb/s      1.9ms/op      195us/op-cpu [0ms - 1280ms]
+deletefile1          13333ops       15ops/s   0.0mb/s     69.1ms/op      951us/op-cpu [0ms - 2502ms]
+closefile3           13333ops       15ops/s   0.0mb/s      0.0ms/op       97us/op-cpu [0ms - 12ms]
+readfile1            13338ops       15ops/s   3.7mb/s    263.1ms/op    11294us/op-cpu [0ms - 3237ms]
+openfile2            13340ops       15ops/s   0.0mb/s     13.0ms/op      313us/op-cpu [0ms - 2023ms]
+closefile2           13340ops       15ops/s   0.0mb/s      0.0ms/op      111us/op-cpu [0ms - 0ms]
+appendfilerand1      13343ops       15ops/s   0.1mb/s    252.2ms/op     9373us/op-cpu [0ms - 3546ms]
+openfile1            13343ops       15ops/s   0.0mb/s      2.6ms/op      181us/op-cpu [0ms - 1991ms]
+closefile1           13343ops       15ops/s   0.0mb/s      0.0ms/op      109us/op-cpu [0ms - 4ms]
+wrtfile1             13343ops       15ops/s   3.6mb/s      1.2ms/op      606us/op-cpu [0ms - 1614ms]
+createfile1          13343ops       15ops/s   0.0mb/s     42.1ms/op      897us/op-cpu [0ms - 2434ms]
+  446: 935.856: IO Summary: 146732 ops, 162.738 ops/s, (15/30 r/w),   7.4mb/s,    962us cpu/op, 215.1ms latency
+  446: 935.856: Shutting down processes
+
+
+ENDDELIMETER
+
+

@@ -1,0 +1,14 @@
+start
+
+
+/home/shubhamiit/workload/file1600 seconds
+Read Mode 
+filesize: 599040960
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+62.3913 81.1127 80.8178 48117 2628 126490000 585 47532 48117
+#Done
+
+
+ENDDELIMETER
+
+

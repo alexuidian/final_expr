@@ -1,0 +1,5278 @@
+mybench finished
+Tue Aug 18 11:24:26 IST 2015
+Tue Aug 18 11:24:26 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----   1201.0
+vm destroyed
+Tue Aug 18 11:24:37 IST 2015
+Tue Aug 18 11:24:37 IST 2015
+Tue Aug 18 11:24:38 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 11:26:38 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 11:27:45 IST 2015
+going for sleep 40
+Tue Aug 18 11:28:25 IST 2015
+came from sleep
+Tue Aug 18 11:28:25 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 1
+fcount is 0
+Benchmark started
+Tue Aug 18 11:28:25 IST 2015
+hi
+Tue Aug 18 11:28:25 IST 2015
+going for sleep 10
+Tue Aug 18 11:28:35 IST 2015
+came from sleep
+Tue Aug 18 11:28:35 IST 2015
+system_is_nw_started_done
+Tue Aug 18 11:28:35 IST 2015
+id is 1
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 11:29:06 IST 2015
+going for sleep 70
+Tue Aug 18 11:29:36 IST 2015
+came from sleep
+Tue Aug 18 11:29:36 IST 2015
+2962
+Tue Aug 18 11:29:36 IST 2015
+okay to start
+Tue Aug 18 11:29:46 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 11:46:35 IST 2015
+Tue Aug 18 11:46:35 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    249.1
+vm destroyed
+Tue Aug 18 11:46:47 IST 2015
+Tue Aug 18 11:46:47 IST 2015
+Tue Aug 18 11:46:47 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 11:48:47 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 11:49:53 IST 2015
+going for sleep 40
+Tue Aug 18 11:50:33 IST 2015
+came from sleep
+Tue Aug 18 11:50:33 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 2
+fcount is 0
+Benchmark started
+Tue Aug 18 11:50:34 IST 2015
+hi
+Tue Aug 18 11:50:34 IST 2015
+going for sleep 10
+Tue Aug 18 11:50:44 IST 2015
+came from sleep
+Tue Aug 18 11:50:44 IST 2015
+system_is_nw_started_done
+Tue Aug 18 11:50:44 IST 2015
+id is 2
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 11:51:12 IST 2015
+going for sleep 70
+Tue Aug 18 11:51:42 IST 2015
+came from sleep
+Tue Aug 18 11:51:42 IST 2015
+2990
+Tue Aug 18 11:51:42 IST 2015
+okay to start
+Tue Aug 18 11:51:52 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 12:08:47 IST 2015
+Tue Aug 18 12:08:48 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    248.0
+vm destroyed
+Tue Aug 18 12:08:59 IST 2015
+Tue Aug 18 12:08:59 IST 2015
+Tue Aug 18 12:09:00 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 12:11:00 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 12:12:07 IST 2015
+going for sleep 40
+Tue Aug 18 12:12:47 IST 2015
+came from sleep
+Tue Aug 18 12:12:47 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 3
+fcount is 0
+Benchmark started
+Tue Aug 18 12:12:47 IST 2015
+hi
+Tue Aug 18 12:12:47 IST 2015
+going for sleep 10
+Tue Aug 18 12:12:57 IST 2015
+came from sleep
+Tue Aug 18 12:12:57 IST 2015
+system_is_nw_started_done
+Tue Aug 18 12:12:57 IST 2015
+id is 3
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 12:13:23 IST 2015
+going for sleep 70
+Tue Aug 18 12:13:53 IST 2015
+came from sleep
+Tue Aug 18 12:13:53 IST 2015
+2986
+Tue Aug 18 12:13:53 IST 2015
+okay to start
+Tue Aug 18 12:14:03 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 12:31:04 IST 2015
+Tue Aug 18 12:31:04 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    240.8
+vm destroyed
+Tue Aug 18 12:31:15 IST 2015
+Tue Aug 18 12:31:15 IST 2015
+Tue Aug 18 12:31:15 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 12:33:16 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 12:34:19 IST 2015
+going for sleep 40
+Tue Aug 18 12:34:59 IST 2015
+came from sleep
+Tue Aug 18 12:34:59 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 4
+fcount is 0
+Benchmark started
+Tue Aug 18 12:35:00 IST 2015
+hi
+Tue Aug 18 12:35:00 IST 2015
+going for sleep 10
+Tue Aug 18 12:35:10 IST 2015
+came from sleep
+Tue Aug 18 12:35:10 IST 2015
+system_is_nw_started_done
+Tue Aug 18 12:35:10 IST 2015
+id is 4
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 12:35:34 IST 2015
+going for sleep 70
+Tue Aug 18 12:36:04 IST 2015
+came from sleep
+Tue Aug 18 12:36:04 IST 2015
+3007
+Tue Aug 18 12:36:04 IST 2015
+okay to start
+Tue Aug 18 12:36:14 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 12:52:58 IST 2015
+Tue Aug 18 12:52:59 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    240.9
+vm destroyed
+Tue Aug 18 12:53:10 IST 2015
+Tue Aug 18 12:53:10 IST 2015
+Tue Aug 18 12:53:10 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 12:55:10 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 12:56:17 IST 2015
+going for sleep 40
+Tue Aug 18 12:56:57 IST 2015
+came from sleep
+Tue Aug 18 12:56:57 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 5
+fcount is 0
+Benchmark started
+Tue Aug 18 12:56:57 IST 2015
+hi
+Tue Aug 18 12:56:58 IST 2015
+going for sleep 10
+Tue Aug 18 12:57:08 IST 2015
+came from sleep
+Tue Aug 18 12:57:08 IST 2015
+system_is_nw_started_done
+Tue Aug 18 12:57:08 IST 2015
+id is 5
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 12:57:37 IST 2015
+going for sleep 70
+Tue Aug 18 12:58:07 IST 2015
+came from sleep
+Tue Aug 18 12:58:07 IST 2015
+2973
+Tue Aug 18 12:58:07 IST 2015
+okay to start
+Tue Aug 18 12:58:17 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 13:15:01 IST 2015
+Tue Aug 18 13:15:01 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    241.4
+vm destroyed
+Tue Aug 18 13:15:12 IST 2015
+Tue Aug 18 13:15:12 IST 2015
+Tue Aug 18 13:15:12 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 13:17:12 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 13:18:22 IST 2015
+going for sleep 40
+Tue Aug 18 13:19:02 IST 2015
+came from sleep
+Tue Aug 18 13:19:02 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 6
+fcount is 0
+Benchmark started
+Tue Aug 18 13:19:02 IST 2015
+hi
+Tue Aug 18 13:19:02 IST 2015
+going for sleep 10
+Tue Aug 18 13:19:12 IST 2015
+came from sleep
+Tue Aug 18 13:19:12 IST 2015
+system_is_nw_started_done
+Tue Aug 18 13:19:12 IST 2015
+id is 6
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 13:19:37 IST 2015
+going for sleep 70
+Tue Aug 18 13:20:07 IST 2015
+came from sleep
+Tue Aug 18 13:20:07 IST 2015
+3015
+Tue Aug 18 13:20:07 IST 2015
+okay to start
+Tue Aug 18 13:20:17 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 13:37:03 IST 2015
+Tue Aug 18 13:37:04 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    240.5
+vm destroyed
+Tue Aug 18 13:37:15 IST 2015
+Tue Aug 18 13:37:15 IST 2015
+Tue Aug 18 13:37:15 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 13:39:15 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 13:40:20 IST 2015
+going for sleep 40
+Tue Aug 18 13:41:00 IST 2015
+came from sleep
+Tue Aug 18 13:41:00 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 7
+fcount is 0
+curr is 7 is it will end
+goind for sleep 30
+returned from sleep
+10.129.26.195
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+Tue Aug 18 13:45:11 IST 2015
+going for sleep 40
+Tue Aug 18 13:45:51 IST 2015
+came from sleep
+Tue Aug 18 13:45:51 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 0
+fcount is 1
+Benchmark started
+Tue Aug 18 13:45:51 IST 2015
+hi
+Tue Aug 18 13:45:51 IST 2015
+going for sleep 10
+Tue Aug 18 13:46:01 IST 2015
+came from sleep
+Tue Aug 18 13:46:01 IST 2015
+system_is_nw_started_done
+Tue Aug 18 13:46:01 IST 2015
+id is 0
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=4)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=5)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=6)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=7)
+Tue Aug 18 13:46:28 IST 2015
+going for sleep 70
+Tue Aug 18 13:46:58 IST 2015
+came from sleep
+Tue Aug 18 13:46:58 IST 2015
+4159
+Tue Aug 18 13:46:58 IST 2015
+okay to start
+Tue Aug 18 13:47:08 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 14:04:19 IST 2015
+Tue Aug 18 14:04:19 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----   1194.0
+vm destroyed
+Tue Aug 18 14:04:30 IST 2015
+Tue Aug 18 14:04:31 IST 2015
+Tue Aug 18 14:04:31 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 14:06:31 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 14:07:41 IST 2015
+going for sleep 40
+Tue Aug 18 14:08:21 IST 2015
+came from sleep
+Tue Aug 18 14:08:21 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 1
+fcount is 1
+Benchmark started
+Tue Aug 18 14:08:21 IST 2015
+hi
+Tue Aug 18 14:08:21 IST 2015
+going for sleep 10
+Tue Aug 18 14:08:31 IST 2015
+came from sleep
+Tue Aug 18 14:08:31 IST 2015
+system_is_nw_started_done
+Tue Aug 18 14:08:31 IST 2015
+id is 1
+Using config file "/etc/xen/vm1".
+Using config file "/etc/xen/vm2".
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=4)
+Using config file "/etc/xen/vm4".
+Tue Aug 18 14:08:35 IST 2015
+going for sleep 70
+Tue Aug 18 14:09:05 IST 2015
+came from sleep
+Tue Aug 18 14:09:05 IST 2015
+3013
+Tue Aug 18 14:09:05 IST 2015
+not okay
+Tue Aug 18 14:09:15 IST 2015
+not okay
+Tue Aug 18 14:09:25 IST 2015
+not okay
+Tue Aug 18 14:09:35 IST 2015
+not okay
+Tue Aug 18 14:09:45 IST 2015
+not okay
+Tue Aug 18 14:09:55 IST 2015
+not okay
+Tue Aug 18 14:10:05 IST 2015
+not okay
+Tue Aug 18 14:10:15 IST 2015
+not okay
+Tue Aug 18 14:10:25 IST 2015
+not okay
+Tue Aug 18 14:10:36 IST 2015
+not okay
+Tue Aug 18 14:10:46 IST 2015
+not okay
+Tue Aug 18 14:10:56 IST 2015
+not okay
+Tue Aug 18 14:11:06 IST 2015
+not okay
+Tue Aug 18 14:11:16 IST 2015
+not okay
+Tue Aug 18 14:11:26 IST 2015
+not okay
+Tue Aug 18 14:11:36 IST 2015
+not okay
+Tue Aug 18 14:11:46 IST 2015
+not okay
+Tue Aug 18 14:11:56 IST 2015
+not okay
+Tue Aug 18 14:12:06 IST 2015
+not okay
+Tue Aug 18 14:12:16 IST 2015
+not okay
+Tue Aug 18 14:12:26 IST 2015
+not okay
+Tue Aug 18 14:12:36 IST 2015
+not okay
+Tue Aug 18 14:12:46 IST 2015
+not okay
+Tue Aug 18 14:12:56 IST 2015
+not okay
+Tue Aug 18 14:13:06 IST 2015
+not okay
+Tue Aug 18 14:13:16 IST 2015
+not okay
+Tue Aug 18 14:13:27 IST 2015
+not okay
+Tue Aug 18 14:13:37 IST 2015
+not okay
+Tue Aug 18 14:13:47 IST 2015
+not okay
+Setting free blocks count to 5601772 (was 5602883)
+/dev/vg_xen/vm1_disk: clean, 210267/2752512 files, 5408276/11010048 blocks
+/dev/vg_xen/vm2_disk: clean, 210291/2621440 files, 5398306/10485760 blocks
+/dev/vg_xen/vm3_disk: clean, 212017/2621440 files, 5442499/10485760 blocks
+Setting free inodes count to 2410411 (was 2411466)
+Setting free blocks count to 5110196 (was 5099923)
+/dev/vg_xen/vm4_disk: clean, 211029/2621440 files, 5375564/10485760 blocks
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=5)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=6)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=7)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=8)
+Tue Aug 18 14:15:15 IST 2015
+not okay
+Tue Aug 18 14:15:25 IST 2015
+not okay
+Tue Aug 18 14:15:35 IST 2015
+not okay
+Tue Aug 18 14:15:45 IST 2015
+not okay
+Tue Aug 18 14:15:55 IST 2015
+not okay
+Tue Aug 18 14:16:05 IST 2015
+not okay
+Tue Aug 18 14:16:15 IST 2015
+not okay
+Tue Aug 18 14:16:25 IST 2015
+not okay
+Tue Aug 18 14:16:35 IST 2015
+not okay
+Tue Aug 18 14:16:46 IST 2015
+not okay
+Tue Aug 18 14:16:56 IST 2015
+not okay
+Tue Aug 18 14:17:06 IST 2015
+not okay
+Tue Aug 18 14:17:16 IST 2015
+not okay
+Tue Aug 18 14:17:26 IST 2015
+not okay
+Tue Aug 18 14:17:36 IST 2015
+not okay
+Tue Aug 18 14:17:46 IST 2015
+not okay
+Tue Aug 18 14:17:56 IST 2015
+not okay
+Tue Aug 18 14:18:06 IST 2015
+not okay
+Tue Aug 18 14:18:16 IST 2015
+not okay
+Tue Aug 18 14:18:26 IST 2015
+not okay
+Tue Aug 18 14:18:36 IST 2015
+not okay
+Tue Aug 18 14:18:46 IST 2015
+not okay
+Tue Aug 18 14:18:56 IST 2015
+not okay
+Tue Aug 18 14:19:06 IST 2015
+not okay
+Tue Aug 18 14:19:17 IST 2015
+not okay
+Tue Aug 18 14:19:27 IST 2015
+not okay
+Tue Aug 18 14:19:37 IST 2015
+not okay
+Tue Aug 18 14:19:47 IST 2015
+not okay
+Tue Aug 18 14:19:57 IST 2015
+not okay
+Tue Aug 18 14:20:07 IST 2015
+not okay
+/dev/vg_xen/vm1_disk contains a file system with errors, check forced.
+Pass 1: Checking inodes, blocks, and sizes
+
+Running additional passes to resolve blocks claimed by more than one inode...
+Pass 1B: Rescanning for multiply-claimed blocks
+Multiply-claimed block(s) in inode 1703939: 6824166
+Multiply-claimed block(s) in inode 1703941: 7012120 7012121 7012122 7012123
+Multiply-claimed block(s) in inode 1703943: 6824164
+Multiply-claimed block(s) in inode 1703944: 6824165
+Multiply-claimed block(s) in inode 1703952: 6824160
+Multiply-claimed block(s) in inode 1704309: 6824160
+Multiply-claimed block(s) in inode 1704313: 6824164
+Multiply-claimed block(s) in inode 1704314: 6824165
+Multiply-claimed block(s) in inode 1704315: 6824166
+Multiply-claimed block(s) in inode 1706427: 6892815
+Multiply-claimed block(s) in inode 1708598: 6965584 6965585 6965586 6965587 6965588 6965589 6965590 6965591 6965592 6965593 6965594 6965595 6965596 6965597
+Multiply-claimed block(s) in inode 1708599: 6965598 6965599
+Multiply-claimed block(s) in inode 1708719: 6970456 6970457 6970458 6970459
+Multiply-claimed block(s) in inode 1708721: 6947978 6947979 6947980 6947981 6947982 6947983 6947984 6947985 6947986 6947987 6947988 6947989 6947990 6947991 6947992 6947993 6947994 6947995 6947996 6947997 6947998
+Multiply-claimed block(s) in inode 1708722: 6947999 6948000 6948001 6948002 6948003
+Multiply-claimed block(s) in inode 1708723: 6948004 6948005 6948006 6948007 6948008 6948009 6948010 6948011 6948012 6948013
+Multiply-claimed block(s) in inode 1708724: 6948014 6948015 6948016 6948017 6948018 6948019 6948020
+Multiply-claimed block(s) in inode 1708725: 6970456 6970457 6970458 6970459
+Multiply-claimed block(s) in inode 1708726: 6948021 6948022 6948023
+Multiply-claimed block(s) in inode 1710245: 6892815
+Multiply-claimed block(s) in inode 1710255: 6965584 6965585 6965586 6965587 6965588 6965589 6965590 6965591 6965592 6965593 6965594 6965595 6965596 6965597 6965598 6965599
+Multiply-claimed block(s) in inode 1710257: 6948024 6948025 6948026 6948027 6948028 6948029
+Multiply-claimed block(s) in inode 1710371: 6947978 6947979 6947980 6947981 6947982 6947983 6947984
+Multiply-claimed block(s) in inode 1710372: 6947985 6947986 6947987 6947988 6947989 6947990 6947991 6947992 6947993 6947994 6947995 6947996 6947997 6947998 6947999 6948000 6948001 6948002 6948003 6948004 6948005 6948006 6948007 6948008 6948009 6948010 6948011 6948012 6948013 6948014 6948015 6948016 6948017 6948018 6948019 6948020 6948021 6948022 6948023 6948024 6948025 6948026 6948027 6948028 6948029
+Multiply-claimed block(s) in inode 1712830: 7012120 7012121 7012122 7012123
+Pass 1C: Scanning directories for inodes with multiply-claimed blocks
+Pass 1D: Reconciling multiply-claimed blocks
+(There are 25 inodes containing multiply-claimed blocks.)
+
+File /mnt/logfiles (inode #1703939, mod time Tue Aug 18 13:20:22 2015) 
+  has 1 multiply-claimed block(s), shared with 1 file(s):
+	.../???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/00000018 (inode #1704315, mod time Tue Aug 18 13:47:53 2015)
+Clone multiply-claimed blocks? yes
+
+File .../00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000001 (inode #1703941, mod time Tue Aug 18 13:36:45 2015) 
+  has 4 multiply-claimed block(s), shared with 1 file(s):
+	/mnt/???/???/00000012/00000013 (inode #1712830, mod time Tue Aug 18 13:48:57 2015)
+Clone multiply-claimed blocks? yes
+
+File /mnt/bigfileset/00000002 (inode #1703943, mod time Tue Aug 18 13:20:22 2015) 
+  has 1 multiply-claimed block(s), shared with 1 file(s):
+	.../???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/00000020 (inode #1704313, mod time Tue Aug 18 13:47:54 2015)
+Clone multiply-claimed blocks? yes
+
+File /mnt/bigfileset/???/00000003 (inode #1703944, mod time Tue Aug 18 13:20:22 2015) 
+  has 1 multiply-claimed block(s), shared with 1 file(s):
+	.../???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/00000019 (inode #1704314, mod time Tue Aug 18 13:47:54 2015)
+Clone multiply-claimed blocks? yes
+
+File .../00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/???/00000028 (inode #1703952, mod time Tue Aug 18 13:20:35 2015) 
+  has 1 multiply-claimed block(s), shared with 1 file(s):
+	.../???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000016/00000002 (inode #1704309, mod time Tue Aug 18 13:47:56 2015)
+Clone multiply-claimed blocks? yes
+
+File .../???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000016/00000002 (inode #1704309, mod time Tue Aug 18 13:47:56 2015) 
+  has 1 multiply-claimed block(s), shared with 1 file(s):
+	.../00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/???/00000028 (inode #1703952, mod time Tue Aug 18 13:20:35 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+File .../???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/00000020 (inode #1704313, mod time Tue Aug 18 13:47:54 2015) 
+  has 1 multiply-claimed block(s), shared with 1 file(s):
+	/mnt/bigfileset/00000002 (inode #1703943, mod time Tue Aug 18 13:20:22 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+File .../???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/00000019 (inode #1704314, mod time Tue Aug 18 13:47:54 2015) 
+  has 1 multiply-claimed block(s), shared with 1 file(s):
+	/mnt/bigfileset/???/00000003 (inode #1703944, mod time Tue Aug 18 13:20:22 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+File .../???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/00000018 (inode #1704315, mod time Tue Aug 18 13:47:53 2015) 
+  has 1 multiply-claimed block(s), shared with 1 file(s):
+	/mnt/logfiles (inode #1703939, mod time Tue Aug 18 13:20:22 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+File .../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000016/00000001/00000001 (inode #1706427, mod time Tue Aug 18 13:47:54 2015) 
+  has 1 multiply-claimed block(s), shared with 1 file(s):
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000003/00000004 (inode #1710245, mod time Tue Aug 18 13:21:10 2015)
+Clone multiply-claimed blocks? yes
+
+File .../???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000005/00000013 (inode #1708598, mod time Tue Aug 18 13:48:23 2015) 
+  has 14 multiply-claimed block(s), shared with 1 file(s):
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000003/00000005 (inode #1710255, mod time Tue Aug 18 13:21:10 2015)
+Clone multiply-claimed blocks? yes
+
+File .../???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000005/00000014 (inode #1708599, mod time Tue Aug 18 13:48:23 2015) 
+  has 2 multiply-claimed block(s), shared with 1 file(s):
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000003/00000005 (inode #1710255, mod time Tue Aug 18 13:21:10 2015)
+Clone multiply-claimed blocks? yes
+
+File .../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000002/00000005 (inode #1708719, mod time Tue Aug 18 13:48:25 2015) 
+  has 4 multiply-claimed block(s), shared with 1 file(s):
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000003/00000002 (inode #1708725, mod time Tue Aug 18 13:21:10 2015)
+Clone multiply-claimed blocks? yes
+
+File .../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000002/00000007 (inode #1708721, mod time Tue Aug 18 13:21:10 2015) 
+  has 21 multiply-claimed block(s), shared with 2 file(s):
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000005/00000005 (inode #1710372, mod time Tue Aug 18 13:48:25 2015)
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000005/00000004 (inode #1710371, mod time Tue Aug 18 13:48:25 2015)
+Clone multiply-claimed blocks? yes
+
+File .../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000002/00000008 (inode #1708722, mod time Tue Aug 18 13:21:10 2015) 
+  has 5 multiply-claimed block(s), shared with 1 file(s):
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000005/00000005 (inode #1710372, mod time Tue Aug 18 13:48:25 2015)
+Clone multiply-claimed blocks? yes
+
+File .../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000002/00000009 (inode #1708723, mod time Tue Aug 18 13:21:10 2015) 
+  has 10 multiply-claimed block(s), shared with 1 file(s):
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000005/00000005 (inode #1710372, mod time Tue Aug 18 13:48:25 2015)
+Clone multiply-claimed blocks? yes
+
+File .../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000003/00000001 (inode #1708724, mod time Tue Aug 18 13:21:10 2015) 
+  has 7 multiply-claimed block(s), shared with 1 file(s):
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000005/00000005 (inode #1710372, mod time Tue Aug 18 13:48:25 2015)
+Clone multiply-claimed blocks? yes
+
+File .../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000003/00000002 (inode #1708725, mod time Tue Aug 18 13:21:10 2015) 
+  has 4 multiply-claimed block(s), shared with 1 file(s):
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000002/00000005 (inode #1708719, mod time Tue Aug 18 13:48:25 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+File .../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000003/00000003 (inode #1708726, mod time Tue Aug 18 13:21:10 2015) 
+  has 3 multiply-claimed block(s), shared with 1 file(s):
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000005/00000005 (inode #1710372, mod time Tue Aug 18 13:48:25 2015)
+Clone multiply-claimed blocks? yes
+
+File .../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000003/00000004 (inode #1710245, mod time Tue Aug 18 13:21:10 2015) 
+  has 1 multiply-claimed block(s), shared with 1 file(s):
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000016/00000001/00000001 (inode #1706427, mod time Tue Aug 18 13:47:54 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+File .../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000003/00000005 (inode #1710255, mod time Tue Aug 18 13:21:10 2015) 
+  has 16 multiply-claimed block(s), shared with 2 file(s):
+	.../???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000005/00000014 (inode #1708599, mod time Tue Aug 18 13:48:23 2015)
+	.../???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000005/00000013 (inode #1708598, mod time Tue Aug 18 13:48:23 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+File .../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000003/00000006 (inode #1710257, mod time Tue Aug 18 13:21:10 2015) 
+  has 6 multiply-claimed block(s), shared with 1 file(s):
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000005/00000005 (inode #1710372, mod time Tue Aug 18 13:48:25 2015)
+Clone multiply-claimed blocks? yes
+
+File .../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000005/00000004 (inode #1710371, mod time Tue Aug 18 13:48:25 2015) 
+  has 7 multiply-claimed block(s), shared with 1 file(s):
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000002/00000007 (inode #1708721, mod time Tue Aug 18 13:21:10 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+File .../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000005/00000005 (inode #1710372, mod time Tue Aug 18 13:48:25 2015) 
+  has 45 multiply-claimed block(s), shared with 6 file(s):
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000003/00000006 (inode #1710257, mod time Tue Aug 18 13:21:10 2015)
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000003/00000003 (inode #1708726, mod time Tue Aug 18 13:21:10 2015)
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000003/00000001 (inode #1708724, mod time Tue Aug 18 13:21:10 2015)
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000002/00000009 (inode #1708723, mod time Tue Aug 18 13:21:10 2015)
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000002/00000008 (inode #1708722, mod time Tue Aug 18 13:21:10 2015)
+	.../???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000061/00000013/00000002/00000007 (inode #1708721, mod time Tue Aug 18 13:21:10 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+File /mnt/???/???/00000012/00000013 (inode #1712830, mod time Tue Aug 18 13:48:57 2015) 
+  has 4 multiply-claimed block(s), shared with 1 file(s):
+	.../00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000001 (inode #1703941, mod time Tue Aug 18 13:36:45 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+Pass 2: Checking directory structure
+Invalid inode number for '.' in directory inode 1703939.
+Fix? yes
+
+Invalid inode number for '.' in directory inode 1703943.
+Fix? yes
+
+Invalid inode number for '.' in directory inode 1703944.
+Fix? yes
+
+Invalid inode number for '.' in directory inode 1703952.
+Fix? yes
+
+Invalid inode number for '.' in directory inode 1703948.
+Fix? yes
+
+Invalid inode number for '.' in directory inode 1703949.
+Fix? yes
+
+Invalid inode number for '.' in directory inode 1703950.
+Fix? yes
+
+Invalid inode number for '.' in directory inode 1703951.
+Fix? yes
+
+Entry '00000029' in .../00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/??? (1703951) is a link to '.'  Clear? yes
+
+Invalid inode number for '.' in directory inode 1703945.
+Fix? yes
+
+Invalid inode number for '.' in directory inode 1703946.
+Fix? yes
+
+Invalid inode number for '.' in directory inode 1703947.
+Fix? yes
+
+Entry 'resolv.conf' in /etc (2097153) has deleted/unused inode 2097981.  Clear? yes
+
+Pass 3: Checking directory connectivity
+'..' in /mnt/logfiles (1703939) is .../???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014 (1704312), should be /mnt (1703937).
+Fix? yes
+
+Unconnected directory inode 1703951 (.../00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/???)
+Connect to /lost+found? yes
+
+'..' in /mnt/???/00000001 (1703940) is /mnt/logfiles (1703939), should be /mnt/??? (1703945).
+Fix? yes
+
+'..' in /mnt/bigfileset/00000002 (1703943) is .../???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014 (1704312), should be /mnt/bigfileset (1703942).
+Fix? yes
+
+'..' in /mnt/bigfileset/???/00000003 (1703944) is .../???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014/???/???/00000021/00000014 (1704312), should be /mnt/bigfileset/??? (1703946).
+Fix? yes
+
+'..' in /mnt/bigfileset/00000002/???/00000014 (1703945) is /mnt (1703937), should be /mnt/bigfileset/00000002/??? (1703947).
+Fix? yes
+
+'..' in /mnt/bigfileset/???/00000003/???/00000032 (1703946) is /mnt/bigfileset (1703942), should be /mnt/bigfileset/???/00000003/??? (1703948).
+Fix? yes
+
+'..' in /mnt/bigfileset/00000002/???/00000014/???/00000005 (1703947) is /mnt/bigfileset/00000002 (1703943), should be /mnt/bigfileset/00000002/???/00000014/??? (1703949).
+Fix? yes
+
+'..' in .../00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/???/00000017 (1703948) is .../00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003 (1703944), should be .../00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/00000003/???/00000032/??? (1703950).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000031 (1703949) is .../00000005/00000014/???/00000005/00000014/???/00000005/00000014/???/00000005/00000014/???/00000005/00000014/???/00000005/00000014/???/00000005/00000014/???/00000005/00000014/???/00000005/00000014/???/00000005/00000014/???/00000005/00000014 (1703945), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030 (1703950) is .../00000017/00000032/???/00000017/00000032/???/00000017/00000032/???/00000017/00000032/???/00000017/00000032/???/00000017/00000032/???/00000017/00000032/???/00000017/00000032/???/00000017/00000032/???/00000017/00000032/???/00000017/00000032 (1703946), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000028 (1703952) is /lost+found/#1703951/00000030/00000017/00000032/00000003/???/00000021/00000016 (1704297), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000027 (1703953) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000026 (1703954) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000025 (1703955) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000024 (1703956) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000023 (1703957) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000022 (1703958) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000021 (1703959) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000020 (1703960) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000019 (1703961) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000018 (1703962) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000017 (1703963) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000016 (1703964) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000015 (1703965) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000014 (1703966) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000013 (1703967) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000012 (1703968) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000011 (1703969) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000010 (1703970) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000009 (1703971) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000008 (1703972) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000007 (1703973) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000006 (1703974) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000005 (1703975) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000004 (1703976) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000003 (1703977) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000002 (1703978) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000001 (1703979) is /lost+found/#1703951/00000030/00000017 (1703948), should be /lost+found/#1703951 (1703951).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000016 (1703980) is /lost+found/#1703951/00000031/00000005 (1703947), should be /lost+found/#1703951/00000030 (1703950).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000015 (1703981) is /lost+found/#1703951/00000031/00000005 (1703947), should be /lost+found/#1703951/00000030 (1703950).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000014 (1703982) is /lost+found/#1703951/00000031/00000005 (1703947), should be /lost+found/#1703951/00000030 (1703950).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000013 (1703983) is /lost+found/#1703951/00000031/00000005 (1703947), should be /lost+found/#1703951/00000030 (1703950).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000012 (1703984) is /lost+found/#1703951/00000031/00000005 (1703947), should be /lost+found/#1703951/00000030 (1703950).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000011 (1703985) is /lost+found/#1703951/00000031/00000005 (1703947), should be /lost+found/#1703951/00000030 (1703950).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000010 (1703986) is /lost+found/#1703951/00000031/00000005 (1703947), should be /lost+found/#1703951/00000030 (1703950).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000009 (1703987) is /lost+found/#1703951/00000031/00000005 (1703947), should be /lost+found/#1703951/00000030 (1703950).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000008 (1703988) is /lost+found/#1703951/00000031/00000005 (1703947), should be /lost+found/#1703951/00000030 (1703950).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000007 (1703989) is /lost+found/#1703951/00000031/00000005 (1703947), should be /lost+found/#1703951/00000030 (1703950).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000006 (1703990) is /lost+found/#1703951/00000031/00000005 (1703947), should be /lost+found/#1703951/00000030 (1703950).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000005 (1703991) is /lost+found/#1703951/00000031/00000005 (1703947), should be /lost+found/#1703951/00000030 (1703950).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000004 (1703992) is /lost+found/#1703951/00000031/00000005 (1703947), should be /lost+found/#1703951/00000030 (1703950).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000003 (1703993) is /lost+found/#1703951/00000031/00000005 (1703947), should be /lost+found/#1703951/00000030 (1703950).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000002 (1703994) is /lost+found/#1703951/00000031/00000005 (1703947), should be /lost+found/#1703951/00000030 (1703950).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000001 (1703995) is /lost+found/#1703951/00000031/00000005 (1703947), should be /lost+found/#1703951/00000030 (1703950).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000031/00000004 (1703996) is /lost+found/#1703951/00000030/00000017/00000032 (1703946), should be /lost+found/#1703951/00000031 (1703949).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000031/00000003 (1704004) is /lost+found/#1703951/00000030/00000017/00000032 (1703946), should be /lost+found/#1703951/00000031 (1703949).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000031/00000002 (1704005) is /lost+found/#1703951/00000030/00000017/00000032 (1703946), should be /lost+found/#1703951/00000031 (1703949).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000031/00000001 (1704006) is /lost+found/#1703951/00000030/00000017/00000032 (1703946), should be /lost+found/#1703951/00000031 (1703949).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000031 (1704007) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000030 (1704008) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000029 (1704009) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000028 (1704010) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000027 (1704011) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000026 (1704012) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000025 (1704013) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000024 (1704014) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000023 (1704015) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000022 (1704016) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000021 (1704017) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000020 (1704018) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000019 (1704019) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000018 (1704020) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000017 (1704021) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000016 (1704022) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000015 (1704041) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000014 (1704042) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000013 (1704043) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000012 (1704044) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000011 (1704045) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000010 (1704046) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000009 (1704047) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000008 (1704048) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000007 (1704049) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000006 (1704050) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000005 (1704051) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000004 (1704052) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000003 (1704053) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000002 (1704071) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000001 (1704072) is /lost+found/#1703951/00000031/00000005/00000014 (1703945), should be /lost+found/#1703951/00000030/00000017 (1703948).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000031/00000005/00000013 (1704142) is /lost+found/#1703951/00000030/00000017/00000032/00000003 (1703944), should be /lost+found/#1703951/00000031/00000005 (1703947).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000031/00000005/00000012 (1704143) is /lost+found/#1703951/00000030/00000017/00000032/00000003 (1703944), should be /lost+found/#1703951/00000031/00000005 (1703947).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000031/00000005/00000011 (1704144) is /lost+found/#1703951/00000030/00000017/00000032/00000003 (1703944), should be /lost+found/#1703951/00000031/00000005 (1703947).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000031/00000005/00000010 (1704145) is /lost+found/#1703951/00000030/00000017/00000032/00000003 (1703944), should be /lost+found/#1703951/00000031/00000005 (1703947).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000031/00000005/00000009 (1704146) is /lost+found/#1703951/00000030/00000017/00000032/00000003 (1703944), should be /lost+found/#1703951/00000031/00000005 (1703947).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000031/00000005/00000008 (1704147) is /lost+found/#1703951/00000030/00000017/00000032/00000003 (1703944), should be /lost+found/#1703951/00000031/00000005 (1703947).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000031/00000005/00000007 (1704148) is /lost+found/#1703951/00000030/00000017/00000032/00000003 (1703944), should be /lost+found/#1703951/00000031/00000005 (1703947).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000031/00000005/00000006 (1704149) is /lost+found/#1703951/00000030/00000017/00000032/00000003 (1703944), should be /lost+found/#1703951/00000031/00000005 (1703947).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000031/00000005/00000005 (1704150) is /lost+found/#1703951/00000030/00000017/00000032/00000003 (1703944), should be /lost+found/#1703951/00000031/00000005 (1703947).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000031/00000005/00000004 (1704151) is /lost+found/#1703951/00000030/00000017/00000032/00000003 (1703944), should be /lost+found/#1703951/00000031/00000005 (1703947).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000031/00000005/00000003 (1704152) is /lost+found/#1703951/00000030/00000017/00000032/00000003 (1703944), should be /lost+found/#1703951/00000031/00000005 (1703947).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000031/00000005/00000002 (1704153) is /lost+found/#1703951/00000030/00000017/00000032/00000003 (1703944), should be /lost+found/#1703951/00000031/00000005 (1703947).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000031/00000005/00000001 (1704154) is /lost+found/#1703951/00000030/00000017/00000032/00000003 (1703944), should be /lost+found/#1703951/00000031/00000005 (1703947).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000032/00000002 (1704366) is /mnt/bigfileset/00000002 (1703943), should be /lost+found/#1703951/00000030/00000017/00000032 (1703946).
+Fix? yes
+
+'..' in /lost+found/#1703951/00000030/00000017/00000032/00000001 (1704367) is /mnt/bigfileset/00000002 (1703943), should be /lost+found/#1703951/00000030/00000017/00000032 (1703946).
+Fix? yes
+
+Pass 4: Checking reference counts
+Inode 1703947 ref count is 13, should be 16.  Fix? yes
+
+Inode 1703948 ref count is 31, should be 34.  Fix? yes
+
+Inode 1703951 ref count is 33, should be 32.  Fix? yes
+
+Inode 1704297 ref count is 14, should be 15.  Fix? yes
+
+Inode 1704312 ref count is 19, should be 22.  Fix? yes
+
+Unattached inode 1704419
+Connect to /lost+found? yes
+
+Inode 1704419 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1704451
+Connect to /lost+found? yes
+
+Inode 1704451 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1704479
+Connect to /lost+found? yes
+
+Inode 1704479 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1704502
+Connect to /lost+found? yes
+
+Inode 1704502 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1704521
+Connect to /lost+found? yes
+
+Inode 1704521 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1704610
+Connect to /lost+found? yes
+
+Inode 1704610 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1704667
+Connect to /lost+found? yes
+
+Inode 1704667 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1704692
+Connect to /lost+found? yes
+
+Inode 1704692 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1704719
+Connect to /lost+found? yes
+
+Inode 1704719 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1704722
+Connect to /lost+found? yes
+
+Inode 1704722 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1704826
+Connect to /lost+found? yes
+
+Inode 1704826 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1704832
+Connect to /lost+found? yes
+
+Inode 1704832 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1704853
+Connect to /lost+found? yes
+
+Inode 1704853 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1704862
+Connect to /lost+found? yes
+
+Inode 1704862 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1704871
+Connect to /lost+found? yes
+
+Inode 1704871 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1704879
+Connect to /lost+found? yes
+
+Inode 1704879 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1704880
+Connect to /lost+found? yes
+
+Inode 1704880 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1704907
+Connect to /lost+found? yes
+
+Inode 1704907 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1704959
+Connect to /lost+found? yes
+
+Inode 1704959 ref count is 2, should be 1.  Fix? yes
+
+Inode 1704993 ref count is 1, should be 2.  Fix? yes
+
+Unattached inode 1705012
+Connect to /lost+found? yes
+
+Inode 1705012 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1705023
+Connect to /lost+found? yes
+
+Inode 1705023 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1705032
+Connect to /lost+found? yes
+
+Inode 1705032 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1705096
+Connect to /lost+found? yes
+
+Inode 1705096 ref count is 2, should be 1.  Fix? yes
+
+Inode 1705137 ref count is 1, should be 2.  Fix? yes
+
+Unattached inode 1705139
+Connect to /lost+found? yes
+
+Inode 1705139 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1705201
+Connect to /lost+found? yes
+
+Inode 1705201 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1705207
+Connect to /lost+found? yes
+
+Inode 1705207 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1705215
+Connect to /lost+found? yes
+
+Inode 1705215 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1705264
+Connect to /lost+found? yes
+
+Inode 1705264 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1705368
+Connect to /lost+found? yes
+
+Inode 1705368 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1705418
+Connect to /lost+found? yes
+
+Inode 1705418 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1705480
+Connect to /lost+found? yes
+
+Inode 1705480 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1705538
+Connect to /lost+found? yes
+
+Inode 1705538 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1705588
+Connect to /lost+found? yes
+
+Inode 1705588 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1705622
+Connect to /lost+found? yes
+
+Inode 1705622 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1705667
+Connect to /lost+found? yes
+
+Inode 1705667 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1705707
+Connect to /lost+found? yes
+
+Inode 1705707 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1705907
+Connect to /lost+found? yes
+
+Inode 1705907 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1705925
+Connect to /lost+found? yes
+
+Inode 1705925 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1705949
+Connect to /lost+found? yes
+
+Inode 1705949 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1706010
+Connect to /lost+found? yes
+
+Inode 1706010 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1706032
+Connect to /lost+found? yes
+
+Inode 1706032 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1706051
+Connect to /lost+found? yes
+
+Inode 1706051 ref count is 2, should be 1.  Fix? yes
+
+Unattached inode 1706078
+Connect to /lost+found? yes
+
+Inode 1706078 ref count is 2, should be 1.  Fix? yes
+
+Inode 1706181 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706195 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706199 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706234 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706240 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706243 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706252 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706258 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706259 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706267 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706290 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706334 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706339 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706342 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706356 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706359 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706366 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706381 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706382 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706383 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706384 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706385 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706386 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706387 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706388 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706389 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706390 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706391 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706392 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706393 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706394 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706395 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706396 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706397 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706398 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706399 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706400 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706401 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706402 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706403 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706404 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706405 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706406 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706407 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706408 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706409 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706445 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706446 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706447 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706448 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706449 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706450 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706451 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706452 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706453 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706454 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706455 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706456 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706457 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706458 ref count is 1, should be 2.  Fix? yes
+
+Inode 1706459 ref count is 1, should be 2.  Fix? yes
+
+Pass 5: Checking group summary information
+Block bitmap differences:  +(2596864--2596901) +(2598912--2600955) -(2611200--2614386) -6372352 +6372864 -(6823977--6823979) -(6864888--6864891) -(6967158--6967268) -(6967270--6967271) -(6969344--6969381) -(6973024--6973055) -(7023627--7023632) -8421904
+Fix? yes
+
+Free blocks count wrong for group #0 (19765, counted=19684).
+Fix? yes
+
+Free blocks count wrong for group #79 (21389, counted=22494).
+Fix? yes
+
+Free blocks count wrong for group #208 (24088, counted=24037).
+Fix? yes
+
+Free blocks count wrong for group #209 (0, counted=4).
+Fix? yes
+
+Free blocks count wrong for group #211 (8, counted=6).
+Fix? yes
+
+Free blocks count wrong for group #212 (34, counted=214).
+Fix? yes
+
+Free blocks count wrong for group #213 (56, counted=32).
+Fix? yes
+
+Free blocks count wrong for group #214 (20871, counted=194).
+Fix? yes
+
+Free blocks count wrong for group #215 (32758, counted=27793).
+Fix? yes
+
+Free blocks count wrong for group #219 (25813, counted=25812).
+Fix? yes
+
+Free blocks count wrong for group #257 (32247, counted=32248).
+Fix? yes
+
+Free blocks count wrong (5601771, counted=5577260).
+Fix? yes
+
+Inode bitmap differences:  -2097981
+Fix? yes
+
+Directories count wrong for group #208 (440, counted=495).
+Fix? yes
+
+Free inodes count wrong for group #209 (7399, counted=6344).
+Fix? yes
+
+Free inodes count wrong for group #256 (7029, counted=7030).
+Fix? yes
+
+Free inodes count wrong (2542245, counted=2541191).
+Fix? yes
+
+
+/dev/vg_xen/vm1_disk: ***** FILE SYSTEM WAS MODIFIED *****
+/dev/vg_xen/vm1_disk: 211321/2752512 files (0.1% non-contiguous), 5432788/11010048 blocks
+/dev/vg_xen/vm2_disk: recovering journal
+/dev/vg_xen/vm2_disk contains a file system with errors, check forced.
+Pass 1: Checking inodes, blocks, and sizes
+Inode 1971195, i_size is 11593918, should be 11620352.  Fix? yes
+
+Inode 1971195, i_blocks is 22656, should be 22704.  Fix? yes
+
+
+Running additional passes to resolve blocks claimed by more than one inode...
+Pass 1B: Rescanning for multiply-claimed blocks
+Multiply-claimed block(s) in inode 1186419: 1311236 1311237
+Multiply-claimed block(s) in inode 1971198: 7905496 7905497
+Multiply-claimed block(s) in inode 1971205: 7905496 7905497
+Multiply-claimed block(s) in inode 2105225: 1311236
+Multiply-claimed block(s) in inode 2105383: 1311237
+Pass 1C: Scanning directories for inodes with multiply-claimed blocks
+Pass 1D: Reconciling multiply-claimed blocks
+(There are 5 inodes containing multiply-claimed blocks.)
+
+File /mnt/logfiles/00000001/00000001 (inode #1186419, mod time Tue Aug 18 14:04:11 2015) 
+  has 2 multiply-claimed block(s), shared with 2 file(s):
+	/var/lib/dhcp/dhclient.eth0.leases (inode #2105383, mod time Tue Aug 18 14:13:58 2015)
+	/var/lib/urandom/random-seed (inode #2105225, mod time Tue Aug 18 14:13:58 2015)
+Clone multiply-claimed blocks? yes
+
+File /var/log/udev (inode #1971198, mod time Tue Aug 18 13:41:21 2015) 
+  has 2 multiply-claimed block(s), shared with 1 file(s):
+	/var/log/dmesg (inode #1971205, mod time Tue Aug 18 13:46:20 2015)
+Clone multiply-claimed blocks? yes
+
+File /var/log/dmesg (inode #1971205, mod time Tue Aug 18 13:46:20 2015) 
+  has 2 multiply-claimed block(s), shared with 1 file(s):
+	/var/log/udev (inode #1971198, mod time Tue Aug 18 13:41:21 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+File /var/lib/urandom/random-seed (inode #2105225, mod time Tue Aug 18 14:13:58 2015) 
+  has 1 multiply-claimed block(s), shared with 1 file(s):
+	/mnt/logfiles/00000001/00000001 (inode #1186419, mod time Tue Aug 18 14:04:11 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+File /var/lib/dhcp/dhclient.eth0.leases (inode #2105383, mod time Tue Aug 18 14:13:58 2015) 
+  has 1 multiply-claimed block(s), shared with 1 file(s):
+	/mnt/logfiles/00000001/00000001 (inode #1186419, mod time Tue Aug 18 14:04:11 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+Pass 2: Checking directory structure
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+Block bitmap differences:  -(1297705--1297711) -1311232 +(1311238--1311743) -(1311748--1312255) +1312768 -(7905475--7905485)
+Fix? yes
+
+Free blocks count wrong for group #0 (20227, counted=20223).
+Fix? yes
+
+Free blocks count wrong for group #16 (22651, counted=22645).
+Fix? yes
+
+Free blocks count wrong for group #40 (29327, counted=29329).
+Fix? yes
+
+Free blocks count wrong for group #41 (25842, counted=25543).
+Fix? yes
+
+Free blocks count wrong for group #144 (23397, counted=23393).
+Fix? yes
+
+Free blocks count wrong for group #150 (2, counted=11).
+Fix? yes
+
+Free blocks count wrong for group #151 (51, counted=427).
+Fix? yes
+
+Free blocks count wrong for group #152 (24718, counted=24984).
+Fix? yes
+
+Free blocks count wrong for group #170 (2, counted=10).
+Fix? yes
+
+Free blocks count wrong for group #171 (31, counted=32).
+Fix? yes
+
+Free blocks count wrong for group #172 (20105, counted=18733).
+Fix? yes
+
+Free blocks count wrong for group #176 (23526, counted=23475).
+Fix? yes
+
+Free blocks count wrong for group #179 (67, counted=29).
+Fix? yes
+
+Free blocks count wrong for group #180 (15499, counted=45).
+Fix? yes
+
+Free blocks count wrong for group #181 (30733, counted=21265).
+Fix? yes
+
+Free blocks count wrong for group #241 (14494, counted=14496).
+Fix? yes
+
+Free blocks count wrong (5087467, counted=5061422).
+Fix? yes
+
+Directories count wrong for group #144 (1122, counted=1126).
+Fix? yes
+
+Free inodes count wrong for group #145 (7532, counted=7567).
+Fix? yes
+
+Free inodes count wrong for group #162 (5110, counted=5102).
+Fix? yes
+
+Directories count wrong for group #177 (372, counted=423).
+Fix? yes
+
+Free inodes count wrong for group #178 (7626, counted=6544).
+Fix? yes
+
+Free inodes count wrong (2411149, counted=2410094).
+Fix? yes
+
+
+/dev/vg_xen/vm2_disk: ***** FILE SYSTEM WAS MODIFIED *****
+/dev/vg_xen/vm2_disk: 211346/2621440 files (0.2% non-contiguous), 5424338/10485760 blocks
+/dev/vg_xen/vm3_disk: clean, 212017/2621440 files, 5442513/10485760 blocks
+/dev/vg_xen/vm4_disk: clean, 211028/2621440 files, 5415853/10485760 blocks
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=9)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=10)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=11)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=12)
+Tue Aug 18 14:21:43 IST 2015
+okay to start
+Tue Aug 18 14:21:53 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 14:39:12 IST 2015
+Tue Aug 18 14:39:13 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    399.4
+vm destroyed
+Tue Aug 18 14:39:24 IST 2015
+Tue Aug 18 14:39:24 IST 2015
+Tue Aug 18 14:39:24 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 14:41:24 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 14:42:28 IST 2015
+going for sleep 40
+Tue Aug 18 14:43:08 IST 2015
+came from sleep
+Tue Aug 18 14:43:08 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 2
+fcount is 1
+Benchmark started
+Tue Aug 18 14:43:08 IST 2015
+hi
+Tue Aug 18 14:43:08 IST 2015
+going for sleep 10
+Tue Aug 18 14:43:18 IST 2015
+came from sleep
+Tue Aug 18 14:43:18 IST 2015
+system_is_nw_started_done
+Tue Aug 18 14:43:18 IST 2015
+id is 2
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 14:43:47 IST 2015
+going for sleep 70
+Tue Aug 18 14:44:17 IST 2015
+came from sleep
+Tue Aug 18 14:44:17 IST 2015
+3019
+Tue Aug 18 14:44:17 IST 2015
+okay to start
+Tue Aug 18 14:44:27 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 15:01:36 IST 2015
+Tue Aug 18 15:01:37 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    250.1
+vm destroyed
+Tue Aug 18 15:01:48 IST 2015
+Tue Aug 18 15:01:48 IST 2015
+Tue Aug 18 15:01:48 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 15:03:48 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 15:04:55 IST 2015
+going for sleep 40
+Tue Aug 18 15:05:35 IST 2015
+came from sleep
+Tue Aug 18 15:05:35 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 3
+fcount is 1
+Benchmark started
+Tue Aug 18 15:05:36 IST 2015
+hi
+Tue Aug 18 15:05:36 IST 2015
+going for sleep 10
+Tue Aug 18 15:05:46 IST 2015
+came from sleep
+Tue Aug 18 15:05:46 IST 2015
+system_is_nw_started_done
+Tue Aug 18 15:05:46 IST 2015
+id is 3
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 15:06:11 IST 2015
+going for sleep 70
+Tue Aug 18 15:06:41 IST 2015
+came from sleep
+Tue Aug 18 15:06:41 IST 2015
+2990
+Tue Aug 18 15:06:41 IST 2015
+okay to start
+Tue Aug 18 15:06:51 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 15:23:50 IST 2015
+Tue Aug 18 15:23:51 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    243.3
+vm destroyed
+Tue Aug 18 15:24:02 IST 2015
+Tue Aug 18 15:24:02 IST 2015
+Tue Aug 18 15:24:02 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 15:26:02 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 15:27:10 IST 2015
+going for sleep 40
+Tue Aug 18 15:27:50 IST 2015
+came from sleep
+Tue Aug 18 15:27:50 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 4
+fcount is 1
+Benchmark started
+Tue Aug 18 15:27:50 IST 2015
+hi
+Tue Aug 18 15:27:51 IST 2015
+going for sleep 10
+Tue Aug 18 15:28:01 IST 2015
+came from sleep
+Tue Aug 18 15:28:01 IST 2015
+system_is_nw_started_done
+Tue Aug 18 15:28:01 IST 2015
+id is 4
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Tue Aug 18 15:28:23 IST 2015
+going for sleep 70
+Tue Aug 18 15:28:53 IST 2015
+came from sleep
+Tue Aug 18 15:28:53 IST 2015
+2761
+Tue Aug 18 15:28:53 IST 2015
+not okay
+Tue Aug 18 15:29:03 IST 2015
+not okay
+Tue Aug 18 15:29:13 IST 2015
+not okay
+Tue Aug 18 15:29:23 IST 2015
+not okay
+Tue Aug 18 15:29:34 IST 2015
+not okay
+Tue Aug 18 15:29:44 IST 2015
+not okay
+Tue Aug 18 15:29:54 IST 2015
+not okay
+Tue Aug 18 15:30:04 IST 2015
+not okay
+Tue Aug 18 15:30:14 IST 2015
+not okay
+Tue Aug 18 15:30:24 IST 2015
+not okay
+Tue Aug 18 15:30:34 IST 2015
+not okay
+Tue Aug 18 15:30:44 IST 2015
+not okay
+Tue Aug 18 15:30:54 IST 2015
+not okay
+Tue Aug 18 15:31:04 IST 2015
+not okay
+Tue Aug 18 15:31:14 IST 2015
+not okay
+Tue Aug 18 15:31:24 IST 2015
+not okay
+Tue Aug 18 15:31:34 IST 2015
+not okay
+Tue Aug 18 15:31:44 IST 2015
+not okay
+Tue Aug 18 15:31:55 IST 2015
+not okay
+Tue Aug 18 15:32:05 IST 2015
+not okay
+Tue Aug 18 15:32:15 IST 2015
+not okay
+Tue Aug 18 15:32:25 IST 2015
+not okay
+Tue Aug 18 15:32:35 IST 2015
+not okay
+Tue Aug 18 15:32:45 IST 2015
+not okay
+Tue Aug 18 15:32:55 IST 2015
+not okay
+Tue Aug 18 15:33:05 IST 2015
+not okay
+Tue Aug 18 15:33:15 IST 2015
+not okay
+Tue Aug 18 15:33:25 IST 2015
+not okay
+Tue Aug 18 15:33:35 IST 2015
+not okay
+/dev/vg_xen/vm1_disk: clean, 219675/2752512 files, 5643017/11010048 blocks
+/dev/vg_xen/vm2_disk: clean, 211346/2621440 files, 5423606/10485760 blocks
+/dev/vg_xen/vm3_disk: clean, 212017/2621440 files, 5447684/10485760 blocks
+/dev/vg_xen/vm4_disk: clean, 211029/2621440 files, 5412812/10485760 blocks
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=5)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=6)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=7)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=8)
+Tue Aug 18 15:35:02 IST 2015
+okay to start
+Tue Aug 18 15:35:12 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 15:52:07 IST 2015
+Tue Aug 18 15:52:08 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    315.2
+vm destroyed
+Tue Aug 18 15:52:19 IST 2015
+Tue Aug 18 15:52:19 IST 2015
+Tue Aug 18 15:52:19 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 15:54:19 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 15:55:26 IST 2015
+going for sleep 40
+Tue Aug 18 15:56:06 IST 2015
+came from sleep
+Tue Aug 18 15:56:06 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 5
+fcount is 1
+Benchmark started
+Tue Aug 18 15:56:06 IST 2015
+hi
+Tue Aug 18 15:56:07 IST 2015
+going for sleep 10
+Tue Aug 18 15:56:17 IST 2015
+came from sleep
+Tue Aug 18 15:56:17 IST 2015
+system_is_nw_started_done
+Tue Aug 18 15:56:17 IST 2015
+id is 5
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 15:56:45 IST 2015
+going for sleep 70
+Tue Aug 18 15:57:15 IST 2015
+came from sleep
+Tue Aug 18 15:57:15 IST 2015
+2986
+Tue Aug 18 15:57:15 IST 2015
+okay to start
+Tue Aug 18 15:57:25 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 16:14:21 IST 2015
+Tue Aug 18 16:14:22 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    247.5
+vm destroyed
+Tue Aug 18 16:14:33 IST 2015
+Tue Aug 18 16:14:33 IST 2015
+Tue Aug 18 16:14:33 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 16:16:33 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 16:17:39 IST 2015
+going for sleep 40
+Tue Aug 18 16:18:19 IST 2015
+came from sleep
+Tue Aug 18 16:18:19 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 6
+fcount is 1
+Benchmark started
+Tue Aug 18 16:18:19 IST 2015
+hi
+Tue Aug 18 16:18:20 IST 2015
+going for sleep 10
+Tue Aug 18 16:18:30 IST 2015
+came from sleep
+Tue Aug 18 16:18:30 IST 2015
+system_is_nw_started_done
+Tue Aug 18 16:18:30 IST 2015
+id is 6
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 16:18:56 IST 2015
+going for sleep 70
+Tue Aug 18 16:19:26 IST 2015
+came from sleep
+Tue Aug 18 16:19:26 IST 2015
+2961
+Tue Aug 18 16:19:26 IST 2015
+okay to start
+Tue Aug 18 16:19:36 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 16:36:51 IST 2015
+Tue Aug 18 16:36:52 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    250.8
+vm destroyed
+Tue Aug 18 16:37:03 IST 2015
+Tue Aug 18 16:37:03 IST 2015
+Tue Aug 18 16:37:04 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 16:39:04 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 16:40:11 IST 2015
+going for sleep 40
+Tue Aug 18 16:40:51 IST 2015
+came from sleep
+Tue Aug 18 16:40:51 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 7
+fcount is 1
+curr is 7 is it will end
+goind for sleep 30
+returned from sleep
+10.129.26.195
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+Tue Aug 18 16:45:08 IST 2015
+going for sleep 40
+Tue Aug 18 16:45:48 IST 2015
+came from sleep
+Tue Aug 18 16:45:48 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 0
+fcount is 2
+Benchmark started
+Tue Aug 18 16:45:48 IST 2015
+hi
+Tue Aug 18 16:45:49 IST 2015
+going for sleep 10
+Tue Aug 18 16:45:59 IST 2015
+came from sleep
+Tue Aug 18 16:45:59 IST 2015
+system_is_nw_started_done
+Tue Aug 18 16:45:59 IST 2015
+id is 0
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=5)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=6)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=7)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=8)
+Tue Aug 18 16:46:25 IST 2015
+going for sleep 70
+Tue Aug 18 16:46:55 IST 2015
+came from sleep
+Tue Aug 18 16:46:55 IST 2015
+4643
+Tue Aug 18 16:46:55 IST 2015
+okay to start
+Tue Aug 18 16:47:05 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 17:04:26 IST 2015
+Tue Aug 18 17:04:26 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----   1205.9
+vm destroyed
+Tue Aug 18 17:04:37 IST 2015
+Tue Aug 18 17:04:37 IST 2015
+Tue Aug 18 17:04:37 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 17:06:37 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 17:07:44 IST 2015
+going for sleep 40
+Tue Aug 18 17:08:24 IST 2015
+came from sleep
+Tue Aug 18 17:08:24 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 1
+fcount is 2
+Benchmark started
+Tue Aug 18 17:08:24 IST 2015
+hi
+Tue Aug 18 17:08:24 IST 2015
+going for sleep 10
+Tue Aug 18 17:08:34 IST 2015
+came from sleep
+Tue Aug 18 17:08:34 IST 2015
+system_is_nw_started_done
+Tue Aug 18 17:08:34 IST 2015
+id is 1
+Using config file "/etc/xen/vm1".
+Using config file "/etc/xen/vm2".
+Using config file "/etc/xen/vm3".
+Using config file "/etc/xen/vm4".
+Tue Aug 18 17:08:34 IST 2015
+going for sleep 70
+Tue Aug 18 17:09:05 IST 2015
+came from sleep
+Tue Aug 18 17:09:05 IST 2015
+3005
+Tue Aug 18 17:09:05 IST 2015
+not okay
+Tue Aug 18 17:09:15 IST 2015
+not okay
+Tue Aug 18 17:09:25 IST 2015
+not okay
+Tue Aug 18 17:09:35 IST 2015
+not okay
+Tue Aug 18 17:09:45 IST 2015
+not okay
+Tue Aug 18 17:09:55 IST 2015
+not okay
+Tue Aug 18 17:10:05 IST 2015
+not okay
+Tue Aug 18 17:10:15 IST 2015
+not okay
+Tue Aug 18 17:10:25 IST 2015
+not okay
+Tue Aug 18 17:10:35 IST 2015
+not okay
+Tue Aug 18 17:10:45 IST 2015
+not okay
+Tue Aug 18 17:10:55 IST 2015
+not okay
+Tue Aug 18 17:11:05 IST 2015
+not okay
+Tue Aug 18 17:11:15 IST 2015
+not okay
+Tue Aug 18 17:11:25 IST 2015
+not okay
+Tue Aug 18 17:11:35 IST 2015
+not okay
+Tue Aug 18 17:11:46 IST 2015
+not okay
+Tue Aug 18 17:11:56 IST 2015
+not okay
+Tue Aug 18 17:12:06 IST 2015
+not okay
+Tue Aug 18 17:12:16 IST 2015
+not okay
+Tue Aug 18 17:12:26 IST 2015
+not okay
+Tue Aug 18 17:12:36 IST 2015
+not okay
+Tue Aug 18 17:12:46 IST 2015
+not okay
+Tue Aug 18 17:12:56 IST 2015
+not okay
+Tue Aug 18 17:13:06 IST 2015
+not okay
+Tue Aug 18 17:13:16 IST 2015
+not okay
+Tue Aug 18 17:13:26 IST 2015
+not okay
+Tue Aug 18 17:13:36 IST 2015
+not okay
+Tue Aug 18 17:13:46 IST 2015
+not okay
+Setting free blocks count to 5353837 (was 5364334)
+/dev/vg_xen/vm1_disk: clean, 219675/2752512 files, 5656211/11010048 blocks
+/dev/vg_xen/vm2_disk: clean, 211346/2621440 files, 5425267/10485760 blocks
+Setting free inodes count to 2408368 (was 2409423)
+Setting free blocks count to 5017146 (was 5042872)
+/dev/vg_xen/vm3_disk: clean, 213072/2621440 files, 5468614/10485760 blocks
+Setting free inodes count to 2409360 (was 2410411)
+Setting free blocks count to 5087387 (was 5075046)
+/dev/vg_xen/vm4_disk: clean, 212080/2621440 files, 5398373/10485760 blocks
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=5)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=6)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=7)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=8)
+Tue Aug 18 17:15:15 IST 2015
+not okay
+Tue Aug 18 17:15:25 IST 2015
+not okay
+Tue Aug 18 17:15:35 IST 2015
+not okay
+Tue Aug 18 17:15:45 IST 2015
+not okay
+Tue Aug 18 17:15:55 IST 2015
+not okay
+Tue Aug 18 17:16:05 IST 2015
+not okay
+Tue Aug 18 17:16:15 IST 2015
+not okay
+Tue Aug 18 17:16:25 IST 2015
+not okay
+Tue Aug 18 17:16:36 IST 2015
+not okay
+Tue Aug 18 17:16:46 IST 2015
+not okay
+Tue Aug 18 17:16:56 IST 2015
+not okay
+Tue Aug 18 17:17:06 IST 2015
+not okay
+Tue Aug 18 17:17:16 IST 2015
+not okay
+Tue Aug 18 17:17:26 IST 2015
+not okay
+Tue Aug 18 17:17:36 IST 2015
+not okay
+Tue Aug 18 17:17:46 IST 2015
+not okay
+Tue Aug 18 17:17:56 IST 2015
+not okay
+Tue Aug 18 17:18:06 IST 2015
+not okay
+Tue Aug 18 17:18:16 IST 2015
+not okay
+Tue Aug 18 17:18:26 IST 2015
+not okay
+Tue Aug 18 17:18:36 IST 2015
+not okay
+Tue Aug 18 17:18:47 IST 2015
+not okay
+Tue Aug 18 17:18:57 IST 2015
+not okay
+Tue Aug 18 17:19:07 IST 2015
+not okay
+Tue Aug 18 17:19:17 IST 2015
+not okay
+Tue Aug 18 17:19:27 IST 2015
+not okay
+Tue Aug 18 17:19:37 IST 2015
+not okay
+Tue Aug 18 17:19:47 IST 2015
+not okay
+Tue Aug 18 17:19:57 IST 2015
+not okay
+Tue Aug 18 17:20:07 IST 2015
+not okay
+/dev/vg_xen/vm1_disk contains a file system with errors, check forced.
+Pass 1: Checking inodes, blocks, and sizes
+
+Running additional passes to resolve blocks claimed by more than one inode...
+Pass 1B: Rescanning for multiply-claimed blocks
+Multiply-claimed block(s) in inode 1710224: 7286337 7286338 7286339 7286340 7286341 7286342 7286343 7286344 7286345 7286346
+Multiply-claimed block(s) in inode 1721964: 7286337 7286338 7286339 7286340 7286341 7286342 7286343 7286344 7286345 7286346
+Pass 1C: Scanning directories for inodes with multiply-claimed blocks
+Pass 1D: Reconciling multiply-claimed blocks
+(There are 2 inodes containing multiply-claimed blocks.)
+
+File /var/log/udev (inode #1710224, mod time Tue Aug 18 16:41:01 2015) 
+  has 10 multiply-claimed block(s), shared with 1 file(s):
+	/mnt/bigfileset/00000002/00000003/00000014/00000016/00000008/00000018 (inode #1721964, mod time Tue Aug 18 16:48:32 2015)
+Clone multiply-claimed blocks? yes
+
+File /mnt/bigfileset/00000002/00000003/00000014/00000016/00000008/00000018 (inode #1721964, mod time Tue Aug 18 16:48:32 2015) 
+  has 10 multiply-claimed block(s), shared with 1 file(s):
+	/var/log/udev (inode #1710224, mod time Tue Aug 18 16:41:01 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+Pass 2: Checking directory structure
+Entry '00000001' in /mnt/bigfileset/00000002/00000003/00000014/00000025/00000006/00000029 (1706144) references inode 1723368 found in group 210's unused inodes area.
+Fix? yes
+
+Restarting e2fsck from the beginning...
+One or more block group descriptor checksums are invalid.  Fix? yes
+
+Group descriptor 210 checksum is invalid.  FIXED.
+/dev/vg_xen/vm1_disk contains a file system with errors, check forced.
+Pass 1: Checking inodes, blocks, and sizes
+Pass 2: Checking directory structure
+Entry 'resolv.conf' in /etc (2097153) has deleted/unused inode 2097990.  Clear? yes
+
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+Block bitmap differences:  -(2596902--2597921) -(2615296--2620415) -(3021733--3021987) -(3022848--3026943) +6372352 -6372864 +(6397952--6410872) -7007407 +(7286347--7286348)Group 223 block(s) in use but group is marked BLOCK_UNINIT
+Fix? yes
+
+ -(7286354--7286374) +(7307264--7315139) -8421908
+Fix? yes
+
+Free blocks count wrong for group #0 (19627, counted=19617).
+Fix? yes
+
+Free blocks count wrong for group #79 (16354, counted=22494).
+Fix? yes
+
+Free blocks count wrong for group #92 (21340, counted=25691).
+Fix? yes
+
+Free blocks count wrong for group #208 (23610, counted=23559).
+Fix? yes
+
+Free blocks count wrong for group #213 (5, counted=10).
+Fix? yes
+
+Free blocks count wrong for group #215 (19, counted=12).
+Fix? yes
+
+Free blocks count wrong for group #217 (28, counted=23).
+Fix? yes
+
+Free blocks count wrong for group #219 (21, counted=25).
+Fix? yes
+
+Free blocks count wrong for group #220 (22, counted=23).
+Fix? yes
+
+Free blocks count wrong for group #221 (39, counted=21).
+Fix? yes
+
+Free blocks count wrong for group #222 (16868, counted=84).
+Fix? yes
+
+Free blocks count wrong for group #223 (32768, counted=24892).
+Fix? yes
+
+Free blocks count wrong for group #257 (32247, counted=32248).
+Fix? yes
+
+Free blocks count wrong (5353837, counted=5339588).
+Fix? yes
+
+Inode bitmap differences:  -2097990
+Fix? yes
+
+Directories count wrong for group #209 (353, counted=404).
+Fix? yes
+
+Free inodes count wrong for group #210 (6183, counted=5132).
+Fix? yes
+
+Free inodes count wrong for group #256 (7029, counted=7030).
+Fix? yes
+
+Free inodes count wrong (2532837, counted=2531787).
+Fix? yes
+
+
+/dev/vg_xen/vm1_disk: ***** FILE SYSTEM WAS MODIFIED *****
+/dev/vg_xen/vm1_disk: 220725/2752512 files (0.1% non-contiguous), 5670460/11010048 blocks
+/dev/vg_xen/vm2_disk: recovering journal
+/dev/vg_xen/vm2_disk contains a file system with errors, check forced.
+Pass 1: Checking inodes, blocks, and sizes
+Inode 1971195, i_size is 11835062, should be 11862016.  Fix? yes
+
+Inode 1971195, i_blocks is 23128, should be 23176.  Fix? yes
+
+
+Running additional passes to resolve blocks claimed by more than one inode...
+Pass 1B: Rescanning for multiply-claimed blocks
+Multiply-claimed block(s) in inode 1971198: 7905470 7905471 7905472 7905473 7905474 7905475 7905476
+Multiply-claimed block(s) in inode 1971204: 7905472 7905473 7905474 7905475 7905476
+Multiply-claimed block(s) in inode 1971206: 7905470 7905471
+Pass 1C: Scanning directories for inodes with multiply-claimed blocks
+Pass 1D: Reconciling multiply-claimed blocks
+(There are 3 inodes containing multiply-claimed blocks.)
+
+File /var/log/udev (inode #1971198, mod time Tue Aug 18 16:41:12 2015) 
+  has 7 multiply-claimed block(s), shared with 2 file(s):
+	/var/log/dmesg (inode #1971204, mod time Tue Aug 18 16:46:17 2015)
+	/var/log/dmesg.1.gz (inode #1971206, mod time Tue Aug 18 16:18:49 2015)
+Clone multiply-claimed blocks? yes
+
+File /var/log/dmesg (inode #1971204, mod time Tue Aug 18 16:46:17 2015) 
+  has 5 multiply-claimed block(s), shared with 1 file(s):
+	/var/log/udev (inode #1971198, mod time Tue Aug 18 16:41:12 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+File /var/log/dmesg.1.gz (inode #1971206, mod time Tue Aug 18 16:18:49 2015) 
+  has 2 multiply-claimed block(s), shared with 1 file(s):
+	/var/log/udev (inode #1971198, mod time Tue Aug 18 16:41:12 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+Pass 2: Checking directory structure
+Entry '00000001' in /mnt/bigfileset/00000002/00000003/00000014/00000025/00000006/00000029 (1186636) references inode 1188570 found in group 145's unused inodes area.
+Fix? yes
+
+Entry '00000001' in /mnt/bigfileset/00000002/00000003/00000001/00000061/00000013/00000003 (1457232) references inode 1460809 found in group 178's unused inodes area.
+Fix? yes
+
+Restarting e2fsck from the beginning...
+One or more block group descriptor checksums are invalid.  Fix? yes
+
+Group descriptor 145 checksum is invalid.  FIXED.
+Group descriptor 178 checksum is invalid.  FIXED.
+/dev/vg_xen/vm2_disk contains a file system with errors, check forced.
+Pass 1: Checking inodes, blocks, and sizes
+Pass 2: Checking directory structure
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+Block bitmap differences:  -(1297759--1297764) -(1311236--1311743) +(1311748--1312255) -1312768 +1321984 +(7905477--7905481) -(7905498--7905514)
+Fix? yes
+
+Free blocks count wrong for group #0 (20227, counted=20220).
+Fix? yes
+
+Free blocks count wrong for group #16 (22592, counted=22586).
+Fix? yes
+
+Free blocks count wrong for group #41 (24729, counted=24244).
+Fix? yes
+
+Free blocks count wrong for group #144 (23392, counted=23391).
+Fix? yes
+
+Free blocks count wrong for group #150 (11, counted=1).
+Fix? yes
+
+Free blocks count wrong for group #151 (421, counted=263).
+Fix? yes
+
+Free blocks count wrong for group #152 (25038, counted=22934).
+Fix? yes
+
+Free blocks count wrong for group #160 (23369, counted=23367).
+Fix? yes
+
+Free blocks count wrong for group #170 (5, counted=8).
+Fix? yes
+
+Free blocks count wrong for group #171 (28, counted=39).
+Fix? yes
+
+Free blocks count wrong for group #172 (18161, counted=19904).
+Fix? yes
+
+Free blocks count wrong for group #176 (23476, counted=23428).
+Fix? yes
+
+Free blocks count wrong for group #179 (29, counted=20).
+Fix? yes
+
+Free blocks count wrong for group #180 (45, counted=25).
+Fix? yes
+
+Free blocks count wrong for group #181 (21798, counted=405).
+Fix? yes
+
+Free blocks count wrong for group #182 (32445, counted=29693).
+Fix? yes
+
+Free blocks count wrong for group #241 (14489, counted=14496).
+Fix? yes
+
+Free blocks count wrong (5060506, counted=5035262).
+Fix? yes
+
+Directories count wrong for group #144 (1127, counted=1128).
+Fix? yes
+
+Free inodes count wrong for group #145 (7576, counted=7450).
+Fix? yes
+
+Directories count wrong for group #161 (308, counted=310).
+Fix? yes
+
+Free inodes count wrong for group #162 (5071, counted=5159).
+Fix? yes
+
+Directories count wrong for group #177 (422, counted=470).
+Fix? yes
+
+Free inodes count wrong for group #178 (6566, counted=5553).
+Fix? yes
+
+Free inodes count wrong (2410094, counted=2409043).
+Fix? yes
+
+
+/dev/vg_xen/vm2_disk: ***** FILE SYSTEM WAS MODIFIED *****
+/dev/vg_xen/vm2_disk: 212397/2621440 files (0.2% non-contiguous), 5450498/10485760 blocks
+/dev/vg_xen/vm3_disk: recovering journal
+Setting free blocks count to 5017156 (was 5017146)
+/dev/vg_xen/vm3_disk: clean, 213072/2621440 files, 5468604/10485760 blocks
+/dev/vg_xen/vm4_disk: clean, 212079/2621440 files, 5438557/10485760 blocks
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=9)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=10)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=11)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=12)
+Tue Aug 18 17:21:50 IST 2015
+okay to start
+Tue Aug 18 17:22:00 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 17:38:45 IST 2015
+Tue Aug 18 17:38:45 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    395.3
+vm destroyed
+Tue Aug 18 17:38:56 IST 2015
+Tue Aug 18 17:38:56 IST 2015
+Tue Aug 18 17:38:57 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 17:40:57 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 17:42:00 IST 2015
+going for sleep 40
+Tue Aug 18 17:42:40 IST 2015
+came from sleep
+Tue Aug 18 17:42:40 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 2
+fcount is 2
+Benchmark started
+Tue Aug 18 17:42:40 IST 2015
+hi
+Tue Aug 18 17:42:40 IST 2015
+going for sleep 10
+Tue Aug 18 17:42:50 IST 2015
+came from sleep
+Tue Aug 18 17:42:50 IST 2015
+system_is_nw_started_done
+Tue Aug 18 17:42:50 IST 2015
+id is 2
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 17:43:16 IST 2015
+going for sleep 70
+Tue Aug 18 17:43:46 IST 2015
+came from sleep
+Tue Aug 18 17:43:46 IST 2015
+3207
+Tue Aug 18 17:43:46 IST 2015
+not okay
+Tue Aug 18 17:43:56 IST 2015
+not okay
+Tue Aug 18 17:44:06 IST 2015
+not okay
+Tue Aug 18 17:44:16 IST 2015
+not okay
+Tue Aug 18 17:44:26 IST 2015
+not okay
+Tue Aug 18 17:44:36 IST 2015
+not okay
+Tue Aug 18 17:44:46 IST 2015
+not okay
+Tue Aug 18 17:44:56 IST 2015
+not okay
+Tue Aug 18 17:45:06 IST 2015
+not okay
+Tue Aug 18 17:45:17 IST 2015
+not okay
+Tue Aug 18 17:45:27 IST 2015
+not okay
+Tue Aug 18 17:45:37 IST 2015
+not okay
+Tue Aug 18 17:45:47 IST 2015
+not okay
+Tue Aug 18 17:45:57 IST 2015
+not okay
+Tue Aug 18 17:46:07 IST 2015
+not okay
+Tue Aug 18 17:46:17 IST 2015
+not okay
+Tue Aug 18 17:46:27 IST 2015
+not okay
+Tue Aug 18 17:46:37 IST 2015
+not okay
+Tue Aug 18 17:46:47 IST 2015
+not okay
+Tue Aug 18 17:46:57 IST 2015
+not okay
+Tue Aug 18 17:47:07 IST 2015
+not okay
+Tue Aug 18 17:47:17 IST 2015
+not okay
+Tue Aug 18 17:47:27 IST 2015
+not okay
+Tue Aug 18 17:47:38 IST 2015
+not okay
+Tue Aug 18 17:47:48 IST 2015
+not okay
+Tue Aug 18 17:47:58 IST 2015
+not okay
+Tue Aug 18 17:48:08 IST 2015
+not okay
+Tue Aug 18 17:48:18 IST 2015
+not okay
+Tue Aug 18 17:48:28 IST 2015
+not okay
+/dev/vg_xen/vm1_disk: clean, 220726/2752512 files, 5676124/11010048 blocks
+/dev/vg_xen/vm2_disk: clean, 212397/2621440 files, 5453534/10485760 blocks
+/dev/vg_xen/vm3_disk: clean, 213072/2621440 files, 5469538/10485760 blocks
+/dev/vg_xen/vm4_disk: clean, 212080/2621440 files, 5436708/10485760 blocks
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=5)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=6)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=7)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=8)
+Tue Aug 18 17:49:55 IST 2015
+okay to start
+Tue Aug 18 17:50:05 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 18:07:12 IST 2015
+Tue Aug 18 18:07:13 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    317.2
+vm destroyed
+Tue Aug 18 18:07:23 IST 2015
+Tue Aug 18 18:07:23 IST 2015
+Tue Aug 18 18:07:24 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 18:09:24 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 18:10:30 IST 2015
+going for sleep 40
+Tue Aug 18 18:11:10 IST 2015
+came from sleep
+Tue Aug 18 18:11:10 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 3
+fcount is 2
+Benchmark started
+Tue Aug 18 18:11:10 IST 2015
+hi
+Tue Aug 18 18:11:10 IST 2015
+going for sleep 10
+Tue Aug 18 18:11:20 IST 2015
+came from sleep
+Tue Aug 18 18:11:20 IST 2015
+system_is_nw_started_done
+Tue Aug 18 18:11:20 IST 2015
+id is 3
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 18:11:47 IST 2015
+going for sleep 70
+Tue Aug 18 18:12:17 IST 2015
+came from sleep
+Tue Aug 18 18:12:17 IST 2015
+2979
+Tue Aug 18 18:12:17 IST 2015
+okay to start
+Tue Aug 18 18:12:27 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 18:29:36 IST 2015
+Tue Aug 18 18:29:36 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    250.3
+vm destroyed
+Tue Aug 18 18:29:47 IST 2015
+Tue Aug 18 18:29:47 IST 2015
+Tue Aug 18 18:29:47 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 18:31:47 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 18:32:55 IST 2015
+going for sleep 40
+Tue Aug 18 18:33:35 IST 2015
+came from sleep
+Tue Aug 18 18:33:35 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 4
+fcount is 2
+Benchmark started
+Tue Aug 18 18:33:35 IST 2015
+hi
+Tue Aug 18 18:33:35 IST 2015
+going for sleep 10
+Tue Aug 18 18:33:45 IST 2015
+came from sleep
+Tue Aug 18 18:33:45 IST 2015
+system_is_nw_started_done
+Tue Aug 18 18:33:45 IST 2015
+id is 4
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 18:34:11 IST 2015
+going for sleep 70
+Tue Aug 18 18:34:41 IST 2015
+came from sleep
+Tue Aug 18 18:34:41 IST 2015
+2989
+Tue Aug 18 18:34:41 IST 2015
+okay to start
+Tue Aug 18 18:34:51 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 18:52:15 IST 2015
+Tue Aug 18 18:52:15 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    247.4
+vm destroyed
+Tue Aug 18 18:52:26 IST 2015
+Tue Aug 18 18:52:27 IST 2015
+Tue Aug 18 18:52:27 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 18:54:27 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 18:55:34 IST 2015
+going for sleep 40
+Tue Aug 18 18:56:14 IST 2015
+came from sleep
+Tue Aug 18 18:56:14 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 5
+fcount is 2
+Benchmark started
+Tue Aug 18 18:56:14 IST 2015
+hi
+Tue Aug 18 18:56:15 IST 2015
+going for sleep 10
+Tue Aug 18 18:56:25 IST 2015
+came from sleep
+Tue Aug 18 18:56:25 IST 2015
+system_is_nw_started_done
+Tue Aug 18 18:56:25 IST 2015
+id is 5
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 18:56:50 IST 2015
+going for sleep 70
+Tue Aug 18 18:57:20 IST 2015
+came from sleep
+Tue Aug 18 18:57:20 IST 2015
+2978
+Tue Aug 18 18:57:20 IST 2015
+okay to start
+Tue Aug 18 18:57:30 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 19:14:56 IST 2015
+Tue Aug 18 19:14:56 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    246.5
+vm destroyed
+Tue Aug 18 19:15:07 IST 2015
+Tue Aug 18 19:15:08 IST 2015
+Tue Aug 18 19:15:08 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 19:17:08 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 19:18:16 IST 2015
+going for sleep 40
+Tue Aug 18 19:18:56 IST 2015
+came from sleep
+Tue Aug 18 19:18:56 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 6
+fcount is 2
+Benchmark started
+Tue Aug 18 19:18:56 IST 2015
+hi
+Tue Aug 18 19:18:56 IST 2015
+going for sleep 10
+Tue Aug 18 19:19:06 IST 2015
+came from sleep
+Tue Aug 18 19:19:06 IST 2015
+system_is_nw_started_done
+Tue Aug 18 19:19:06 IST 2015
+id is 6
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 19:19:33 IST 2015
+going for sleep 70
+Tue Aug 18 19:20:03 IST 2015
+came from sleep
+Tue Aug 18 19:20:03 IST 2015
+2966
+Tue Aug 18 19:20:03 IST 2015
+okay to start
+Tue Aug 18 19:20:13 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 19:37:45 IST 2015
+Tue Aug 18 19:37:46 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    251.3
+vm destroyed
+Tue Aug 18 19:37:57 IST 2015
+Tue Aug 18 19:37:57 IST 2015
+Tue Aug 18 19:37:57 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 19:39:57 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 19:41:05 IST 2015
+going for sleep 40
+Tue Aug 18 19:41:45 IST 2015
+came from sleep
+Tue Aug 18 19:41:45 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 7
+fcount is 2
+curr is 7 is it will end
+goind for sleep 30
+returned from sleep
+10.129.26.195
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+next is fs
+10.129.26.195
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+going for sleep 120
+Tue Aug 18 19:45:58 IST 2015
+going for sleep 40
+Tue Aug 18 19:46:38 IST 2015
+came from sleep
+Tue Aug 18 19:46:38 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 0
+fcount is 0
+Benchmark started
+Tue Aug 18 19:46:38 IST 2015
+hi
+Tue Aug 18 19:46:39 IST 2015
+going for sleep 10
+Tue Aug 18 19:46:49 IST 2015
+came from sleep
+Tue Aug 18 19:46:49 IST 2015
+system_is_nw_started_done
+Tue Aug 18 19:46:49 IST 2015
+id is 0
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=4)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=5)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=6)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=7)
+Tue Aug 18 19:47:15 IST 2015
+going for sleep 70
+Tue Aug 18 19:47:45 IST 2015
+came from sleep
+Tue Aug 18 19:47:45 IST 2015
+4133
+Tue Aug 18 19:47:45 IST 2015
+okay to start
+Tue Aug 18 19:47:55 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 20:04:56 IST 2015
+Tue Aug 18 20:04:57 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----   1174.3
+vm destroyed
+Tue Aug 18 20:05:08 IST 2015
+Tue Aug 18 20:05:08 IST 2015
+Tue Aug 18 20:05:08 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 20:07:08 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 20:08:15 IST 2015
+going for sleep 40
+Tue Aug 18 20:08:55 IST 2015
+came from sleep
+Tue Aug 18 20:08:55 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 1
+fcount is 0
+Benchmark started
+Tue Aug 18 20:08:55 IST 2015
+hi
+Tue Aug 18 20:08:55 IST 2015
+going for sleep 10
+Tue Aug 18 20:09:05 IST 2015
+came from sleep
+Tue Aug 18 20:09:05 IST 2015
+system_is_nw_started_done
+Tue Aug 18 20:09:05 IST 2015
+id is 1
+Using config file "/etc/xen/vm1".
+Using config file "/etc/xen/vm2".
+Using config file "/etc/xen/vm3".
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 20:09:09 IST 2015
+going for sleep 70
+Tue Aug 18 20:09:39 IST 2015
+came from sleep
+Tue Aug 18 20:09:39 IST 2015
+2975
+Tue Aug 18 20:09:39 IST 2015
+not okay
+Tue Aug 18 20:09:49 IST 2015
+not okay
+Tue Aug 18 20:09:59 IST 2015
+not okay
+Tue Aug 18 20:10:09 IST 2015
+not okay
+Tue Aug 18 20:10:19 IST 2015
+not okay
+Tue Aug 18 20:10:29 IST 2015
+not okay
+Tue Aug 18 20:10:39 IST 2015
+not okay
+Tue Aug 18 20:10:49 IST 2015
+not okay
+Tue Aug 18 20:11:00 IST 2015
+not okay
+Tue Aug 18 20:11:10 IST 2015
+not okay
+Tue Aug 18 20:11:20 IST 2015
+not okay
+Tue Aug 18 20:11:30 IST 2015
+not okay
+Tue Aug 18 20:11:40 IST 2015
+not okay
+Tue Aug 18 20:11:50 IST 2015
+not okay
+Tue Aug 18 20:12:00 IST 2015
+not okay
+Tue Aug 18 20:12:10 IST 2015
+not okay
+Tue Aug 18 20:12:20 IST 2015
+not okay
+Tue Aug 18 20:12:30 IST 2015
+not okay
+Tue Aug 18 20:12:40 IST 2015
+not okay
+Tue Aug 18 20:12:50 IST 2015
+not okay
+Tue Aug 18 20:13:00 IST 2015
+not okay
+Tue Aug 18 20:13:10 IST 2015
+not okay
+Tue Aug 18 20:13:20 IST 2015
+not okay
+Tue Aug 18 20:13:30 IST 2015
+not okay
+Tue Aug 18 20:13:40 IST 2015
+not okay
+Tue Aug 18 20:13:51 IST 2015
+not okay
+Tue Aug 18 20:14:01 IST 2015
+not okay
+Tue Aug 18 20:14:11 IST 2015
+not okay
+Tue Aug 18 20:14:21 IST 2015
+not okay
+Setting free blocks count to 5340327 (was 5340333)
+/dev/vg_xen/vm1_disk: clean, 220726/2752512 files, 5669721/11010048 blocks
+/dev/vg_xen/vm2_disk: clean, 212397/2621440 files, 5450507/10485760 blocks
+Setting free inodes count to 2414383 (was 2408368)
+Setting free blocks count to 5070725 (was 5016302)
+/dev/vg_xen/vm3_disk: clean, 207057/2621440 files, 5415035/10485760 blocks
+/dev/vg_xen/vm4_disk: clean, 212080/2621440 files, 5428922/10485760 blocks
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=5)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=6)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=7)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=8)
+Tue Aug 18 20:15:52 IST 2015
+okay to start
+Tue Aug 18 20:16:02 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 20:31:37 IST 2015
+Tue Aug 18 20:31:38 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    295.0
+vm destroyed
+Tue Aug 18 20:31:49 IST 2015
+Tue Aug 18 20:31:49 IST 2015
+Tue Aug 18 20:31:49 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 20:33:49 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 20:34:57 IST 2015
+going for sleep 40
+Tue Aug 18 20:35:37 IST 2015
+came from sleep
+Tue Aug 18 20:35:37 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 2
+fcount is 0
+Benchmark started
+Tue Aug 18 20:35:37 IST 2015
+hi
+Tue Aug 18 20:35:37 IST 2015
+going for sleep 10
+Tue Aug 18 20:35:47 IST 2015
+came from sleep
+Tue Aug 18 20:35:47 IST 2015
+system_is_nw_started_done
+Tue Aug 18 20:35:47 IST 2015
+id is 2
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 20:36:22 IST 2015
+going for sleep 70
+Tue Aug 18 20:36:52 IST 2015
+came from sleep
+Tue Aug 18 20:36:52 IST 2015
+3348
+Tue Aug 18 20:36:52 IST 2015
+not okay
+Tue Aug 18 20:37:02 IST 2015
+not okay
+Tue Aug 18 20:37:12 IST 2015
+not okay
+Tue Aug 18 20:37:22 IST 2015
+not okay
+Tue Aug 18 20:37:32 IST 2015
+not okay
+Tue Aug 18 20:37:42 IST 2015
+not okay
+Tue Aug 18 20:37:52 IST 2015
+not okay
+Tue Aug 18 20:38:02 IST 2015
+not okay
+Tue Aug 18 20:38:12 IST 2015
+not okay
+Tue Aug 18 20:38:22 IST 2015
+not okay
+Tue Aug 18 20:38:32 IST 2015
+not okay
+Tue Aug 18 20:38:42 IST 2015
+not okay
+Tue Aug 18 20:38:52 IST 2015
+not okay
+Tue Aug 18 20:39:02 IST 2015
+not okay
+Tue Aug 18 20:39:12 IST 2015
+not okay
+Tue Aug 18 20:39:22 IST 2015
+not okay
+Tue Aug 18 20:39:33 IST 2015
+not okay
+Tue Aug 18 20:39:43 IST 2015
+not okay
+Tue Aug 18 20:39:53 IST 2015
+not okay
+Tue Aug 18 20:40:03 IST 2015
+not okay
+Tue Aug 18 20:40:13 IST 2015
+not okay
+Tue Aug 18 20:40:23 IST 2015
+not okay
+Tue Aug 18 20:40:33 IST 2015
+not okay
+Tue Aug 18 20:40:43 IST 2015
+not okay
+Tue Aug 18 20:40:53 IST 2015
+not okay
+Tue Aug 18 20:41:03 IST 2015
+not okay
+Tue Aug 18 20:41:13 IST 2015
+not okay
+Tue Aug 18 20:41:23 IST 2015
+not okay
+Tue Aug 18 20:41:33 IST 2015
+not okay
+/dev/vg_xen/vm1_disk contains a file system with errors, check forced.
+Pass 1: Checking inodes, blocks, and sizes
+
+Running additional passes to resolve blocks claimed by more than one inode...
+Pass 1B: Rescanning for multiply-claimed blocks
+Multiply-claimed block(s) in inode 1703943: 6852060 6852061 6852062 6852063
+Multiply-claimed block(s) in inode 1714293: 6852060 6852061 6852062 6852063
+Pass 1C: Scanning directories for inodes with multiply-claimed blocks
+Pass 1D: Reconciling multiply-claimed blocks
+(There are 2 inodes containing multiply-claimed blocks.)
+
+File /mnt/bigfileset/00000005/00000009 (inode #1703943, mod time Tue Aug 18 19:36:43 2015) 
+  has 4 multiply-claimed block(s), shared with 1 file(s):
+	/mnt/bigfileset/00000005/00000003/00000016/00000005/00000006/00000021/00000029 (inode #1714293, mod time Tue Aug 18 20:02:11 2015)
+Clone multiply-claimed blocks? yes
+
+File /mnt/bigfileset/00000005/00000003/00000016/00000005/00000006/00000021/00000029 (inode #1714293, mod time Tue Aug 18 20:02:11 2015) 
+  has 4 multiply-claimed block(s), shared with 1 file(s):
+	/mnt/bigfileset/00000005/00000009 (inode #1703943, mod time Tue Aug 18 19:36:43 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+Pass 2: Checking directory structure
+Entry '00000009' in /mnt/bigfileset/00000005 (1703942) has an incorrect filetype (was 2, should be 1).
+Fix? yes
+
+Entry '..' in ??? (1704368) has an incorrect filetype (was 2, should be 1).
+Fix? yes
+
+Entry '..' in ??? (1704820) has an incorrect filetype (was 2, should be 1).
+Fix? yes
+
+Entry '..' in ??? (1704888) has an incorrect filetype (was 2, should be 1).
+Fix? yes
+
+Entry '..' in ??? (1704911) has an incorrect filetype (was 2, should be 1).
+Fix? yes
+
+Entry '..' in ??? (1704921) has an incorrect filetype (was 2, should be 1).
+Fix? yes
+
+Entry 'resolv.conf' in /etc (2097153) has deleted/unused inode 2097990.  Clear? yes
+
+Pass 3: Checking directory connectivity
+Unconnected directory inode 1704368 (???)
+Connect to /lost+found? yes
+
+Unconnected directory inode 1704820 (???)
+Connect to /lost+found? yes
+
+Unconnected directory inode 1704888 (???)
+Connect to /lost+found? yes
+
+Unconnected directory inode 1704911 (???)
+Connect to /lost+found? yes
+
+Unconnected directory inode 1704921 (???)
+Connect to /lost+found? yes
+
+Pass 4: Checking reference counts
+Inode 1703937 ref count is 4, should be 3.  Fix? yes
+
+Inode 1703939 ref count is 3, should be 7.  Fix? yes
+
+Inode 1703942 ref count is 2, should be 10.  Fix? yes
+
+Inode 1703943 ref count is 0, should be 1.  Fix? yes
+
+Inode 1704368 ref count is 8, should be 7.  Fix? yes
+
+Inode 1704820 ref count is 3, should be 2.  Fix? yes
+
+Inode 1704888 ref count is 3, should be 2.  Fix? yes
+
+Inode 1704911 ref count is 3, should be 2.  Fix? yes
+
+Inode 1704921 ref count is 3, should be 2.  Fix? yes
+
+Pass 5: Checking group summary information
+Block bitmap differences:  +6370816 -6372352 +(6397952--6410004) -(6863136--6863137) -(6864890--6864891) -(6868158--6868159) -(6870138--6870139) -(6870188--6870189) -(6870536--6870537) -(6870924--6870925) -(6871274--6871275) -(6871278--6871279) -(6874265--6874271) -(6874325--6874327) -(6874332--6874334) -6874960 -(6875473--6875475) -6875496 -(6875781--6875783) -(6875804--6875805) -(6876836--6876837) -(6878936--6878937) -6879323 -(6879861--6879863) -(6879959--6879967) -(6879980--6879981) -6880272 -(6880350--6880354)Group 225 block(s) in use but group is marked BLOCK_UNINIT
+Fix? yes
+
+ -(6880502--6880503) +(7372800--7372807) +(7372812--7372819) -8421908
+Fix? yes
+
+Free blocks count wrong for group #0 (19568, counted=19564).
+Fix? yes
+
+Free blocks count wrong for group #208 (23558, counted=23878).
+Fix? yes
+
+Free blocks count wrong for group #209 (1, counted=69).
+Fix? yes
+
+Free blocks count wrong for group #210 (0, counted=308).
+Fix? yes
+
+Free blocks count wrong for group #211 (0, counted=6).
+Fix? yes
+
+Free blocks count wrong for group #212 (0, counted=52).
+Fix? yes
+
+Free blocks count wrong for group #213 (10, counted=38).
+Fix? yes
+
+Free blocks count wrong for group #214 (25, counted=92).
+Fix? yes
+
+Free blocks count wrong for group #215 (12, counted=7965).
+Fix? yes
+
+Free blocks count wrong for group #216 (32, counted=10596).
+Fix? yes
+
+Free blocks count wrong for group #217 (23, counted=13649).
+Fix? yes
+
+Free blocks count wrong for group #219 (19, counted=11140).
+Fix? yes
+
+Free blocks count wrong for group #220 (20, counted=14582).
+Fix? yes
+
+Free blocks count wrong for group #221 (28, counted=13287).
+Fix? yes
+
+Free blocks count wrong for group #222 (60, counted=13919).
+Fix? yes
+
+Free blocks count wrong for group #223 (24895, counted=19520).
+Fix? yes
+
+Free blocks count wrong for group #224 (24543, counted=23403).
+Fix? yes
+
+Free blocks count wrong for group #225 (32768, counted=32752).
+Fix? yes
+
+Free blocks count wrong for group #257 (32247, counted=32248).
+Fix? yes
+
+Free blocks count wrong (5340326, counted=5419585).
+Fix? yes
+
+Inode bitmap differences:  -2097990
+Fix? yes
+
+Free inodes count wrong for group #209 (0, counted=4006).
+Fix? yes
+
+Directories count wrong for group #209 (404, counted=84).
+Fix? yes
+
+Free inodes count wrong for group #210 (5132, counted=8192).
+Fix? yes
+
+Free inodes count wrong for group #256 (7029, counted=7030).
+Fix? yes
+
+Free inodes count wrong (2531786, counted=2538853).
+Fix? yes
+
+
+/dev/vg_xen/vm1_disk: ***** FILE SYSTEM WAS MODIFIED *****
+/dev/vg_xen/vm1_disk: 213659/2752512 files (0.7% non-contiguous), 5590463/11010048 blocks
+/dev/vg_xen/vm2_disk: clean, 205331/2621440 files, 5362077/10485760 blocks
+/dev/vg_xen/vm3_disk: clean, 207057/2621440 files, 5403108/10485760 blocks
+/dev/vg_xen/vm4_disk: clean, 212080/2621440 files, 5465961/10485760 blocks
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=5)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=6)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=7)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=8)
+Tue Aug 18 20:43:05 IST 2015
+okay to start
+Tue Aug 18 20:43:15 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 21:02:29 IST 2015
+Tue Aug 18 21:02:30 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    319.9
+vm destroyed
+Tue Aug 18 21:02:41 IST 2015
+Tue Aug 18 21:02:41 IST 2015
+Tue Aug 18 21:02:41 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 21:04:41 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 21:05:48 IST 2015
+going for sleep 40
+Tue Aug 18 21:06:28 IST 2015
+came from sleep
+Tue Aug 18 21:06:28 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 3
+fcount is 0
+Benchmark started
+Tue Aug 18 21:06:28 IST 2015
+hi
+Tue Aug 18 21:06:28 IST 2015
+going for sleep 10
+Tue Aug 18 21:06:38 IST 2015
+came from sleep
+Tue Aug 18 21:06:38 IST 2015
+system_is_nw_started_done
+Tue Aug 18 21:06:38 IST 2015
+id is 3
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 21:07:04 IST 2015
+going for sleep 70
+Tue Aug 18 21:07:34 IST 2015
+came from sleep
+Tue Aug 18 21:07:34 IST 2015
+2979
+Tue Aug 18 21:07:34 IST 2015
+okay to start
+Tue Aug 18 21:07:44 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 21:24:51 IST 2015
+Tue Aug 18 21:24:52 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    214.8
+vm destroyed
+Tue Aug 18 21:25:03 IST 2015
+Tue Aug 18 21:25:03 IST 2015
+Tue Aug 18 21:25:03 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 21:27:03 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 21:28:11 IST 2015
+going for sleep 40
+Tue Aug 18 21:28:51 IST 2015
+came from sleep
+Tue Aug 18 21:28:51 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 4
+fcount is 0
+Benchmark started
+Tue Aug 18 21:28:51 IST 2015
+hi
+Tue Aug 18 21:28:51 IST 2015
+going for sleep 10
+Tue Aug 18 21:29:01 IST 2015
+came from sleep
+Tue Aug 18 21:29:01 IST 2015
+system_is_nw_started_done
+Tue Aug 18 21:29:01 IST 2015
+id is 4
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 21:29:28 IST 2015
+going for sleep 70
+Tue Aug 18 21:29:58 IST 2015
+came from sleep
+Tue Aug 18 21:29:58 IST 2015
+2976
+Tue Aug 18 21:29:58 IST 2015
+okay to start
+Tue Aug 18 21:30:08 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 21:47:30 IST 2015
+Tue Aug 18 21:47:30 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    230.0
+vm destroyed
+Tue Aug 18 21:47:41 IST 2015
+Tue Aug 18 21:47:41 IST 2015
+Tue Aug 18 21:47:41 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 21:49:41 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 21:50:48 IST 2015
+going for sleep 40
+Tue Aug 18 21:51:28 IST 2015
+came from sleep
+Tue Aug 18 21:51:28 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 5
+fcount is 0
+Benchmark started
+Tue Aug 18 21:51:28 IST 2015
+hi
+Tue Aug 18 21:51:29 IST 2015
+going for sleep 10
+Tue Aug 18 21:51:39 IST 2015
+came from sleep
+Tue Aug 18 21:51:39 IST 2015
+system_is_nw_started_done
+Tue Aug 18 21:51:39 IST 2015
+id is 5
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 21:52:04 IST 2015
+going for sleep 70
+Tue Aug 18 21:52:34 IST 2015
+came from sleep
+Tue Aug 18 21:52:34 IST 2015
+3033
+Tue Aug 18 21:52:34 IST 2015
+okay to start
+Tue Aug 18 21:52:44 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 22:09:48 IST 2015
+Tue Aug 18 22:09:48 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    213.1
+vm destroyed
+Tue Aug 18 22:10:00 IST 2015
+Tue Aug 18 22:10:00 IST 2015
+Tue Aug 18 22:10:00 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 22:12:00 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 22:13:06 IST 2015
+going for sleep 40
+Tue Aug 18 22:13:46 IST 2015
+came from sleep
+Tue Aug 18 22:13:46 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 6
+fcount is 0
+Benchmark started
+Tue Aug 18 22:13:46 IST 2015
+hi
+Tue Aug 18 22:13:46 IST 2015
+going for sleep 10
+Tue Aug 18 22:13:56 IST 2015
+came from sleep
+Tue Aug 18 22:13:56 IST 2015
+system_is_nw_started_done
+Tue Aug 18 22:13:56 IST 2015
+id is 6
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 22:14:21 IST 2015
+going for sleep 70
+Tue Aug 18 22:14:51 IST 2015
+came from sleep
+Tue Aug 18 22:14:51 IST 2015
+2999
+Tue Aug 18 22:14:51 IST 2015
+okay to start
+Tue Aug 18 22:15:01 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 22:32:21 IST 2015
+Tue Aug 18 22:32:22 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    218.0
+vm destroyed
+Tue Aug 18 22:32:33 IST 2015
+Tue Aug 18 22:32:33 IST 2015
+Tue Aug 18 22:32:33 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 22:34:34 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 22:35:44 IST 2015
+going for sleep 40
+Tue Aug 18 22:36:24 IST 2015
+came from sleep
+Tue Aug 18 22:36:24 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 7
+fcount is 0
+curr is 7 is it will end
+goind for sleep 30
+returned from sleep
+10.129.26.195
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+Tue Aug 18 22:40:41 IST 2015
+going for sleep 40
+Tue Aug 18 22:41:21 IST 2015
+came from sleep
+Tue Aug 18 22:41:21 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 0
+fcount is 1
+Benchmark started
+Tue Aug 18 22:41:21 IST 2015
+hi
+Tue Aug 18 22:41:21 IST 2015
+going for sleep 10
+Tue Aug 18 22:41:31 IST 2015
+came from sleep
+Tue Aug 18 22:41:31 IST 2015
+system_is_nw_started_done
+Tue Aug 18 22:41:31 IST 2015
+id is 0
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=5)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=6)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=7)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=8)
+Tue Aug 18 22:41:58 IST 2015
+going for sleep 70
+Tue Aug 18 22:42:28 IST 2015
+came from sleep
+Tue Aug 18 22:42:28 IST 2015
+4625
+Tue Aug 18 22:42:28 IST 2015
+okay to start
+Tue Aug 18 22:42:38 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 23:00:02 IST 2015
+Tue Aug 18 23:00:02 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----   1203.2
+vm destroyed
+Tue Aug 18 23:00:13 IST 2015
+Tue Aug 18 23:00:13 IST 2015
+Tue Aug 18 23:00:14 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 23:02:14 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 23:03:25 IST 2015
+going for sleep 40
+Tue Aug 18 23:04:05 IST 2015
+came from sleep
+Tue Aug 18 23:04:05 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 1
+fcount is 1
+Benchmark started
+Tue Aug 18 23:04:05 IST 2015
+hi
+Tue Aug 18 23:04:05 IST 2015
+going for sleep 10
+Tue Aug 18 23:04:15 IST 2015
+came from sleep
+Tue Aug 18 23:04:15 IST 2015
+system_is_nw_started_done
+Tue Aug 18 23:04:15 IST 2015
+id is 1
+Using config file "/etc/xen/vm1".
+Using config file "/etc/xen/vm2".
+Using config file "/etc/xen/vm3".
+Using config file "/etc/xen/vm4".
+Tue Aug 18 23:04:16 IST 2015
+going for sleep 70
+Tue Aug 18 23:04:46 IST 2015
+came from sleep
+Tue Aug 18 23:04:46 IST 2015
+2989
+Tue Aug 18 23:04:46 IST 2015
+not okay
+Tue Aug 18 23:04:56 IST 2015
+not okay
+Tue Aug 18 23:05:06 IST 2015
+not okay
+Tue Aug 18 23:05:16 IST 2015
+not okay
+Tue Aug 18 23:05:26 IST 2015
+not okay
+Tue Aug 18 23:05:36 IST 2015
+not okay
+Tue Aug 18 23:05:46 IST 2015
+not okay
+Tue Aug 18 23:05:56 IST 2015
+not okay
+Tue Aug 18 23:06:06 IST 2015
+not okay
+Tue Aug 18 23:06:16 IST 2015
+not okay
+Tue Aug 18 23:06:26 IST 2015
+not okay
+Tue Aug 18 23:06:37 IST 2015
+not okay
+Tue Aug 18 23:06:47 IST 2015
+not okay
+Tue Aug 18 23:06:57 IST 2015
+not okay
+Tue Aug 18 23:07:07 IST 2015
+not okay
+Tue Aug 18 23:07:17 IST 2015
+not okay
+Tue Aug 18 23:07:27 IST 2015
+not okay
+Tue Aug 18 23:07:37 IST 2015
+not okay
+Tue Aug 18 23:07:47 IST 2015
+not okay
+Tue Aug 18 23:07:57 IST 2015
+not okay
+Tue Aug 18 23:08:07 IST 2015
+not okay
+Tue Aug 18 23:08:17 IST 2015
+not okay
+Tue Aug 18 23:08:27 IST 2015
+not okay
+Tue Aug 18 23:08:37 IST 2015
+not okay
+Tue Aug 18 23:08:47 IST 2015
+not okay
+Tue Aug 18 23:08:57 IST 2015
+not okay
+Tue Aug 18 23:09:07 IST 2015
+not okay
+Tue Aug 18 23:09:18 IST 2015
+not okay
+Tue Aug 18 23:09:28 IST 2015
+not okay
+/dev/vg_xen/vm1_disk: clean, 213794/2752512 files, 5588652/11010048 blocks
+/dev/vg_xen/vm2_disk: clean, 205330/2621440 files, 5360894/10485760 blocks
+Setting free inodes count to 2414389 (was 2414385)
+Setting free blocks count to 5081661 (was 5082233)
+/dev/vg_xen/vm3_disk: clean, 207051/2621440 files, 5404099/10485760 blocks
+Setting free inodes count to 2408301 (was 2409360)
+Setting free blocks count to 5060430 (was 5055564)
+/dev/vg_xen/vm4_disk: clean, 213139/2621440 files, 5425330/10485760 blocks
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=5)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=6)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=7)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=8)
+Tue Aug 18 23:10:59 IST 2015
+not okay
+Tue Aug 18 23:11:09 IST 2015
+not okay
+Tue Aug 18 23:11:19 IST 2015
+not okay
+Tue Aug 18 23:11:29 IST 2015
+not okay
+Tue Aug 18 23:11:39 IST 2015
+not okay
+Tue Aug 18 23:11:49 IST 2015
+not okay
+Tue Aug 18 23:12:00 IST 2015
+not okay
+Tue Aug 18 23:12:10 IST 2015
+not okay
+Tue Aug 18 23:12:20 IST 2015
+not okay
+Tue Aug 18 23:12:30 IST 2015
+not okay
+Tue Aug 18 23:12:40 IST 2015
+not okay
+Tue Aug 18 23:12:50 IST 2015
+not okay
+Tue Aug 18 23:13:00 IST 2015
+not okay
+Tue Aug 18 23:13:10 IST 2015
+not okay
+Tue Aug 18 23:13:20 IST 2015
+not okay
+Tue Aug 18 23:13:30 IST 2015
+not okay
+Tue Aug 18 23:13:40 IST 2015
+not okay
+Tue Aug 18 23:13:50 IST 2015
+not okay
+Tue Aug 18 23:14:00 IST 2015
+not okay
+Tue Aug 18 23:14:10 IST 2015
+not okay
+Tue Aug 18 23:14:20 IST 2015
+not okay
+Tue Aug 18 23:14:30 IST 2015
+not okay
+Tue Aug 18 23:14:40 IST 2015
+not okay
+Tue Aug 18 23:14:51 IST 2015
+not okay
+Tue Aug 18 23:15:01 IST 2015
+not okay
+Tue Aug 18 23:15:11 IST 2015
+not okay
+Tue Aug 18 23:15:21 IST 2015
+not okay
+Tue Aug 18 23:15:31 IST 2015
+not okay
+Tue Aug 18 23:15:41 IST 2015
+not okay
+Tue Aug 18 23:15:51 IST 2015
+not okay
+/dev/vg_xen/vm1_disk: clean, 213793/2752512 files, 5587501/11010048 blocks
+/dev/vg_xen/vm2_disk: recovering journal
+/dev/vg_xen/vm2_disk contains a file system with errors, check forced.
+Pass 1: Checking inodes, blocks, and sizes
+Inode 1971195, i_size is 12262474, should be 12292096.  Fix? yes
+
+Inode 1971195, i_blocks is 23960, should be 24016.  Fix? yes
+
+
+Running additional passes to resolve blocks claimed by more than one inode...
+Pass 1B: Rescanning for multiply-claimed blocks
+Multiply-claimed block(s) in inode 1971198: 7905496 7905497 7905498 7905499 7905500 7905508
+Multiply-claimed block(s) in inode 1971205: 7905496 7905497 7905498 7905499 7905500
+Multiply-claimed block(s) in inode 1971209: 7905508
+Pass 1C: Scanning directories for inodes with multiply-claimed blocks
+Pass 1D: Reconciling multiply-claimed blocks
+(There are 3 inodes containing multiply-claimed blocks.)
+
+File /var/log/udev (inode #1971198, mod time Tue Aug 18 22:36:42 2015) 
+  has 6 multiply-claimed block(s), shared with 2 file(s):
+	/var/log/dmesg.1.gz (inode #1971209, mod time Tue Aug 18 22:14:14 2015)
+	/var/log/dmesg (inode #1971205, mod time Tue Aug 18 22:41:50 2015)
+Clone multiply-claimed blocks? yes
+
+File /var/log/dmesg (inode #1971205, mod time Tue Aug 18 22:41:50 2015) 
+  has 5 multiply-claimed block(s), shared with 1 file(s):
+	/var/log/udev (inode #1971198, mod time Tue Aug 18 22:36:42 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+File /var/log/dmesg.1.gz (inode #1971209, mod time Tue Aug 18 22:14:14 2015) 
+  has 1 multiply-claimed block(s), shared with 1 file(s):
+	/var/log/udev (inode #1971198, mod time Tue Aug 18 22:36:42 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+Pass 2: Checking directory structure
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+Block bitmap differences:  -(1297854--1297859) -1312768 +1325568 -(7905483--7905494) +(7905501--7905507)
+Fix? yes
+
+Free blocks count wrong for group #0 (20227, counted=20221).
+Fix? yes
+
+Free blocks count wrong for group #16 (22488, counted=22481).
+Fix? yes
+
+Free blocks count wrong for group #150 (2115, counted=1849).
+Fix? yes
+
+Free blocks count wrong for group #151 (13765, counted=13248).
+Fix? yes
+
+Free blocks count wrong for group #152 (14519, counted=15041).
+Fix? yes
+
+Free blocks count wrong for group #153 (16530, counted=16807).
+Fix? yes
+
+Free blocks count wrong for group #154 (17565, counted=18120).
+Fix? yes
+
+Free blocks count wrong for group #155 (26328, counted=23735).
+Fix? yes
+
+Free blocks count wrong for group #169 (7420, counted=7151).
+Fix? yes
+
+Free blocks count wrong for group #170 (13460, counted=13799).
+Fix? yes
+
+Free blocks count wrong for group #171 (14453, counted=14129).
+Fix? yes
+
+Free blocks count wrong for group #172 (14273, counted=17323).
+Fix? yes
+
+Free blocks count wrong for group #173 (31196, counted=29316).
+Fix? yes
+
+Free blocks count wrong for group #241 (14480, counted=14486).
+Fix? yes
+
+Free blocks count wrong (5124880, counted=5123753).
+Fix? yes
+
+Free inodes count wrong for group #161 (4, counted=5).
+Fix? yes
+
+Free inodes count wrong (2416110, counted=2416111).
+Fix? yes
+
+
+/dev/vg_xen/vm2_disk: ***** FILE SYSTEM WAS MODIFIED *****
+/dev/vg_xen/vm2_disk: 205329/2621440 files (0.7% non-contiguous), 5362007/10485760 blocks
+/dev/vg_xen/vm3_disk: recovering journal
+Setting free blocks count to 5081684 (was 5081661)
+/dev/vg_xen/vm3_disk: clean, 207051/2621440 files, 5404076/10485760 blocks
+/dev/vg_xen/vm4_disk: recovering journal
+Setting free blocks count to 5060457 (was 5060430)
+/dev/vg_xen/vm4_disk: clean, 213139/2621440 files, 5425303/10485760 blocks
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=9)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=10)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=11)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=12)
+Tue Aug 18 23:17:22 IST 2015
+okay to start
+Tue Aug 18 23:17:32 IST 2015
+start mybench
+mybench finished
+Tue Aug 18 23:33:21 IST 2015
+Tue Aug 18 23:33:21 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    356.7
+vm destroyed
+Tue Aug 18 23:33:32 IST 2015
+Tue Aug 18 23:33:32 IST 2015
+Tue Aug 18 23:33:32 IST 2015
+going for sleep 120 before reboot
+Tue Aug 18 23:35:32 IST 2015
+came from sleep and going to reboot
+Tue Aug 18 23:36:42 IST 2015
+going for sleep 40
+Tue Aug 18 23:37:22 IST 2015
+came from sleep
+Tue Aug 18 23:37:22 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 2
+fcount is 1
+Benchmark started
+Tue Aug 18 23:37:22 IST 2015
+hi
+Tue Aug 18 23:37:22 IST 2015
+going for sleep 10
+Tue Aug 18 23:37:32 IST 2015
+came from sleep
+Tue Aug 18 23:37:32 IST 2015
+system_is_nw_started_done
+Tue Aug 18 23:37:32 IST 2015
+id is 2
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Tue Aug 18 23:37:57 IST 2015
+going for sleep 70
+Tue Aug 18 23:38:27 IST 2015
+came from sleep
+Tue Aug 18 23:38:27 IST 2015
+3341
+Tue Aug 18 23:38:27 IST 2015
+not okay
+Tue Aug 18 23:38:37 IST 2015
+not okay
+Tue Aug 18 23:38:47 IST 2015
+not okay
+Tue Aug 18 23:38:57 IST 2015
+not okay
+Tue Aug 18 23:39:07 IST 2015
+not okay
+Tue Aug 18 23:39:17 IST 2015
+not okay
+Tue Aug 18 23:39:27 IST 2015
+not okay
+Tue Aug 18 23:39:37 IST 2015
+not okay
+Tue Aug 18 23:39:47 IST 2015
+not okay
+Tue Aug 18 23:39:57 IST 2015
+not okay
+Tue Aug 18 23:40:07 IST 2015
+not okay
+Tue Aug 18 23:40:18 IST 2015
+not okay
+Tue Aug 18 23:40:28 IST 2015
+not okay
+Tue Aug 18 23:40:38 IST 2015
+not okay
+Tue Aug 18 23:40:48 IST 2015
+not okay
+Tue Aug 18 23:40:58 IST 2015
+not okay
+Tue Aug 18 23:41:08 IST 2015
+not okay
+Tue Aug 18 23:41:18 IST 2015
+not okay
+Tue Aug 18 23:41:28 IST 2015
+not okay
+Tue Aug 18 23:41:38 IST 2015
+not okay
+Tue Aug 18 23:41:48 IST 2015
+not okay
+Tue Aug 18 23:41:58 IST 2015
+not okay
+Tue Aug 18 23:42:08 IST 2015
+not okay
+Tue Aug 18 23:42:18 IST 2015
+not okay
+Tue Aug 18 23:42:28 IST 2015
+not okay
+Tue Aug 18 23:42:38 IST 2015
+not okay
+Tue Aug 18 23:42:49 IST 2015
+not okay
+Tue Aug 18 23:42:59 IST 2015
+not okay
+Tue Aug 18 23:43:09 IST 2015
+not okay
+/dev/vg_xen/vm1_disk: clean, 213794/2752512 files, 5584664/11010048 blocks
+/dev/vg_xen/vm2_disk: clean, 205331/2621440 files, 5361834/10485760 blocks
+/dev/vg_xen/vm3_disk: clean, 207051/2621440 files, 5404067/10485760 blocks
+/dev/vg_xen/vm4_disk: clean, 213138/2621440 files, 5458032/10485760 blocks
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=5)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=6)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=7)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=8)
+Tue Aug 18 23:44:34 IST 2015
+okay to start
+Tue Aug 18 23:44:44 IST 2015
+start mybench
+mybench finished
+Wed Aug 19 00:01:57 IST 2015
+Wed Aug 19 00:01:57 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    286.7
+vm destroyed
+Wed Aug 19 00:02:08 IST 2015
+Wed Aug 19 00:02:08 IST 2015
+Wed Aug 19 00:02:09 IST 2015
+going for sleep 120 before reboot
+Wed Aug 19 00:04:09 IST 2015
+came from sleep and going to reboot
+Wed Aug 19 00:05:16 IST 2015
+going for sleep 40
+Wed Aug 19 00:05:56 IST 2015
+came from sleep
+Wed Aug 19 00:05:56 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 3
+fcount is 1
+Benchmark started
+Wed Aug 19 00:05:56 IST 2015
+hi
+Wed Aug 19 00:05:56 IST 2015
+going for sleep 10
+Wed Aug 19 00:06:07 IST 2015
+came from sleep
+Wed Aug 19 00:06:07 IST 2015
+system_is_nw_started_done
+Wed Aug 19 00:06:07 IST 2015
+id is 3
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Wed Aug 19 00:06:32 IST 2015
+going for sleep 70
+Wed Aug 19 00:07:02 IST 2015
+came from sleep
+Wed Aug 19 00:07:02 IST 2015
+3007
+Wed Aug 19 00:07:02 IST 2015
+okay to start
+Wed Aug 19 00:07:12 IST 2015
+start mybench
+mybench finished
+Wed Aug 19 00:24:47 IST 2015
+Wed Aug 19 00:24:48 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    226.4
+vm destroyed
+Wed Aug 19 00:24:59 IST 2015
+Wed Aug 19 00:24:59 IST 2015
+Wed Aug 19 00:24:59 IST 2015
+going for sleep 120 before reboot
+Wed Aug 19 00:26:59 IST 2015
+came from sleep and going to reboot
+Wed Aug 19 00:28:08 IST 2015
+going for sleep 40
+Wed Aug 19 00:28:48 IST 2015
+came from sleep
+Wed Aug 19 00:28:48 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 4
+fcount is 1
+Benchmark started
+Wed Aug 19 00:28:48 IST 2015
+hi
+Wed Aug 19 00:28:48 IST 2015
+going for sleep 10
+Wed Aug 19 00:28:58 IST 2015
+came from sleep
+Wed Aug 19 00:28:58 IST 2015
+system_is_nw_started_done
+Wed Aug 19 00:28:58 IST 2015
+id is 4
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Wed Aug 19 00:29:19 IST 2015
+going for sleep 70
+Wed Aug 19 00:29:49 IST 2015
+came from sleep
+Wed Aug 19 00:29:49 IST 2015
+2781
+Wed Aug 19 00:29:49 IST 2015
+not okay
+Wed Aug 19 00:30:00 IST 2015
+not okay
+Wed Aug 19 00:30:10 IST 2015
+not okay
+Wed Aug 19 00:30:20 IST 2015
+not okay
+Wed Aug 19 00:30:30 IST 2015
+not okay
+Wed Aug 19 00:30:40 IST 2015
+not okay
+Wed Aug 19 00:30:50 IST 2015
+not okay
+Wed Aug 19 00:31:00 IST 2015
+not okay
+Wed Aug 19 00:31:10 IST 2015
+not okay
+Wed Aug 19 00:31:20 IST 2015
+not okay
+Wed Aug 19 00:31:30 IST 2015
+not okay
+Wed Aug 19 00:31:40 IST 2015
+not okay
+Wed Aug 19 00:31:50 IST 2015
+not okay
+Wed Aug 19 00:32:00 IST 2015
+not okay
+Wed Aug 19 00:32:10 IST 2015
+not okay
+Wed Aug 19 00:32:21 IST 2015
+not okay
+Wed Aug 19 00:32:31 IST 2015
+not okay
+Wed Aug 19 00:32:41 IST 2015
+not okay
+Wed Aug 19 00:32:51 IST 2015
+not okay
+Wed Aug 19 00:33:01 IST 2015
+not okay
+Wed Aug 19 00:33:11 IST 2015
+not okay
+Wed Aug 19 00:33:21 IST 2015
+not okay
+Wed Aug 19 00:33:31 IST 2015
+not okay
+Wed Aug 19 00:33:41 IST 2015
+not okay
+Wed Aug 19 00:33:51 IST 2015
+not okay
+Wed Aug 19 00:34:01 IST 2015
+not okay
+Wed Aug 19 00:34:11 IST 2015
+not okay
+Wed Aug 19 00:34:21 IST 2015
+not okay
+Wed Aug 19 00:34:32 IST 2015
+not okay
+/dev/vg_xen/vm1_disk: clean, 213794/2752512 files, 5585244/11010048 blocks
+/dev/vg_xen/vm2_disk: clean, 205328/2621440 files, 5361816/10485760 blocks
+/dev/vg_xen/vm3_disk: clean, 207057/2621440 files, 5399616/10485760 blocks
+/dev/vg_xen/vm4_disk: clean, 213138/2621440 files, 5458364/10485760 blocks
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=5)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=6)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=7)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=8)
+Wed Aug 19 00:35:58 IST 2015
+okay to start
+Wed Aug 19 00:36:08 IST 2015
+start mybench
+mybench finished
+Wed Aug 19 00:53:31 IST 2015
+Wed Aug 19 00:53:32 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    286.2
+vm destroyed
+Wed Aug 19 00:53:42 IST 2015
+Wed Aug 19 00:53:43 IST 2015
+Wed Aug 19 00:53:43 IST 2015
+going for sleep 120 before reboot
+Wed Aug 19 00:55:43 IST 2015
+came from sleep and going to reboot
+Wed Aug 19 00:56:50 IST 2015
+going for sleep 40
+Wed Aug 19 00:57:30 IST 2015
+came from sleep
+Wed Aug 19 00:57:30 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 5
+fcount is 1
+Benchmark started
+Wed Aug 19 00:57:30 IST 2015
+hi
+Wed Aug 19 00:57:30 IST 2015
+going for sleep 10
+Wed Aug 19 00:57:40 IST 2015
+came from sleep
+Wed Aug 19 00:57:40 IST 2015
+system_is_nw_started_done
+Wed Aug 19 00:57:40 IST 2015
+id is 5
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Wed Aug 19 00:58:06 IST 2015
+going for sleep 70
+Wed Aug 19 00:58:36 IST 2015
+came from sleep
+Wed Aug 19 00:58:36 IST 2015
+2968
+Wed Aug 19 00:58:36 IST 2015
+okay to start
+Wed Aug 19 00:58:46 IST 2015
+start mybench
+mybench finished
+Wed Aug 19 01:16:11 IST 2015
+Wed Aug 19 01:16:12 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    219.0
+vm destroyed
+Wed Aug 19 01:16:23 IST 2015
+Wed Aug 19 01:16:23 IST 2015
+Wed Aug 19 01:16:23 IST 2015
+going for sleep 120 before reboot
+Wed Aug 19 01:18:23 IST 2015
+came from sleep and going to reboot
+Wed Aug 19 01:19:31 IST 2015
+going for sleep 40
+Wed Aug 19 01:20:11 IST 2015
+came from sleep
+Wed Aug 19 01:20:11 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 6
+fcount is 1
+Benchmark started
+Wed Aug 19 01:20:11 IST 2015
+hi
+Wed Aug 19 01:20:11 IST 2015
+going for sleep 10
+Wed Aug 19 01:20:21 IST 2015
+came from sleep
+Wed Aug 19 01:20:21 IST 2015
+system_is_nw_started_done
+Wed Aug 19 01:20:21 IST 2015
+id is 6
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Wed Aug 19 01:20:48 IST 2015
+going for sleep 70
+Wed Aug 19 01:21:18 IST 2015
+came from sleep
+Wed Aug 19 01:21:18 IST 2015
+2978
+Wed Aug 19 01:21:18 IST 2015
+okay to start
+Wed Aug 19 01:21:28 IST 2015
+start mybench
+mybench finished
+Wed Aug 19 01:38:49 IST 2015
+Wed Aug 19 01:38:50 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    218.5
+vm destroyed
+Wed Aug 19 01:39:01 IST 2015
+Wed Aug 19 01:39:01 IST 2015
+Wed Aug 19 01:39:01 IST 2015
+going for sleep 120 before reboot
+Wed Aug 19 01:41:01 IST 2015
+came from sleep and going to reboot
+Wed Aug 19 01:42:07 IST 2015
+going for sleep 40
+Wed Aug 19 01:42:47 IST 2015
+came from sleep
+Wed Aug 19 01:42:47 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 7
+fcount is 1
+curr is 7 is it will end
+goind for sleep 30
+returned from sleep
+10.129.26.195
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+Wed Aug 19 01:47:01 IST 2015
+going for sleep 40
+Wed Aug 19 01:47:41 IST 2015
+came from sleep
+Wed Aug 19 01:47:41 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 0
+fcount is 2
+Benchmark started
+Wed Aug 19 01:47:41 IST 2015
+hi
+Wed Aug 19 01:47:41 IST 2015
+going for sleep 10
+Wed Aug 19 01:47:51 IST 2015
+came from sleep
+Wed Aug 19 01:47:51 IST 2015
+system_is_nw_started_done
+Wed Aug 19 01:47:51 IST 2015
+id is 0
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=5)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=6)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=7)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=8)
+Wed Aug 19 01:48:18 IST 2015
+going for sleep 70
+Wed Aug 19 01:48:48 IST 2015
+came from sleep
+Wed Aug 19 01:48:48 IST 2015
+4121
+Wed Aug 19 01:48:48 IST 2015
+okay to start
+Wed Aug 19 01:48:58 IST 2015
+start mybench
+mybench finished
+Wed Aug 19 02:06:50 IST 2015
+Wed Aug 19 02:06:50 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----   1231.5
+vm destroyed
+Wed Aug 19 02:07:02 IST 2015
+Wed Aug 19 02:07:02 IST 2015
+Wed Aug 19 02:07:02 IST 2015
+going for sleep 120 before reboot
+Wed Aug 19 02:09:02 IST 2015
+came from sleep and going to reboot
+Wed Aug 19 02:10:09 IST 2015
+going for sleep 40
+Wed Aug 19 02:10:49 IST 2015
+came from sleep
+Wed Aug 19 02:10:49 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 1
+fcount is 2
+Benchmark started
+Wed Aug 19 02:10:50 IST 2015
+hi
+Wed Aug 19 02:10:50 IST 2015
+going for sleep 10
+Wed Aug 19 02:11:00 IST 2015
+came from sleep
+Wed Aug 19 02:11:00 IST 2015
+system_is_nw_started_done
+Wed Aug 19 02:11:00 IST 2015
+id is 1
+Using config file "/etc/xen/vm1".
+Using config file "/etc/xen/vm2".
+Using config file "/etc/xen/vm3".
+Using config file "/etc/xen/vm4".
+Wed Aug 19 02:11:00 IST 2015
+going for sleep 70
+Wed Aug 19 02:11:30 IST 2015
+came from sleep
+Wed Aug 19 02:11:30 IST 2015
+3008
+Wed Aug 19 02:11:30 IST 2015
+not okay
+Wed Aug 19 02:11:40 IST 2015
+not okay
+Wed Aug 19 02:11:50 IST 2015
+not okay
+Wed Aug 19 02:12:00 IST 2015
+not okay
+Wed Aug 19 02:12:11 IST 2015
+not okay
+Wed Aug 19 02:12:21 IST 2015
+not okay
+Wed Aug 19 02:12:31 IST 2015
+not okay
+Wed Aug 19 02:12:41 IST 2015
+not okay
+Wed Aug 19 02:12:51 IST 2015
+not okay
+Wed Aug 19 02:13:01 IST 2015
+not okay
+Wed Aug 19 02:13:11 IST 2015
+not okay
+Wed Aug 19 02:13:21 IST 2015
+not okay
+Wed Aug 19 02:13:31 IST 2015
+not okay
+Wed Aug 19 02:13:41 IST 2015
+not okay
+Wed Aug 19 02:13:51 IST 2015
+not okay
+Wed Aug 19 02:14:01 IST 2015
+not okay
+Wed Aug 19 02:14:11 IST 2015
+not okay
+Wed Aug 19 02:14:21 IST 2015
+not okay
+Wed Aug 19 02:14:31 IST 2015
+not okay
+Wed Aug 19 02:14:41 IST 2015
+not okay
+Wed Aug 19 02:14:52 IST 2015
+not okay
+Wed Aug 19 02:15:02 IST 2015
+not okay
+Wed Aug 19 02:15:12 IST 2015
+not okay
+Wed Aug 19 02:15:22 IST 2015
+not okay
+Wed Aug 19 02:15:32 IST 2015
+not okay
+Wed Aug 19 02:15:42 IST 2015
+not okay
+Wed Aug 19 02:15:52 IST 2015
+not okay
+Wed Aug 19 02:16:02 IST 2015
+not okay
+Wed Aug 19 02:16:12 IST 2015
+not okay
+Setting free blocks count to 5425813 (was 5425820)
+/dev/vg_xen/vm1_disk: clean, 213794/2752512 files, 5584235/11010048 blocks
+/dev/vg_xen/vm2_disk: clean, 205331/2621440 files, 5360266/10485760 blocks
+Setting free inodes count to 2413709 (was 2414383)
+Setting free blocks count to 5041773 (was 5082133)
+/dev/vg_xen/vm3_disk: clean, 207731/2621440 files, 5443987/10485760 blocks
+Setting free inodes count to 2406200 (was 2408301)
+Setting free blocks count to 5024635 (was 5028373)
+/dev/vg_xen/vm4_disk: clean, 215240/2621440 files, 5461125/10485760 blocks
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=5)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=6)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=7)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=8)
+Wed Aug 19 02:17:42 IST 2015
+not okay
+Wed Aug 19 02:17:52 IST 2015
+not okay
+Wed Aug 19 02:18:02 IST 2015
+not okay
+Wed Aug 19 02:18:12 IST 2015
+not okay
+Wed Aug 19 02:18:22 IST 2015
+not okay
+Wed Aug 19 02:18:32 IST 2015
+not okay
+Wed Aug 19 02:18:42 IST 2015
+not okay
+Wed Aug 19 02:18:52 IST 2015
+not okay
+Wed Aug 19 02:19:02 IST 2015
+not okay
+Wed Aug 19 02:19:12 IST 2015
+not okay
+Wed Aug 19 02:19:23 IST 2015
+not okay
+Wed Aug 19 02:19:33 IST 2015
+not okay
+Wed Aug 19 02:19:43 IST 2015
+not okay
+Wed Aug 19 02:19:53 IST 2015
+not okay
+Wed Aug 19 02:20:03 IST 2015
+not okay
+Wed Aug 19 02:20:13 IST 2015
+not okay
+Wed Aug 19 02:20:23 IST 2015
+not okay
+Wed Aug 19 02:20:33 IST 2015
+not okay
+Wed Aug 19 02:20:43 IST 2015
+not okay
+Wed Aug 19 02:20:53 IST 2015
+not okay
+Wed Aug 19 02:21:03 IST 2015
+not okay
+Wed Aug 19 02:21:13 IST 2015
+not okay
+Wed Aug 19 02:21:23 IST 2015
+not okay
+Wed Aug 19 02:21:34 IST 2015
+not okay
+Wed Aug 19 02:21:44 IST 2015
+not okay
+Wed Aug 19 02:21:54 IST 2015
+not okay
+Wed Aug 19 02:22:04 IST 2015
+not okay
+Wed Aug 19 02:22:14 IST 2015
+not okay
+Wed Aug 19 02:22:24 IST 2015
+not okay
+Wed Aug 19 02:22:34 IST 2015
+not okay
+/dev/vg_xen/vm1_disk contains a file system with errors, check forced.
+Pass 1: Checking inodes, blocks, and sizes
+
+Running additional passes to resolve blocks claimed by more than one inode...
+Pass 1B: Rescanning for multiply-claimed blocks
+Multiply-claimed block(s) in inode 1710224: 7048932 7048933 7048934 7048935 7048936
+Multiply-claimed block(s) in inode 1710231: 7048932 7048933 7048934 7048935 7048936
+Pass 1C: Scanning directories for inodes with multiply-claimed blocks
+Pass 1D: Reconciling multiply-claimed blocks
+(There are 2 inodes containing multiply-claimed blocks.)
+
+File /var/log/udev (inode #1710224, mod time Wed Aug 19 01:42:57 2015) 
+  has 5 multiply-claimed block(s), shared with 1 file(s):
+	/var/log/dmesg (inode #1710231, mod time Wed Aug 19 01:48:05 2015)
+Clone multiply-claimed blocks? yes
+
+File /var/log/dmesg (inode #1710231, mod time Wed Aug 19 01:48:05 2015) 
+  has 5 multiply-claimed block(s), shared with 1 file(s):
+	/var/log/udev (inode #1710224, mod time Wed Aug 19 01:42:57 2015)
+Multiply-claimed blocks already reassigned or cloned.
+
+Pass 2: Checking directory structure
+Entry 'resolv.conf' in /etc (2097153) has deleted/unused inode 2097981.  Clear? yes
+
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Inode 1703942 ref count is 11, should be 5.  Fix? yes
+
+Inode 1703943 ref count is 7, should be 21.  Fix? yes
+
+Pass 5: Checking group summary information
+Block bitmap differences:  +6370816 -6372864 -6855453 -(6856488--6856489) -(6863322--6863323) -(6863328--6863329) -(6864872--6864873) +6868183 -(6870138--6870139) -(6870158--6870159) -(6870188--6870189) -(6870536--6870537) -(6871518--6871519) -(6872672--6872687) -(6873316--6873319) -(6874325--6874327) -6874334 -6875473 -6875496 -6875781 -6879323 +(6879960--6879967) -(6880952--6880959)Group 226 block(s) in use but group is marked BLOCK_UNINIT
+Fix? yes
+
+ +(7064670--7064671) +(7405568--7405999) +(7406016--7406019) +(7406023--7406639) +(7406800--7406803) +(7406805--7406994) +(7406996--7407006) +(7407168--7407171) +(7407173--7407176) +(7407180--7407183) +(7407345--7407959) +(7407978--7408354) +(7408356--7408359) +(7408434--7408786) +(7408788--7408791) +(7408952--7409149) +(7409160--7409163) +(7409165--7409560) +(7409564--7409567) +(7409743--7410149) +(7410328--7410331) +(7410333--7410955) +(7410972--7410975) +(7411128--7411135) +(7411328--7411784) +(7411788--7411791) +(7411936--7412109) +(7412256--7412259) +(7412263--7412494) +(7412821--7413139) +(7413297--7413690) +(7413695--7414461) +(7414628--7414837) +(7415160--7415357) +(7415547--7415935) +(7415941--7416357) +(7416360--7416759) +(7416762--7416976) +(7417370--7417561) +(7417611--7418112) +(7418315--7418520) +(7418727--7419138) +(7419148--7420994) -8421904
+Fix? yes
+
+Free blocks count wrong for group #0 (19463, counted=19458).
+Fix? yes
+
+Free blocks count wrong for group #208 (23864, counted=23818).
+Fix? yes
+
+Free blocks count wrong for group #209 (36, counted=82).
+Fix? yes
+
+Free blocks count wrong for group #210 (198, counted=273).
+Fix? yes
+
+Free blocks count wrong for group #212 (58, counted=38).
+Fix? yes
+
+Free blocks count wrong for group #214 (47, counted=70).
+Fix? yes
+
+Free blocks count wrong for group #215 (5795, counted=7711).
+Fix? yes
+
+Free blocks count wrong for group #216 (9801, counted=8746).
+Fix? yes
+
+Free blocks count wrong for group #217 (14564, counted=10526).
+Fix? yes
+
+Free blocks count wrong for group #219 (11348, counted=10198).
+Fix? yes
+
+Free blocks count wrong for group #220 (14628, counted=12317).
+Fix? yes
+
+Free blocks count wrong for group #221 (15645, counted=13802).
+Fix? yes
+
+Free blocks count wrong for group #222 (13606, counted=14740).
+Fix? yes
+
+Free blocks count wrong for group #223 (15232, counted=15931).
+Fix? yes
+
+Free blocks count wrong for group #224 (22062, counted=10238).
+Fix? yes
+
+Free blocks count wrong for group #225 (32709, counted=18530).
+Fix? yes
+
+Free blocks count wrong for group #226 (32768, counted=21158).
+Fix? yes
+
+Free blocks count wrong for group #257 (32247, counted=32248).
+Fix? yes
+
+Free blocks count wrong (5425812, counted=5381625).
+Fix? yes
+
+Inode bitmap differences:  -2097981
+Fix? yes
+
+Free inodes count wrong for group #209 (3872, counted=3198).
+Fix? yes
+
+Directories count wrong for group #209 (97, counted=143).
+Fix? yes
+
+Free inodes count wrong for group #256 (7029, counted=7030).
+Fix? yes
+
+Free inodes count wrong (2538718, counted=2538045).
+Fix? yes
+
+
+/dev/vg_xen/vm1_disk: ***** FILE SYSTEM WAS MODIFIED *****
+/dev/vg_xen/vm1_disk: 214467/2752512 files (0.9% non-contiguous), 5628423/11010048 blocks
+/dev/vg_xen/vm2_disk: recovering journal
+Setting free blocks count to 5125511 (was 5125494)
+/dev/vg_xen/vm2_disk: clean, 205331/2621440 files, 5360249/10485760 blocks
+/dev/vg_xen/vm3_disk: recovering journal
+Setting free blocks count to 5041805 (was 5041773)
+/dev/vg_xen/vm3_disk: clean, 207731/2621440 files, 5443955/10485760 blocks
+/dev/vg_xen/vm4_disk: clean, 215239/2621440 files, 5506854/10485760 blocks
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=9)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=10)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=11)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=12)
+Wed Aug 19 02:24:04 IST 2015
+okay to start
+Wed Aug 19 02:24:14 IST 2015
+start mybench
+mybench finished
+Wed Aug 19 02:41:14 IST 2015
+Wed Aug 19 02:41:15 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    381.9
+vm destroyed
+Wed Aug 19 02:41:26 IST 2015
+Wed Aug 19 02:41:26 IST 2015
+Wed Aug 19 02:41:26 IST 2015
+going for sleep 120 before reboot
+Wed Aug 19 02:43:26 IST 2015
+came from sleep and going to reboot
+Wed Aug 19 02:44:33 IST 2015
+going for sleep 40
+Wed Aug 19 02:45:13 IST 2015
+came from sleep
+Wed Aug 19 02:45:13 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 2
+fcount is 2
+Benchmark started
+Wed Aug 19 02:45:13 IST 2015
+hi
+Wed Aug 19 02:45:13 IST 2015
+going for sleep 10
+Wed Aug 19 02:45:23 IST 2015
+came from sleep
+Wed Aug 19 02:45:23 IST 2015
+system_is_nw_started_done
+Wed Aug 19 02:45:23 IST 2015
+id is 2
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Wed Aug 19 02:45:54 IST 2015
+going for sleep 70
+Wed Aug 19 02:46:24 IST 2015
+came from sleep
+Wed Aug 19 02:46:24 IST 2015
+3172
+Wed Aug 19 02:46:24 IST 2015
+not okay
+Wed Aug 19 02:46:34 IST 2015
+not okay
+Wed Aug 19 02:46:44 IST 2015
+not okay
+Wed Aug 19 02:46:54 IST 2015
+not okay
+Wed Aug 19 02:47:04 IST 2015
+not okay
+Wed Aug 19 02:47:14 IST 2015
+not okay
+Wed Aug 19 02:47:24 IST 2015
+not okay
+Wed Aug 19 02:47:34 IST 2015
+not okay
+Wed Aug 19 02:47:44 IST 2015
+not okay
+Wed Aug 19 02:47:54 IST 2015
+not okay
+Wed Aug 19 02:48:04 IST 2015
+not okay
+Wed Aug 19 02:48:15 IST 2015
+not okay
+Wed Aug 19 02:48:25 IST 2015
+not okay
+Wed Aug 19 02:48:35 IST 2015
+not okay
+Wed Aug 19 02:48:45 IST 2015
+not okay
+Wed Aug 19 02:48:55 IST 2015
+not okay
+Wed Aug 19 02:49:05 IST 2015
+not okay
+Wed Aug 19 02:49:15 IST 2015
+not okay
+Wed Aug 19 02:49:25 IST 2015
+not okay
+Wed Aug 19 02:49:35 IST 2015
+not okay
+Wed Aug 19 02:49:45 IST 2015
+not okay
+Wed Aug 19 02:49:55 IST 2015
+not okay
+Wed Aug 19 02:50:05 IST 2015
+not okay
+Wed Aug 19 02:50:15 IST 2015
+not okay
+Wed Aug 19 02:50:25 IST 2015
+not okay
+Wed Aug 19 02:50:35 IST 2015
+not okay
+Wed Aug 19 02:50:45 IST 2015
+not okay
+Wed Aug 19 02:50:56 IST 2015
+not okay
+Wed Aug 19 02:51:06 IST 2015
+not okay
+/dev/vg_xen/vm1_disk: clean, 214468/2752512 files, 5628110/11010048 blocks
+One or more block group descriptor checksums are invalid.  Fix? yes
+
+Group descriptor 145 checksum is invalid.  FIXED.
+/dev/vg_xen/vm2_disk contains a file system with errors, check forced.
+Pass 1: Checking inodes, blocks, and sizes
+Pass 2: Checking directory structure
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+Block bitmap differences:  -1297914 +1323544 -1325568
+Fix? yes
+
+Free blocks count wrong for group #16 (22422, counted=22415).
+Fix? yes
+
+Free blocks count wrong for group #40 (31362, counted=31361).
+Fix? yes
+
+Free blocks count wrong for group #144 (23401, counted=23399).
+Fix? yes
+
+Free blocks count wrong for group #150 (2103, counted=2390).
+Fix? yes
+
+Free blocks count wrong for group #151 (13344, counted=14682).
+Fix? yes
+
+Free blocks count wrong for group #152 (13917, counted=16080).
+Fix? yes
+
+Free blocks count wrong for group #153 (15589, counted=15852).
+Fix? yes
+
+Free blocks count wrong for group #154 (19784, counted=16820).
+Fix? yes
+
+Free blocks count wrong for group #155 (25695, counted=23980).
+Fix? yes
+
+Free blocks count wrong for group #160 (23504, counted=23460).
+Fix? yes
+
+Free blocks count wrong for group #169 (7833, counted=5822).
+Fix? yes
+
+Free blocks count wrong for group #170 (12193, counted=11701).
+Fix? yes
+
+Free blocks count wrong for group #171 (13879, counted=14897).
+Fix? yes
+
+Free blocks count wrong for group #172 (18192, counted=14014).
+Fix? yes
+
+Free blocks count wrong for group #173 (29856, counted=16027).
+Fix? yes
+
+Free blocks count wrong for group #174 (32768, counted=16139).
+Fix? yes
+
+Free blocks count wrong for group #175 (32694, counted=27779).
+Fix? yes
+
+Free blocks count wrong (5125518, counted=5083800).
+Fix? yes
+
+Free inodes count wrong for group #144 (112, counted=135).
+Fix? yes
+
+Directories count wrong for group #144 (1118, counted=1120).
+Fix? yes
+
+Free inodes count wrong for group #145 (8013, counted=7980).
+Fix? yes
+
+Directories count wrong for group #161 (173, counted=217).
+Fix? yes
+
+Free inodes count wrong for group #162 (8168, counted=7504).
+Fix? yes
+
+Free inodes count wrong (2416110, counted=2415436).
+Fix? yes
+
+
+/dev/vg_xen/vm2_disk: ***** FILE SYSTEM WAS MODIFIED *****
+/dev/vg_xen/vm2_disk: 206004/2621440 files (0.9% non-contiguous), 5401960/10485760 blocks
+/dev/vg_xen/vm3_disk: clean, 207731/2621440 files, 5443962/10485760 blocks
+/dev/vg_xen/vm4_disk: clean, 215240/2621440 files, 5525002/10485760 blocks
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=5)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=6)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=7)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=8)
+Wed Aug 19 02:52:37 IST 2015
+okay to start
+Wed Aug 19 02:52:47 IST 2015
+start mybench
+mybench finished
+Wed Aug 19 03:10:53 IST 2015
+Wed Aug 19 03:10:54 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    307.3
+vm destroyed
+Wed Aug 19 03:11:05 IST 2015
+Wed Aug 19 03:11:05 IST 2015
+Wed Aug 19 03:11:05 IST 2015
+going for sleep 120 before reboot
+Wed Aug 19 03:13:05 IST 2015
+came from sleep and going to reboot
+Wed Aug 19 03:14:10 IST 2015
+going for sleep 40
+Wed Aug 19 03:14:50 IST 2015
+came from sleep
+Wed Aug 19 03:14:50 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 3
+fcount is 2
+Benchmark started
+Wed Aug 19 03:14:50 IST 2015
+hi
+Wed Aug 19 03:14:50 IST 2015
+going for sleep 10
+Wed Aug 19 03:15:00 IST 2015
+came from sleep
+Wed Aug 19 03:15:00 IST 2015
+system_is_nw_started_done
+Wed Aug 19 03:15:00 IST 2015
+id is 3
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Wed Aug 19 03:15:25 IST 2015
+going for sleep 70
+Wed Aug 19 03:15:55 IST 2015
+came from sleep
+Wed Aug 19 03:15:55 IST 2015
+2990
+Wed Aug 19 03:15:55 IST 2015
+okay to start
+Wed Aug 19 03:16:05 IST 2015
+start mybench
+mybench finished
+Wed Aug 19 03:33:53 IST 2015
+Wed Aug 19 03:33:53 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    221.1
+vm destroyed
+Wed Aug 19 03:34:04 IST 2015
+Wed Aug 19 03:34:05 IST 2015
+Wed Aug 19 03:34:05 IST 2015
+going for sleep 120 before reboot
+Wed Aug 19 03:36:05 IST 2015
+came from sleep and going to reboot
+Wed Aug 19 03:37:13 IST 2015
+going for sleep 40
+Wed Aug 19 03:37:53 IST 2015
+came from sleep
+Wed Aug 19 03:37:53 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 4
+fcount is 2
+Benchmark started
+Wed Aug 19 03:37:53 IST 2015
+hi
+Wed Aug 19 03:37:53 IST 2015
+going for sleep 10
+Wed Aug 19 03:38:03 IST 2015
+came from sleep
+Wed Aug 19 03:38:03 IST 2015
+system_is_nw_started_done
+Wed Aug 19 03:38:03 IST 2015
+id is 4
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Wed Aug 19 03:38:29 IST 2015
+going for sleep 70
+Wed Aug 19 03:38:59 IST 2015
+came from sleep
+Wed Aug 19 03:38:59 IST 2015
+2965
+Wed Aug 19 03:38:59 IST 2015
+okay to start
+Wed Aug 19 03:39:09 IST 2015
+start mybench
+mybench finished
+Wed Aug 19 03:58:13 IST 2015
+Wed Aug 19 03:58:14 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    235.7
+vm destroyed
+Wed Aug 19 03:58:25 IST 2015
+Wed Aug 19 03:58:25 IST 2015
+Wed Aug 19 03:58:25 IST 2015
+going for sleep 120 before reboot
+Wed Aug 19 04:00:25 IST 2015
+came from sleep and going to reboot
+Wed Aug 19 04:01:33 IST 2015
+going for sleep 40
+Wed Aug 19 04:02:13 IST 2015
+came from sleep
+Wed Aug 19 04:02:13 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 5
+fcount is 2
+Benchmark started
+Wed Aug 19 04:02:13 IST 2015
+hi
+Wed Aug 19 04:02:13 IST 2015
+going for sleep 10
+Wed Aug 19 04:02:23 IST 2015
+came from sleep
+Wed Aug 19 04:02:23 IST 2015
+system_is_nw_started_done
+Wed Aug 19 04:02:23 IST 2015
+id is 5
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Wed Aug 19 04:02:51 IST 2015
+going for sleep 70
+Wed Aug 19 04:03:21 IST 2015
+came from sleep
+Wed Aug 19 04:03:21 IST 2015
+2981
+Wed Aug 19 04:03:21 IST 2015
+okay to start
+Wed Aug 19 04:03:31 IST 2015
+start mybench
+mybench finished
+Wed Aug 19 04:21:25 IST 2015
+Wed Aug 19 04:21:26 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    221.9
+vm destroyed
+Wed Aug 19 04:21:37 IST 2015
+Wed Aug 19 04:21:37 IST 2015
+Wed Aug 19 04:21:37 IST 2015
+going for sleep 120 before reboot
+Wed Aug 19 04:23:37 IST 2015
+came from sleep and going to reboot
+Wed Aug 19 04:24:45 IST 2015
+going for sleep 40
+Wed Aug 19 04:25:25 IST 2015
+came from sleep
+Wed Aug 19 04:25:25 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 6
+fcount is 2
+Benchmark started
+Wed Aug 19 04:25:25 IST 2015
+hi
+Wed Aug 19 04:25:25 IST 2015
+going for sleep 10
+Wed Aug 19 04:25:35 IST 2015
+came from sleep
+Wed Aug 19 04:25:35 IST 2015
+system_is_nw_started_done
+Wed Aug 19 04:25:35 IST 2015
+id is 6
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Using config file "/etc/xen/vm2".
+Started domain vm2 (id=2)
+Using config file "/etc/xen/vm3".
+Started domain vm3 (id=3)
+Using config file "/etc/xen/vm4".
+Started domain vm4 (id=4)
+Wed Aug 19 04:26:01 IST 2015
+going for sleep 70
+Wed Aug 19 04:26:31 IST 2015
+came from sleep
+Wed Aug 19 04:26:31 IST 2015
+3017
+Wed Aug 19 04:26:31 IST 2015
+okay to start
+Wed Aug 19 04:26:41 IST 2015
+start mybench
+mybench finished
+Wed Aug 19 04:44:19 IST 2015
+Wed Aug 19 04:44:20 IST 2015
+going for reboot
+Name                                        ID   Mem VCPUs      State   Time(s)
+Domain-0                                     0  2048     2     r-----    222.1
+vm destroyed
+Wed Aug 19 04:44:31 IST 2015
+Wed Aug 19 04:44:31 IST 2015
+Wed Aug 19 04:44:31 IST 2015
+going for sleep 120 before reboot
+Wed Aug 19 04:46:31 IST 2015
+came from sleep and going to reboot
+Wed Aug 19 04:47:38 IST 2015
+going for sleep 40
+Wed Aug 19 04:48:18 IST 2015
+came from sleep
+Wed Aug 19 04:48:18 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 7
+fcount is 2
+curr is 7 is it will end
+goind for sleep 30
+returned from sleep
+10.129.26.195
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+start
+
+
+hi
+
+
+ENDDELIMETER
+
+
+next is 
+going for sleep 120
+I am going1
+Thu Aug 20 12:16:32 IST 2015
+going for sleep 40
+Thu Aug 20 12:17:12 IST 2015
+came from sleep
+Thu Aug 20 12:17:12 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 8
+fcount is 3
+                                                Sun Aug 23 04:48:10 IST 2015
+going for sleep 40
+Sun Aug 23 04:48:50 IST 2015
+came from sleep
+Sun Aug 23 04:48:50 IST 2015
+system started
+stupid things
+Vms are 4
+current count is 8
+fcount is 3

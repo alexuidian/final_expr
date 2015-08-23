@@ -1,0 +1,7 @@
+memory 3071
+vm 380
+free 570
+
+
+./writefile file1 .5 r 1024 900 10007 &
+./writefile file2 .5 r 1024 900 10007 &

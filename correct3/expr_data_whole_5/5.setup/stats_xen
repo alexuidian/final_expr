@@ -1,0 +1,28 @@
+host                   : pc
+release                : 3.11.0-15-generic
+version                : #25~precise1-Ubuntu SMP Thu Jan 30 17:39:31 UTC 2014
+machine                : x86_64
+nr_cpus                : 4
+nr_nodes               : 1
+cores_per_socket       : 4
+threads_per_core       : 1
+cpu_mhz                : 3092
+hw_caps                : bfebfbff:2c100800:00000000:00007f00:77fafbbf:00000000:00000021:000027ab
+virt_caps              : hvm hvm_directio
+total_memory           : 2847
+free_memory            : 353
+free_cpus              : 0
+xen_major              : 4
+xen_minor              : 3
+xen_extra              : .0
+xen_caps               : xen-3.0-x86_64 xen-3.0-x86_32p hvm-3.0-x86_32 hvm-3.0-x86_32p hvm-3.0-x86_64 
+xen_scheduler          : credit
+xen_pagesize           : 4096
+platform_params        : virt_start=0xffff800000000000
+xen_changeset          : 
+xen_commandline        : placeholder mem=2848M dom0_max_vcpus=2 dom0_vcpus_pin dom0_mem=2048M,max:2048M loglvl=all guest_loglvl=all tmem tmem_compress tmem_dedup tmem_stats_xlr
+cc_compiler            : gcc (Ubuntu/Linaro 4.6.3-1ubuntu5) 4.6.3
+cc_compile_by          : root
+cc_compile_domain      : 
+cc_compile_date        : Sat Aug  1 06:48:43 IST 2015
+xend_config_format     : 4

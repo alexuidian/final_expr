@@ -1,0 +1,232 @@
+#!/bin/bash
+echo "'" | sudo echo hi
+date
+echo going for sleep 120
+#sleep 120
+date
+echo came from sleep
+date
+echo system_is_nw_started_done
+date
+echo id is $1
+
+vms=`cat VMS`
+
+if [[ $vms == 1 ]];then
+	sudo xm create vm1
+fi
+
+if [[ $vms == 2 ]];then
+	sudo xm create vm1
+	sudo xm create vm2
+fi
+
+#sleep 120
+
+date
+echo going for sleep 70
+sleep 30
+date
+echo came from sleep
+
+
+echo "'" | sudo -S ./trace.sh &
+id=`echo $!`
+date
+echo $id
+
+
+one=1
+while [[ $one == 1 ]]
+do
+    sudo rm check_ok
+    date
+    if [[ $vms == 1 ]];then
+	./vm "echo hello;sleep 2;echo hello" > check_ok &
+    	idc=`echo $!`
+    	sleep 10
+    	kill $idc
+    	if [[ ! `cat check_ok` ]];then
+        	date
+       		echo "check_ok not found  bad found"
+       		continue
+    	else
+        	date
+        	echo "check ok , very good to start"
+        	break
+    	fi
+    fi
+
+    if [[ $vms == 2 ]];then
+	./vmc1 "echo hello;sleep 2;echo hello" > check_ok1 &
+    	idc1=`echo $!`
+	
+	./vmc2 "echo hello;sleep 2;echo hello" > check_ok2 &
+    	idc2=`echo $!`
+	
+    	sleep 10
+    	kill $idc1
+	kill $idc2
+
+    	if [[ ! `cat check_ok1` ]];then
+        	date
+       		echo "check_ok not found  bad found"
+       		continue
+    	else
+        	date
+        	echo "check ok , very good to start1"
+
+		if [[ ! `cat check_ok2` ]];then
+			date
+			echo "check ok2 not found, bad to start"
+			continue
+		fi
+        	
+		echo "check ok , very good to start2"
+        	break
+    	fi
+    fi
+
+
+done
+
+
+#date
+#./vm "echo 0 > /proc/sys/kernel/randomization_va_space"
+#date
+#./vm "sudo rm -rf /mnt/*"
+#date
+#./vm "filebench -f /home/shubhamiit/workload/ws.f" > bench.out
+#date
+
+#./vm "filebench -f /home/shubhamiit/workload/ws.f" > bench.out
+#./vm "/home/shubhamiit/workload/writefile /home/shubhamiit/workload/file1 .6 r 1024 600 10007" > bench.out
+
+date
+echo "start mybench"
+if [[ $vms == 1 ]];then
+	./vm "/home/shubhamiit/workload/perf_mybench" > bench.out
+fi
+if [[ $vms == 2 ]];then
+	./vmc1 "/home/shubhamiit/workload/perf_mybench" > bench.out1 & 
+        ./vmc2 "/home/shubhamiit/workload/perf_mybench" > bench.out2 
+        fg
+fi
+
+
+date
+
+echo "'" | sudo -S kill $id
+#killall parse_tmem_stat
+echo "'" | sudo -S kill `ps -e | grep parse_tmem_stat | sed 's/[ ]*\(.*\)/\1/' | cut -d" " -f1`
+
+
+
+mkdir "$1".setup
+
+echo "'" | sudo -S xm dmesg | grep "Command line" > boot_line
+echo "'" | sudo -S xm tmem-list -al > stats_tmem
+echo "'" | sudo -S xm info > stats_xen
+echo "'" | sudo -S xl tmem-list -ag > stats_list_get
+echo "'" | sudo -S xl tmem-list -ap > stats_list_put
+echo "'" | sudo -S xl tmem-list -af > stats_list_fget
+echo "'" | sudo -S xl tmem-list -aq > stats_list_fput
+echo "'" | sudo -S xl tmem-list -ac > stats_list_comp
+echo "'" | sudo -S xl tmem-list -ad > stats_list_dedup
+echo "'" | sudo -S xl tmem-list -ae > stats_list_fdedup
+echo "'" | sudo -S xl tmem-list -au > stats_list_decom
+
+mv stats* "$1".setup/
+mv bench.out* "$1".setup/
+mv boot_line "$1".setup/
+date
+echo going for reboot
+
+sudo xm shutdown vm1
+sudo xm shutdown vm2
+sleep 10
+sudo xm destroy vm1
+sudo xm destroy vm2
+
+sudo xm list >> logs
+
+echo vm destroyed >> logs
+
+exit 0
+
+
+
+echo '''
+
+sudo xm reboot vm1
+date
+echo going for sleep after reboot 120
+sleep 120
+date
+echo came from sleep
+
+echo "'" | sudo -S ./trace.sh &
+id=`echo $!`
+
+echo $id
+
+############################################
+one=1
+while [[ $one == 1 ]]
+do
+    sudo rm check_ok
+    date
+    ./vm "echo hello;sleep 2;echo hello" > check_ok &
+    idc=`echo $!`
+    sleep 10
+    kill $idc
+    if [[ ! `cat check_ok` ]];then
+        date
+        echo "check_ok not found  bad found"
+        continue
+    else
+        date
+        echo "check ok , very good to start"
+        break
+    fi
+
+done
+#######################################
+
+#date
+#./vm "echo 0 > /proc/sys/kernel/randomization_va_space"
+#date
+#./vm "sudo rm -rf /mnt/*"
+#date
+#./vm "filebench -f /home/shubhamiit/workload/fs.f" > bench.out
+#./vm "filebench -f /home/shubhamiit/workload/ws.f" > bench.out
+#./vm "/home/shubhamiit/workload/writefile /home/shubhamiit/workload/file1 .6 r 1024 600 10007" > bench.out
+date
+
+date
+echo "start mybench"
+./vm "/home/shubhamiit/workload/perf_mybench" > bench.out
+date
+
+echo "'" | sudo -S kill $id
+echo "'" | sudo -S kill `ps -e | grep parse_tmem_stat | sed 's/[ ]*\(.*\)/\1/' | cut -d" " -f1`
+
+
+mkdir "$1".setup.2
+
+echo "'" | sudo -S xm dmesg | grep "Command line" > boot_line
+echo "'" | sudo -S xm tmem-list -al > stats_tmem
+mv stats* "$1".setup.2/
+mv bench.out "$1".setup.2/
+mv boot_line "$1".setup.2/
+
+date
+sudo xm shutdown vm1
+sleep 10
+sudo xm destroy vm1
+
+sudo xm list >> logs
+
+echo vm destroyed >> logs
+
+'''

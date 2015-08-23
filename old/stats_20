@@ -1,0 +1,11 @@
+#Type:X;CI:20;ww:0;ca:0;co:0;fr:0;Type:X;CI:20;PI:0;PT:EP;U0:0;U1:0;
+#time  Pp  gt  gs  cn  cm  cb  Nc  Pc  cp  Tc  Nm  pr  ps  pt  px  pd  Pm  Om  fs  ft  Oc  Em  Gp  Ec  Ge  ot  os  Total_cycles_diff  Successful_get_diff  Total_get_diff  succ_put_diff  total_put_diff  get_hit  
+1436622000  0  0  0  0  0  0  0  0  0  2162484  0  0  0  0  0  0  0  0  0  20  0  0  0  0  0  44  0  2162484  0  0  0  0  
+1436622001  0  0  0  0  0  0  0  0  0  2162484  0  0  0  0  0  0  0  0  0  20  0  0  0  0  0  44  0  0  0  0  0  0  
+#Type:X;CI:20;ww:0;ca:0;co:0;fr:0;Type:X;CI:20;PI:0;PT:EP;U0:0;U1:0;
+#time  Pp  gt  gs  cn  cm  cb  Nc  Pc  cp  Tc  Nm  pr  ps  pt  px  pd  Pm  Om  fs  ft  Oc  Em  Gp  Ec  Ge  ot  os  Total_cycles_diff  Successful_get_diff  Total_get_diff  succ_put_diff  total_put_diff  get_hit  
+1436622002  0  0  0  0  0  0  0  0  0  2162484  0  0  0  0  0  0  0  0  0  20  0  0  0  0  0  44  0  2162484  0  0  0  0  
+1436622010  0  0  0  0  0  0  0  0  0  2162484  0  0  0  0  0  0  0  0  0  20  0  0  0  0  0  44  0  0  0  0  0  0  
+1436622011  0  0  0  0  0  0  0  0  0  2162484  0  0  0  0  0  0  0  0  0  20  0  0  0  0  0  44  0  0  0  0  0  0  
+1436622012  0  0  0  0  0  0  0  0  0  2162484  0  0  0  0  0  0  0  0  0  20  0  0  0  0  0  44  0  0  0  0  0  0  
+1436622020  0  0  0  0  0  0  0  0  0  2162484  0  0  0  0  0  0  0  0  0  20  0  0  0  0  0  44  0  0  0  0  0  0  

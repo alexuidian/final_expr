@@ -1,0 +1,20 @@
+start
+
+
+file1600 seconds
+Read Mode 
+filesize: 599808192
+file1600 seconds
+Read Mode 
+filesize: 599808192
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+57.7676 70.4132 70.1986 41852 1509 63190000 586 41266 41852
+#seq_perf rand_perf #avf_perf #total_ops #cpucycles/ops #cpucycles
+57.7677 70.4132 70.1986 41852 1502 62890000 586 41266 41852
+#Done
+#Done
+
+
+ENDDELIMETER
+
+

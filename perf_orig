@@ -1,0 +1,211 @@
+#! /bin/bash
+
+cd /home/shubhamiit/final_expr
+
+date >> logs
+echo going for sleep 40 >> logs
+sleep 40
+date >> logs
+echo came from sleep >> logs
+
+date >> logs
+echo "system started" >> logs
+echo "stupid things" >> logs
+
+
+
+
+
+
+
+vms=`cat VMS`
+echo "Vms are $vms" >> logs
+
+curr=`cat current_count`
+
+echo current count is $curr >> logs
+fcount=`cat fcount`
+
+
+echo fcount is $fcount >> logs
+
+if [[ $curr == 7 ]];then
+    echo finish
+    echo "curr is 7 is it will end" >> logs    
+    if [[ $vms == 1 ]];then
+        sudo xm create vm1
+    fi
+   
+    if [[ $vms == 2]];then
+      sudo xm create vm1
+      sudo xm create vm2
+    fi
+
+    date
+    echo "goind for sleep 30"   >> logs 
+    sleep 30
+    echo "returned from sleep"   >> logs
+    date
+
+
+    if [[ $vms == 1 ]];then
+        echo "'" | sudo -S ./vm "/home/shubhamiit/workload/change_file" >> logs
+    fi
+
+    if [[ $vms == 2]];then
+        echo "'" | sudo -S ./vmc1 "/home/shubhamiit/workload/change_file" >> logs
+        echo "'" | sudo -S ./vmc2 "/home/shubhamiit/workload/change_file" >> logs
+    fi
+       
+
+
+    echo 0 > current_count
+    sed 's/set default=["]\([0-9]\)["]/set default="0"/' /boot/grub/grub.cfg -i
+    
+    fcount=$((fcount + 1))
+    echo $fcount > fcount
+
+    mkdir expr_data_whole_"$fcount"
+    echo "'" | sudo -S mv *setup*  expr_data_whole_"$fcount"
+    
+    if [[ $fcount == 6 ]];then 
+        
+        folder=`date +%y%m%d%H%M%S-results`
+        mkdir $folder
+        sudo cp -rf expr_data* $folder/
+
+	x=`cat next`
+        echo next is "$x" >> logs
+        mkdir C2_before_"$x"
+        sudo mv expr_data* C2_before_"$x"
+
+	if [[ $x == "ws" ]];then
+		if [[ $vms == 1 ]];then
+			./vm "echo 6 > /home/shubhamiit/workload/curr"
+			./vm "echo ws > /home/shubhamiit/workload/workload"
+                	./vm "/home/shubhamiit/workload/change_file" >> logs
+		fi
+
+		if [[ $vms == 2 ]];then
+			./vmc1 "echo 6 > /home/shubhamiit/workload/curr"
+			./vmc1 "echo ws > /home/shubhamiit/workload/workload"
+                	./vmc1 "/home/shubhamiit/workload/change_file" >> logs
+			./vmc2 "echo 6 > /home/shubhamiit/workload/curr"
+			./vmc2 "echo ws > /home/shubhamiit/workload/workload"
+                	./vmc2 "/home/shubhamiit/workload/change_file" >> logs
+		fi
+		
+
+		echo "fs" > next
+    		echo 0 > current_count
+    		sed 's/set default=["]\([0-9]\)["]/set default="0"/' /boot/grub/grub.cfg -i
+		echo 0 > fcount
+                
+                echo "going for sleep 120"
+                sleep 120
+    
+		if [[ $vm == 1 ]];then
+                	sudo xm destroy vm1
+		fi
+		if [[ $vm == 2]];then
+                	sudo xm destroy vm1
+			sudo xm destroy vm2
+		fi
+	
+                sudo reboot
+	fi
+	
+	if [[ $x == "fs" ]];then
+		
+		if [[ $vms == 1 ]];then
+			./vm "echo 6 > /home/shubhamiit/workload/curr"
+			./vm "echo fs > /home/shubhamiit/workload/workload"
+                	./vm "/home/shubhamiit/workload/change_file" >> logs
+		fi
+
+		if [[ $vms == 2 ]];then
+			./vmc1 "echo 6 > /home/shubhamiit/workload/curr"
+			./vmc1 "echo fs > /home/shubhamiit/workload/workload"
+                	./vmc1 "/home/shubhamiit/workload/change_file" >> logs
+			./vmc2 "echo 6 > /home/shubhamiit/workload/curr"
+			./vmc2 "echo fs > /home/shubhamiit/workload/workload"
+                	./vmc2 "/home/shubhamiit/workload/change_file" >> logs
+		fi
+		
+
+		rm next
+    		echo 0 > current_count
+    		sed 's/set default=["]\([0-9]\)["]/set default="0"/' /boot/grub/grub.cfg -i
+		echo 0 > fcount
+                
+                echo "going for sleep 120"
+                sleep 120
+		
+		if [[ $vm == 1 ]];then
+                	sudo xm destroy vm1
+		fi
+		if [[ $vm == 2]];then
+                	sudo xm destroy vm1
+			sudo xm destroy vm2
+		fi
+    
+                sudo reboot
+	fi
+
+        echo "going for sleep 120" >> logs
+        sleep 120
+	
+		if [[ $vm == 1 ]];then
+                	sudo xm destroy vm1
+		fi
+		if [[ $vm == 2]];then
+                	sudo xm destroy vm1
+			sudo xm destroy vm2
+		fi
+        exit 0;
+    fi
+    
+    echo "going for sleep 120"
+    sleep 120
+
+        if [[ $vm == 1 ]];then
+              	sudo xm destroy vm1
+	fi
+	if [[ $vm == 2]];then
+               	sudo xm destroy vm1
+		sudo xm destroy vm2
+	fi
+
+        
+    sudo reboot
+
+else
+    echo "Benchmark started" >> logs
+    date >> logs
+    echo "'" | sudo ./measure_data $curr  >> logs
+
+    echo $curr
+    curr=$((curr + 1))
+    echo $curr > current_count
+    date >> logs
+    echo "'" | sudo -S grub-reboot $curr >> logs
+
+fi
+
+
+
+echo "'" | sudo echo 'hi'
+
+date >> logs
+sudo grub-set-default $curr  >> logs
+
+sed 's/set default=["]\([0-9]\)["]/set default="'$curr'"/' /boot/grub/grub.cfg -i
+date >> logs
+echo going for sleep 120 before reboot >> logs
+sleep 120 
+date >> logs
+echo came from sleep and going to reboot >> logs
+sleep 5
+
+sudo reboot
+

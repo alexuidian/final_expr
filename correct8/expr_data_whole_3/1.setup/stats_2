@@ -1,0 +1,5 @@
+#Type:X;CI:2;ww:0;ca:0;co:1;fr:0;Type:X;CI:2;PI:0;PT:EP;U0:0;U1:0;Type:X;CI:2;PI:1;PT:EP;U0:0;U1:0;
+#time  Pp  gt  gs  cn  cm  cb  Nc  Pc  cp  Tc  Nm  pr  ps  pt  px  pd  Pm  Om  fs  ft  Oc  Em  Gp  Ec  Ge  ot  os  Total_cycles_diff  Successful_get_diff  Total_get_diff  succ_put_diff  total_put_diff  get_hit  
+1439264790  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+1439264800  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+1439264810  0  94  90  13  5  3922049  99  1623  1614  235057862  233  0  3428  3433  5  0  3428  353  0  83  50  3428  0  1623  90  3571  298  235057862  90  94  3428  3433  95.7446808511  

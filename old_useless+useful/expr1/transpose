@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# a script to convert space-separated row data into tab-separated column data 
+# behaviour similar to Matlab's rot90 function
+# @assume: the file is complete, i.e. NF is the same for each line
+ 
+cat $1 | awk 'BEGIN{}
+{ 
+    if (max_nf < NF){
+        max_nf = NF
+    }
+    max_nr = NR
+    for (x = 1; x <= NF; x++){
+        a[x, NR] = $x
+    } 
+}
+END{
+    for(i=1;i<=max_nf;i++){
+        for(j=1;j<=max_nr;j++){
+            printf("%s t",a[i,j]);
+        }
+        printf("n");
+    }
+}'

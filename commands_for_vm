@@ -1,0 +1,7 @@
+To_make vm boot from no_tmem
+
+sed 's/default[ \t]*\([0-9]\)/default\t0/' /boot/grub/menu.lst -i
+
+
+to_make vm boot from tmem
+sed 's/default[ \t]*\([0-9]\)/default\t1/' /boot/grub/menu.lst -i

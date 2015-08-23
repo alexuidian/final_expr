@@ -1,0 +1,18 @@
+start
+
+
+0
+3
+random seed: 808464433
+Filebench Version 1.4.9.1
+  457: 0.000: Allocated 170MB of shared memory
+  457: 0.044: Creating/pre-allocating files and filesets
+  457: 0.402: Fileset bigfileset: 2800 files, 0 leafdirs, avg dir width = 20, avg dir depth = 2.6, 664.474MB
+  457: 0.424: Removed any existing fileset bigfileset in 1 seconds
+  457: 0.424: making tree for filset /mnt/bigfileset
+  457: 0.842: Creating fileset bigfileset...
+
+
+ENDDELIMETER
+
+

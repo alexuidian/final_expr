@@ -1,0 +1,15 @@
+#! /bin/bash
+echo "'" | sudo -S xm dmesg | grep "Command line" > stats_boot_line
+echo "'" | sudo -S xm tmem-list -al > stats_tmem
+echo "'" | sudo -S xm info > stats_xen
+echo "'" | sudo -S xl tmem-list -ag > stats_list_get
+echo "'" | sudo -S xl tmem-list -ap > stats_list_put
+echo "'" | sudo -S xl tmem-list -af > stats_list_fget
+echo "'" | sudo -S xl tmem-list -aq > stats_list_fput
+echo "'" | sudo -S xl tmem-list -ac > stats_list_comp
+echo "'" | sudo -S xl tmem-list -ad > stats_list_dedup
+echo "'" | sudo -S xl tmem-list -ae > stats_list_fdedup
+echo "'" | sudo -S xl tmem-list -au > stats_list_decom
+
+
+mv stats* "$1"

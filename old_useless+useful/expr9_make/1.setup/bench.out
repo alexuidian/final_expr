@@ -1,0 +1,36 @@
+start
+
+
+Tue Jul 28 14:10:02 IST 2015
+  CLEAN   .
+  CLEAN   arch/x86/kernel/acpi/realmode
+  CLEAN   arch/x86/kernel/cpu
+  CLEAN   arch/x86/kernel
+  CLEAN   arch/x86/vdso
+  CLEAN   arch/x86/lib
+  CLEAN   drivers/tty/vt
+  CLEAN   firmware
+  CLEAN   kernel
+  CLEAN   lib
+  CLEAN   security/apparmor
+  CLEAN   security/selinux
+  CLEAN   usr
+  CLEAN   arch/x86/boot/compressed
+  CLEAN   arch/x86/boot
+  CLEAN   .tmp_versions
+  CLEAN   vmlinux System.map .tmp_kallsyms1.S .tmp_kallsyms1.o .tmp_kallsyms2.S .tmp_kallsyms2.o .tmp_vmlinux1 .tmp_vmlinux2 .tmp_System.map
+make started
+Tue Jul 28 14:10:40 IST 2015
+Tue Jul 28 14:22:46 IST 2015
+Tue Jul 28 14:25:59 IST 2015
+Tue Jul 28 14:29:34 IST 2015
+Tue Jul 28 14:32:56 IST 2015
+Tue Jul 28 14:36:04 IST 2015
+Tue Jul 28 14:39:28 IST 2015
+make ended
+Tue Jul 28 14:39:28 IST 2015
+
+
+ENDDELIMETER
+
+
