@@ -1,4 +1,4 @@
-/vm#!/bin/bash
+#!/bin/bash
 echo "'" | sudo echo hi
 date
 echo going for sleep 10
