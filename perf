@@ -28,9 +28,9 @@ if [[ $curr == 8 ]];then
     exit 0
 fi
 
-if [[ $curr == 7 ]];then
+if [[ $curr == 5 ]];then
     echo finish
-    echo "curr is 7 is it will end" >> logs    
+    echo "curr is 5 is it will end" >> logs    
     if [[ $vms == 1 ]];then
         sudo xm create vm1
     fi
