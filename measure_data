@@ -95,7 +95,7 @@ do
     sudo rm check_ok
     date
     if [[ $vms == 1 ]];then
-	./vm1 "echo hello;sleep 2;echo hello" > check_ok &
+	./vmc1 "echo hello;sleep 2;echo hello" > check_ok &
     	idc=`echo $!`
     	sleep 10
     	kill $idc

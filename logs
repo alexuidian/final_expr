@@ -5323,3 +5323,66 @@ Sun Aug 23 06:14:45 IST 2015
 going for sleep 120 before reboot
 Sun Aug 23 06:21:23 IST 2015
 going for sleep 40
+Sun Aug 23 06:24:45 IST 2015
+going for sleep 40
+Sun Aug 23 06:25:25 IST 2015
+came from sleep
+Sun Aug 23 06:25:25 IST 2015
+system started
+stupid things
+Vms are 1
+current count is 0
+fcount is 0
+Benchmark started
+Sun Aug 23 06:25:25 IST 2015
+hi
+Sun Aug 23 06:25:25 IST 2015
+going for sleep 10
+Sun Aug 23 06:25:35 IST 2015
+came from sleep
+Sun Aug 23 06:25:35 IST 2015
+system_is_nw_started_done
+Sun Aug 23 06:25:35 IST 2015
+id is 0
+Using config file "/etc/xen/vm1".
+Started domain vm1 (id=1)
+Sun Aug 23 06:25:39 IST 2015
+going for sleep 70
+Sun Aug 23 06:26:09 IST 2015
+came from sleep
+Sun Aug 23 06:26:09 IST 2015
+2332
+Sun Aug 23 06:26:09 IST 2015
+Sun Aug 23 06:26:19 IST 2015
+check_ok not found  bad found
+Sun Aug 23 06:26:19 IST 2015
+Sun Aug 23 06:26:29 IST 2015
+check_ok not found  bad found
+Sun Aug 23 06:26:29 IST 2015
+Sun Aug 23 06:26:39 IST 2015
+check_ok not found  bad found
+Sun Aug 23 06:26:39 IST 2015
+Sun Aug 23 06:26:49 IST 2015
+check_ok not found  bad found
+Sun Aug 23 06:26:49 IST 2015
+Sun Aug 23 06:26:59 IST 2015
+check_ok not found  bad found
+Sun Aug 23 06:26:59 IST 2015
+Sun Aug 23 06:27:09 IST 2015
+check_ok not found  bad found
+Sun Aug 23 06:27:09 IST 2015
+Sun Aug 23 06:27:19 IST 2015
+check_ok not found  bad found
+Sun Aug 23 06:27:19 IST 2015
+Sun Aug 23 06:27:29 IST 2015
+check_ok not found  bad found
+Sun Aug 23 06:27:29 IST 2015
+Sun Aug 23 06:27:39 IST 2015
+check_ok not found  bad found
+Sun Aug 23 06:27:39 IST 2015
+Sun Aug 23 06:27:49 IST 2015
+check_ok not found  bad found
+Sun Aug 23 06:27:49 IST 2015
+Sun Aug 23 06:27:59 IST 2015
+check_ok not found  bad found
+Sun Aug 23 06:27:59 IST 2015
