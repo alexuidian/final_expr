@@ -1,4 +1,4 @@
-#!/bin/bash
+/vm#!/bin/bash
 echo "'" | sudo echo hi
 date
 echo going for sleep 10
@@ -86,7 +86,7 @@ do
         	sudo xm create vm4
         fi
 
-        sleep 40
+        sleep 60
         
 
     fi
@@ -192,7 +192,7 @@ done
 date
 echo "start mybench"
 if [[ $vms == 1 ]];then
-	./vm "/home/shubhamiit/workload/perf_mybench" > bench.out
+	./vmc1 "/home/shubhamiit/workload/perf_mybench" > bench.out
 fi
 if [[ $vms == 2 ]];then
 
