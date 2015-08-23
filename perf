@@ -54,7 +54,7 @@ if [[ $curr == 7 ]];then
 
 
     if [[ $vms == 1 ]];then
-        echo "'" | sudo -S ./vm "/home/shubhamiit/workload/change_file" >> logs
+        echo "'" | sudo -S ./vm1 "/home/shubhamiit/workload/change_file" >> logs
     fi
 
     if [[ $vms == 2 ]];then
@@ -93,9 +93,9 @@ if [[ $curr == 7 ]];then
 
 	if [[ $x == "ws" ]];then
 		if [[ $vms == 1 ]];then
-			./vm "echo 0 > /home/shubhamiit/workload/curr"
-			./vm "echo ws > /home/shubhamiit/workload/workload"
-                	./vm "/home/shubhamiit/workload/change_file" >> logs
+			./vm1 "echo 0 > /home/shubhamiit/workload/curr"
+			./vm1 "echo ws > /home/shubhamiit/workload/workload"
+                	./vm1 "/home/shubhamiit/workload/change_file" >> logs
 		fi
 
 		if [[ $vms == 2 ]];then
@@ -160,9 +160,9 @@ if [[ $curr == 7 ]];then
 	if [[ $x == "fs" ]];then
 		
 		if [[ $vms == 1 ]];then
-			./vm "echo 0 > /home/shubhamiit/workload/curr"
-			./vm "echo fs > /home/shubhamiit/workload/workload"
-                	./vm "/home/shubhamiit/workload/change_file" >> logs
+			./vm1 "echo 0 > /home/shubhamiit/workload/curr"
+			./vm1 "echo fs > /home/shubhamiit/workload/workload"
+                	./vm1 "/home/shubhamiit/workload/change_file" >> logs
 		fi
 
 		if [[ $vms == 2 ]];then
