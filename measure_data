@@ -48,38 +48,33 @@ one=1
 while [[ $one == 1 ]]
 do
     offtime=$(( $offtime + 1 ))
-    if [[ $offtime == 30 ]];then
+    if [[ $offtime == 10 ]];then
         offtime=0
         sudo xm shutdown vm1
         sudo xm shutdown vm2
         sudo xm shutdown vm3
         sudo xm shutdown vm4
-        sleep 10
+        sleep 15
         sudo xm destroy vm1
         sudo xm destroy vm2
         sudo xm destroy vm3
         sudo xm destroy vm4
+                
+        sudo e2fsck -y /dev/vg_xen/vm1_disk
+        sudo e2fsck -y /dev/vg_xen/vm2_disk
+        sudo e2fsck -y /dev/vg_xen/vm3_disk
+        sudo e2fsck -y /dev/vg_xen/vm4_disk
 
         if [[ $vms == 1 ]];then
-                sudo e2fsck -y /dev/vg_xen/vm1_disk
-            
 	    sudo xm create vm1
         fi
 
         if [[ $vms == 2 ]];then
-                sudo e2fsck -y /dev/vg_xen/vm1_disk
-                sudo e2fsck -y /dev/vg_xen/vm2_disk
-                
         	sudo xm create vm1
         	sudo xm create vm2
         fi
 
         if [[ $vms == 4 ]];then
-                sudo e2fsck -y /dev/vg_xen/vm1_disk
-                sudo e2fsck -y /dev/vg_xen/vm2_disk
-                sudo e2fsck -y /dev/vg_xen/vm3_disk
-                sudo e2fsck -y /dev/vg_xen/vm4_disk
-                
         	sudo xm create vm1
         	sudo xm create vm2
         	sudo xm create vm3
@@ -88,70 +83,58 @@ do
 
         sleep 60
         
-
     fi
 
 
-    sudo rm check_ok
+    sudo rm check_ok*
+
     date
+    chdate=`date +%y%m%d%H%M%S`
     if [[ $vms == 1 ]];then
-	./vmc1 "echo hello;sleep 2;echo hello" > check_ok &
+        
+        
+	./vmc1 "touch /home/shubhamiit/check/$chdate; ls /home/shubhamiit/check/$chdate;rm /home/shubhamiit/check/$chdate" > check_ok1 &
     	idc=`echo $!`
     	sleep 10
     	kill $idc
-    	if [[ ! `cat check_ok` ]];then
-        	date
-       		echo "check_ok not found  bad found"
-       		continue
-    	else
-        	date
-        	echo "check ok , very good to start"
-        	break
+    	if [[ `cat check_ok1` ]];then
+                echo "okay to start"
+		break
     	fi
+        echo "not okay"
+	continue
     fi
 
     if [[ $vms == 2 ]];then
-	./vmc1 "echo hello;sleep 2;echo hello" > check_ok1 &
+	./vmc1 "touch /home/shubhamiit/check/$chdate; ls /home/shubhamiit/check/$chdate;rm /home/shubhamiit/check/$chdate" > check_ok1 &
     	idc1=`echo $!`
 	
-	./vmc2 "echo hello;sleep 2;echo hello" > check_ok2 &
+	./vmc2 "touch /home/shubhamiit/check/$chdate; ls /home/shubhamiit/check/$chdate;rm /home/shubhamiit/check/$chdate" > check_ok2 &
     	idc2=`echo $!`
 	
 	
     	sleep 10
     	kill $idc1
 	kill $idc2
-
-    	if [[ ! `cat check_ok1` ]];then
-        	date
-       		echo "check_ok not found  bad found"
-       		continue
-    	else
-        	date
-        	echo "check ok , very good to start1"
-
-		if [[ ! `cat check_ok2` ]];then
-			date
-			echo "check ok2 not found, bad to start"
-			continue
+    	if [[ `cat check_ok1` ]];then
+		if [[ `cat check_ok2` ]];then
+                    echo "okay to start"
+		    break
 		fi
-        	
-		echo "check ok , very good to start2"
-        	break
     	fi
+        echo "not okay"
+	continue
+
     fi
 
     if [[ $vms == 4 ]];then
-	./vmc1 "echo hello;sleep 2;echo hello" > check_ok1 &
-    	idc1=`echo $!`
-	
-	./vmc2 "echo hello;sleep 2;echo hello" > check_ok2 &
+	./vmc1 "touch /home/shubhamiit/check/$chdate; ls /home/shubhamiit/check/$chdate;rm /home/shubhamiit/check/$chdate" > check_ok1 &
+    	idc1=`echo $!`	
+	./vmc2 "touch /home/shubhamiit/check/$chdate; ls /home/shubhamiit/check/$chdate;rm /home/shubhamiit/check/$chdate" > check_ok2 &
     	idc2=`echo $!`
-	
-	./vmc3 "echo hello;sleep 2;echo hello" > check_ok3 &
+	./vmc3 "touch /home/shubhamiit/check/$chdate; ls /home/shubhamiit/check/$chdate;rm /home/shubhamiit/check/$chdate" > check_ok3 &
     	idc3=`echo $!`
-	
-	./vmc4 "echo hello;sleep 2;echo hello" > check_ok4 &
+	./vmc4 "touch /home/shubhamiit/check/$chdate; ls /home/shubhamiit/check/$chdate;rm /home/shubhamiit/check/$chdate" > check_ok4 &
     	idc4=`echo $!`
 	
     #grep -P "\sro[\s,]" /proc/mounts
@@ -192,7 +175,7 @@ done
 date
 echo "start mybench"
 if [[ $vms == 1 ]];then
-	./vmc1 "/home/shubhamiit/workload/perf_mybench" > bench.out
+	./vmc1 "/home/shubhamiit/workload/perf_mybench" > bench.out1
 fi
 if [[ $vms == 2 ]];then
 
@@ -202,8 +185,6 @@ if [[ $vms == 2 ]];then
         idvmc2=$! &
         wait $idvmc1 $idvmc2
         
-#	./vmc1 "/home/shubhamiit/workload/perf_mybench" > bench.out1  & ./vmc2 "/home/shubhamiit/workload/perf_mybench" > bench.out2  && fg
-
         echo "mybench finished"
         
 fi
@@ -256,7 +237,7 @@ sudo xm shutdown vm1
 sudo xm shutdown vm2
 sudo xm shutdown vm3
 sudo xm shutdown vm4
-sleep 10
+sleep 15
 sudo xm destroy vm1
 sudo xm destroy vm2
 sudo xm destroy vm3
