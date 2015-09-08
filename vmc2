@@ -41,6 +41,7 @@ def main():
                         ls.append(each)
         str1="arp -n | grep -i 00:16:3E:A7:53:19 | awk '{print $1}'"
         (status,output)=commands.getstatusoutput(str1)
+        print output
         ip=output
         run_on_guest(ls,ip)
 

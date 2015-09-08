@@ -1,0 +1,7 @@
+#! /bin/bash
+
+echo "'" | sudo -S echo "Killing Benchmark"
+
+sudo killall perf
+sudo killall measure_data
+sudo killall parse_tmem_stats.py
