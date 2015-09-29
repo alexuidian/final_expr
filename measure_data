@@ -34,19 +34,27 @@ echo $id
 
 date
 echo "start mybench"
+echo `date` "Is start time"
 if [[ $vms == 1 ]];then
-	./vmc1 "/home/shubhamiit/workload/perf_mybench" > bench.out1
+         date > bench.out1
+	./vmc1 "/home/shubhamiit/workload/perf_mybench" >> bench.out1
+         date >> bench.out1
 fi
 if [[ $vms == 2 ]];then
         
-	./vmc1 "/home/shubhamiit/workload/perf_mybench" > bench.out1  &
+         date > bench.out1
+         date > bench.out2
+	./vmc1 "/home/shubhamiit/workload/perf_mybench" >> bench.out1  &
         idvmc1=$! 
-        ./vmc2 "/home/shubhamiit/workload/perf_mybench" > bench.out2  &
+        ./vmc2 "/home/shubhamiit/workload/perf_mybench" >> bench.out2  &
         idvmc2=$! 
 
         echo $idvmc1 $idvmc2 
 
-        wait $idvmc1 $idvmc2 
+        wait $idvmc1 $idvmc2
+        
+         date >> bench.out1
+         date >> bench.out2
 
         
 
@@ -55,20 +63,33 @@ if [[ $vms == 2 ]];then
 fi
 
 if [[ $vms == 4 ]];then
+        date > bench.out1
+        
+         date > bench.out2
+         date > bench.out3
+         date > bench.out4
 
-	./vmc1 "/home/shubhamiit/workload/perf_mybench" > bench.out1  &
+	./vmc1 "/home/shubhamiit/workload/perf_mybench" >> bench.out1  &
         idvmc1=$!
-        ./vmc2 "/home/shubhamiit/workload/perf_mybench" > bench.out2  &
+        ./vmc2 "/home/shubhamiit/workload/perf_mybench" >> bench.out2  &
         idvmc2=$!
-	./vmc3 "/home/shubhamiit/workload/perf_mybench" > bench.out3  &
+	./vmc3 "/home/shubhamiit/workload/perf_mybench" >> bench.out3  &
         idvmc3=$!
-        ./vmc4 "/home/shubhamiit/workload/perf_mybench" > bench.out4  &
+        ./vmc4 "/home/shubhamiit/workload/perf_mybench" >> bench.out4  &
         idvmc4=$!
+        echo $idvmc1 $idvmc2 $idvmc3 $idvmc4
         wait $idvmc1 $idvmc2 $idvmc3 $idvmc4
+        
+        
+         date >> bench.out1
+         date >> bench.out2
+         date >> bench.out3
+         date >> bench.out4
 
         echo "mybench finished"
         
 fi
+echo `date` "Is end time"
 
 date
 

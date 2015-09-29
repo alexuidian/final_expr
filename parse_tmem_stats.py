@@ -232,7 +232,7 @@ def main():
 			f.close()
 
 						
-		time.sleep(10)
+		time.sleep(0.5)
                 
 		total_dict_old=copy.deepcopy(total_dict)
                 del total_dict

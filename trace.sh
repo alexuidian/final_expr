@@ -9,6 +9,6 @@ a=1
 
 while [ $a ]
 do
-    sleep 1
+    sleep 0.5
     sudo xm tmem-list -al > tmem-stats
 done  

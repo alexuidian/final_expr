@@ -32,22 +32,29 @@ fi
 
 vms=`cat VMS`
 if [[ $vms == 1 ]];then
-        sudo xm create vm1
+        sudo xm create vm1 >> logs
 fi
 if [[ $vms == 2 ]];then
-        sudo xm create vm1
-        sudo xm create vm2
-        sudo xm tmem-set --all weight=50
+        sudo xm create vm1   >> logs
+        sleep 20
+        sudo xm create vm2  >> logs
+
 fi
 if [[ $vms == 4 ]];then
-        sudo xm create vm1
-        sudo xm create vm2
-        sudo xm create vm3
-        sudo xm create vm4
-        sudo xm tmem-set --all weight=25
+        sudo xm create vm1   >> logs  
+        sleep 20
+        sudo xm create vm2  >> logs  
+        sleep 20
+        sudo xm create vm3  >> logs  
+        sleep 20
+        sudo xm create vm4  >> logs  
                 
 fi
-sleep 20
+date >> logs
+echo going to sleep 20 >> logs
+sleep 60 
+echo going for checking >> logs
+date >> logs
 offtime=0
 one=1
 while [[ $one == 1 ]]
@@ -55,41 +62,43 @@ do
     offtime=$(( $offtime + 1 ))
     if [[ $offtime == 5 ]];then
         offtime=0
-        sudo xm shutdown vm1
-        sudo xm shutdown vm2
-        sudo xm shutdown vm3
-        sudo xm shutdown vm4
+        sudo xm shutdown vm1    >> logs  
+        sudo xm shutdown vm2  >> logs  
+        sudo xm shutdown vm3  >> logs  
+        sudo xm shutdown vm4  >> logs  
         sleep 25
-        sudo xm destroy vm1
-        sudo xm destroy vm2
-        sudo xm destroy vm3
-        sudo xm destroy vm4
+        sudo xm destroy vm1  >> logs  
+        sudo xm destroy vm2  >> logs  
+        sudo xm destroy vm3  >> logs  
+        sudo xm destroy vm4  >> logs  
                 
-        sudo e2fsck -y /dev/vg_xen/vm1_disk
-        sudo e2fsck -y /dev/vg_xen/vm2_disk
-        sudo e2fsck -y /dev/vg_xen/vm3_disk
-        sudo e2fsck -y /dev/vg_xen/vm4_disk
-        sudo e2fsck -y /dev/vg_xen/vm1_disk
-        sudo e2fsck -y /dev/vg_xen/vm2_disk
-        sudo e2fsck -y /dev/vg_xen/vm3_disk
-        sudo e2fsck -y /dev/vg_xen/vm4_disk
+        sudo e2fsck -y /dev/vg_xen/vm1_disk   >> logs  
+        sudo e2fsck -y /dev/vg_xen/vm2_disk  >> logs  
+        sudo e2fsck -y /dev/vg_xen/vm3_disk  >> logs  
+        sudo e2fsck -y /dev/vg_xen/vm4_disk  >> logs  
+        sudo e2fsck -y /dev/vg_xen/vm1_disk  >> logs  
+        sudo e2fsck -y /dev/vg_xen/vm2_disk  >> logs  
+        sudo e2fsck -y /dev/vg_xen/vm3_disk  >> logs  
+        sudo e2fsck -y /dev/vg_xen/vm4_disk  >> logs  
 
         if [[ $vms == 1 ]];then
-        sudo xm create vm1
+        sudo xm create vm1  >> logs  
         fi
 
         if [[ $vms == 2 ]];then
-            sudo xm create vm1
-            sudo xm create vm2
-                sudo xm tmem-set --all weight=50
+            sudo xm create vm1  >> logs  
+        sleep 20
+            sudo xm create vm2  >> logs  
         fi
 
         if [[ $vms == 4 ]];then
-            sudo xm create vm1
-            sudo xm create vm2
-            sudo xm create vm3
-            sudo xm create vm4
-                sudo xm tmem-set --all weight=25
+            sudo xm create vm1  >> logs  
+        sleep 20
+            sudo xm create vm2  >> logs  
+        sleep 20
+            sudo xm create vm3  >> logs  
+        sleep 20
+            sudo xm create vm4  >> logs  
         fi
 
         sleep 60
@@ -109,10 +118,10 @@ do
         sleep 10
         kill $idc
         if [[ `cat check_ok1` ]];then
-                echo "okay to start"
+                echo "okay to start" >> logs
         break
         fi
-        echo "not okay"
+        echo "not okay" >> logs
     continue
     fi
 
@@ -129,11 +138,11 @@ do
     kill $idc2
         if [[ `cat check_ok1` ]];then
         if [[ `cat check_ok2` ]];then
-                    echo "okay to start"
+                    echo "okay to start" >> logs
             break
         fi
         fi
-        echo "not okay"
+        echo "not okay" >> logs
     continue
 
     fi
@@ -159,19 +168,28 @@ do
         if [[ `cat check_ok2` ]];then
             if [[ `cat check_ok3` ]];then
                 if [[ `cat check_ok4` ]];then
-                                        echo "okay to start"
+                                        echo "okay to start"  >> logs
                     break
                 fi
             fi
         fi
         fi
-        echo "not okay"
+        echo "not okay" >> logs
     continue
     fi
 
 done
+        
+        if [[ $vms == 2 ]];then
+                sudo xm tmem-set --all weight=50  >> logs  
+        fi
+
+        if [[ $vms == 4 ]];then
+                sudo xm tmem-set --all weight=25  >> logs  
+        fi
 
 ##########################
+
 
 
 target=7
@@ -179,6 +197,8 @@ target=7
 if [[ $fcount -gt 2 ]];then
     target=3
 fi
+
+#target=1 #**************************************************************************************************Just for one webserver experiment
 
 #if [[ $curr == 7 ]];then
 if [[ $curr == $target ]];then
@@ -219,8 +239,9 @@ if [[ $curr == $target ]];then
     mkdir expr_data_whole_"$fcount"
     echo "'" | sudo -S mv *setup*  expr_data_whole_"$fcount"
     
-   # if [[ $fcount == 6 ]];then 
-    if [[ $fcount == 12 ]];then 
+   # if [[ $fcount == 12 ]];then 
+    if [[ $fcount == 1 ]];then 
+   # if [[ $fcount == 3 ]];then 
         
         folder=`date +%y%m%d%H%M%S-results`
         mkdir $folder
